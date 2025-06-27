@@ -486,21 +486,10 @@ def main():
     finally:
         # Only ask about cleanup if download was successful
         if result_df is not None and len(result_df) > 0:
-            cleanup = input("\nDo you want to remove temporary batch files? (y/n): ")
-            if cleanup.lower() == 'y':
-                downloader.cleanup_batch_files()
-                print("Batch files cleaned up.")
-            else:
-                print("Batch files retained for inspection.")
-                print("="*80)
-
-        # Optional: clean up batch files
-        cleanup = input("\nDo you want to remove temporary batch files? (y/n): ")
-        if cleanup.lower() == 'y':
             downloader.cleanup_batch_files()
             print("Batch files cleaned up.")
-        else:
-            print("Batch files retained for inspection.")
+
+
 
 if __name__ == "__main__":
     print("DTN IQFeed Symbol Downloader (Enhanced with Retry & Resume)")
