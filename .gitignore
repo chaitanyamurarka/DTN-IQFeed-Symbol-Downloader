@@ -9,13 +9,6 @@ venv/
 ENV/
 .venv
 
-# Symbol data
-dtn_symbols/
-*.csv
-*.csv.gz
-*.zip
-download_state.json
-
 # IDE
 .vscode/
 .idea/
