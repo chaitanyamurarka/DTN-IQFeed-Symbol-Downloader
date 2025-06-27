@@ -26,8 +26,17 @@ jobs:
     timeout-minutes: 120  # 2 hours timeout
     
     steps:
+    # MODIFIED: Install Git LFS first
+    - name: Install Git LFS
+      run: |
+        sudo apt-get update
+        sudo apt-get install git-lfs
+
+    # MODIFIED: Add lfs: true to the checkout step
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        lfs: true
     
     - name: Set up Python
       uses: actions/setup-python@v5
@@ -82,10 +91,11 @@ jobs:
           echo "download_success=false" >> $GITHUB_OUTPUT
         fi
 
-    # NEW: Add steps to commit the file to the repository
     - name: Commit and push if file exists
       if: steps.download.outputs.download_success == 'true'
       run: |
+        git lfs track "dtn_symbols/*.csv" # Ensure LFS is tracking the file
+        git add .gitattributes
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
         git add dtn_symbols/all_symbols_latest.csv
