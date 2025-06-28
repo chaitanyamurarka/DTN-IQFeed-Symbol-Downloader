@@ -322,10 +322,10 @@ class DTNCorrectAPIDownloader:
             logger.info(f"Final unique symbol count: {len(combined_df):,}")
             
             # Save final combined file
-            timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-            final_file = os.path.join(self.output_dir, f"all_symbols_{timestamp}.csv")
-            combined_df.to_csv(final_file, index=False)
-            logger.info(f"\nSaved to: {final_file}")
+            # timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+            # final_file = os.path.join(self.output_dir, f"all_symbols_{timestamp}.csv")
+            # combined_df.to_csv(final_file, index=False)
+            # logger.info(f"\nSaved to: {final_file}")
             
             # Also save as latest
             latest_file = os.path.join(self.output_dir, "all_symbols_latest.csv")
