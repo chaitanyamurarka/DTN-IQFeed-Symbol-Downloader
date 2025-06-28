@@ -94,11 +94,14 @@ jobs:
     - name: Commit and push if file exists
       if: steps.download.outputs.download_success == 'true'
       run: |
-        git lfs track "dtn_symbols/*.csv" # Ensure LFS is tracking the file
+        git lfs track "dtn_symbols/*.csv"
         git add .gitattributes
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add dtn_symbols/all_symbols_latest.csv
+        
+        # Correctly add all new and changed files in the directory
+        git add dtn_symbols/
+        
         git commit -m "Automated symbol download: $(date)" || echo "No changes to commit"
         git push
 
