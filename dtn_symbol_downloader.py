@@ -357,6 +357,30 @@ class DTNCorrectAPIDownloader:
                     pass
         logger.info("Cleanup complete")
 
+def split_symbols_by_exchange_and_type(self, dataframe):
+    """Splits the symbols into files by exchange and security type"""
+    if dataframe is None or 'exchange' not in dataframe.columns or 'securityType' not in dataframe.columns:
+        logger.warning("DataFrame is missing 'exchange' or 'securityType' columns. Skipping split.")
+        return
+
+    split_output_dir = os.path.join(self.output_dir, "by_exchange")
+    os.makedirs(split_output_dir, exist_ok=True)
+    logger.info(f"Splitting symbols into {split_output_dir}")
+
+    grouped_by_exchange = dataframe.groupby('exchange')
+
+    for exchange, exchange_group in grouped_by_exchange:
+        exchange_dir = os.path.join(split_output_dir, str(exchange))
+        os.makedirs(exchange_dir, exist_ok=True)
+
+        grouped_by_type = exchange_group.groupby('securityType')
+
+        for sec_type, type_group in grouped_by_type:
+            file_name = f"{sec_type}.csv"
+            file_path = os.path.join(exchange_dir, file_name)
+            type_group.to_csv(file_path, index=False)
+            logger.info(f"Saved {len(type_group)} symbols to {file_path}")
+
 def main():
     """Main function"""
     import argparse
@@ -411,6 +435,13 @@ def main():
             display_cols = [col for col in sample_cols if col in result_df.columns]
             print(result_df[display_cols].head(10).to_string(index=False))
             
+            # *** ADD THIS PART ***
+            print(f"\nSPLITTING SYMBOLS:")
+            print(f"-" * 40)
+            downloader.split_symbols_by_exchange_and_type(result_df)
+            print(f"Splitting complete.")
+            # *** END OF ADDED PART ***
+
             # File information
             print(f"\nFILE INFORMATION:")
             print(f"-" * 40)

@@ -108,6 +108,16 @@ jobs:
         cd dtn_symbols
         gzip -k all_symbols_latest.csv
         zip all_symbols_latest.zip all_symbols_latest.csv
+
+    - name: Compress split symbols directory
+      if: steps.download.outputs.download_success == 'true'
+      run: |
+        if [ -d "dtn_symbols/by_exchange" ]; then
+          echo "Compressing split symbol files..."
+          zip -r dtn_symbols/by_exchange.zip dtn_symbols/by_exchange
+        else
+          echo "Split symbol directory not found, skipping compression."
+        fi
     
     - name: Generate summary report
       if: steps.download.outputs.download_success == 'true'
@@ -157,6 +167,7 @@ jobs:
         path: |
           dtn_symbols/all_symbols_latest.csv.gz
           dtn_symbols/all_symbols_latest.zip
+          dtn_symbols/by_exchange.zip
           dtn_symbols/download_stats.json
           dtn_symbols/SUMMARY.md
         retention-days: 7
