@@ -1,0 +1,1855 @@
+symbol,description,exchange,listedMarket,securityType
+BCNBA.X,"1,900 TEU Bangkokmax CV, New Building $ mil",BALTIC,BALTIC,GENERICRPT
+EC23.X,"10,000mt Easy chems Middle East Gulf to China $/mt",BALTIC,BALTIC,GENERICRPT
+EC22.X,"10,000mt Easy chems Middle East Gulf to West Coast India $/mt",BALTIC,BALTIC,GENERICRPT
+EC34.X,"10,000mt Easy chems US Gulf to Far East $/mt",BALTIC,BALTIC,GENERICRPT
+LNG1Y.X,"12 Month Time Charter, LNG Carrier $/day",BALTIC,BALTIC,GENERICRPT
+BDT27.X,130K Guyana to ARA Worldscale,BALTIC,BALTIC,GENERICRPT
+BDT20XS.X,130K West Africa to UK-Continent (EU ETS Exclusive) $ $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20XSBALMO.X,130K West Africa to UK-Continent (EU ETS Exclusive) $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20XSM0.X,130K West Africa to UK-Continent (EU ETS Exclusive) $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20XSM1.X,130K West Africa to UK-Continent (EU ETS Exclusive) $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20XSM2.X,130K West Africa to UK-Continent (EU ETS Exclusive) $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20XSM3.X,130K West Africa to UK-Continent (EU ETS Exclusive) $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20XSM4.X,130K West Africa to UK-Continent (EU ETS Exclusive) $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20XSM5.X,130K West Africa to UK-Continent (EU ETS Exclusive) $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20XSQ0.X,130K West Africa to UK-Continent (EU ETS Exclusive) $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20XSQ1.X,130K West Africa to UK-Continent (EU ETS Exclusive) $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20XSQ2.X,130K West Africa to UK-Continent (EU ETS Exclusive) $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20XSQ3.X,130K West Africa to UK-Continent (EU ETS Exclusive) $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20SBALMO.X,130K West Africa to UK-Continent $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20SM0.X,130K West Africa to UK-Continent $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20SM1.X,130K West Africa to UK-Continent $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20SM2.X,130K West Africa to UK-Continent $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20SM3.X,130K West Africa to UK-Continent $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20SM4.X,130K West Africa to UK-Continent $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20SM5.X,130K West Africa to UK-Continent $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20SQ0.X,130K West Africa to UK-Continent $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20SQ1.X,130K West Africa to UK-Continent $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20SQ2.X,130K West Africa to UK-Continent $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20SQ3.X,130K West Africa to UK-Continent $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20SQ4.X,130K West Africa to UK-Continent $ Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20SQ5.X,130K West Africa to UK-Continent $ Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20SYR1.X,130K West Africa to UK-Continent $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20SYR2.X,130K West Africa to UK-Continent $ Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20SYR3.X,130K West Africa to UK-Continent $ Cur Year+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20BALMO.X,130K West Africa to UK-Continent BALMO WS,BALTIC,BALTIC,GENERICRPT
+BDT20M0.X,130K West Africa to UK-Continent Cur Month WS,BALTIC,BALTIC,GENERICRPT
+BDT20M1.X,130K West Africa to UK-Continent Cur Month+1 WS,BALTIC,BALTIC,GENERICRPT
+BDT20M2.X,130K West Africa to UK-Continent Cur Month+2 WS,BALTIC,BALTIC,GENERICRPT
+BDT20M3.X,130K West Africa to UK-Continent Cur Month+3 WS,BALTIC,BALTIC,GENERICRPT
+BDT20M4.X,130K West Africa to UK-Continent Cur Month+4 WS,BALTIC,BALTIC,GENERICRPT
+BDT20M5.X,130K West Africa to UK-Continent Cur Month+5 WS,BALTIC,BALTIC,GENERICRPT
+BDT20Q0.X,130K West Africa to UK-Continent Cur Qtr WS,BALTIC,BALTIC,GENERICRPT
+BDT20Q1.X,130K West Africa to UK-Continent Cur Qtr+1 WS,BALTIC,BALTIC,GENERICRPT
+BDT20Q2.X,130K West Africa to UK-Continent Cur Qtr+2 WS,BALTIC,BALTIC,GENERICRPT
+BDT20Q3.X,130K West Africa to UK-Continent Cur Qtr+3 WS,BALTIC,BALTIC,GENERICRPT
+BDT20W0.X,130K West Africa to UK-Continent Cur Week $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20W1.X,130K West Africa to UK-Continent Cur Week+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20W2.X,130K West Africa to UK-Continent Cur Week+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20W3.X,130K West Africa to UK-Continent Cur Week+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20W4.X,130K West Africa to UK-Continent Cur Week+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20W5.X,130K West Africa to UK-Continent Cur Week+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT20.X,130K West Africa to UK-Continent Worldscale,BALTIC,BALTIC,GENERICRPT
+BDT6.X,135K Black Sea to Mediterranean Worldscale,BALTIC,BALTIC,GENERICRPT
+BDT23.X,140K Middle East Gulf to Mediterranean Worldscale,BALTIC,BALTIC,GENERICRPT
+FCNBA.X,"2,700 TEU Feeder CV, New Building $ mil",BALTIC,BALTIC,GENERICRPT
+BDT15.X,260K West Africa to China Worldscale,BALTIC,BALTIC,GENERICRPT
+BDT2.X,270K Middle East Gulf to Singapore Worldscale,BALTIC,BALTIC,GENERICRPT
+BDT22.X,270K US Gulf to China $,BALTIC,BALTIC,GENERICRPT
+BDT22SBALMO.X,270K US Gulf to China $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22SM0.X,270K US Gulf to China $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22SM1.X,270K US Gulf to China $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22SM2.X,270K US Gulf to China $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22SM3.X,270K US Gulf to China $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22SM4.X,270K US Gulf to China $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22SM5.X,270K US Gulf to China $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22SQ0.X,270K US Gulf to China $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22SQ1.X,270K US Gulf to China $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22SQ2.X,270K US Gulf to China $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22SQ3.X,270K US Gulf to China $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22SQ4.X,270K US Gulf to China $ Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22SQ5.X,270K US Gulf to China $ Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22SYR1.X,270K US Gulf to China $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22SYR2.X,270K US Gulf to China $ Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22W0.X,270K US Gulf to China Cur Week $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22W1.X,270K US Gulf to China Cur Week+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22W2.X,270K US Gulf to China Cur Week+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22W3.X,270K US Gulf to China Cur Week+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22W4.X,270K US Gulf to China Cur Week+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT22W5.X,270K US Gulf to China Cur Week+5 $/mt,BALTIC,BALTIC,GENERICRPT
+LNG3Y.X,"3 Year Time Charter, LNG Carrier $/day",BALTIC,BALTIC,GENERICRPT
+BCT6XS.X,30K Algeria to European Mediterranean (EU ETS Exclusive) $ $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6XSBALMO.X,30K Algeria to European Mediterranean (EU ETS Exclusive) $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6XSM0.X,30K Algeria to European Mediterranean (EU ETS Exclusive) $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6XSM1.X,30K Algeria to European Mediterranean (EU ETS Exclusive) $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6XSM2.X,30K Algeria to European Mediterranean (EU ETS Exclusive) $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6XSM3.X,30K Algeria to European Mediterranean (EU ETS Exclusive) $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6XSM4.X,30K Algeria to European Mediterranean (EU ETS Exclusive) $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6XSM5.X,30K Algeria to European Mediterranean (EU ETS Exclusive) $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6XSQ0.X,30K Algeria to European Mediterranean (EU ETS Exclusive) $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6XSQ1.X,30K Algeria to European Mediterranean (EU ETS Exclusive) $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6XSQ2.X,30K Algeria to European Mediterranean (EU ETS Exclusive) $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6XSQ3.X,30K Algeria to European Mediterranean (EU ETS Exclusive) $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6SBALMO.X,30K Algeria to European Mediterranean $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6SM0.X,30K Algeria to European Mediterranean $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6SM1.X,30K Algeria to European Mediterranean $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6SM2.X,30K Algeria to European Mediterranean $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6SM3.X,30K Algeria to European Mediterranean $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6SM4.X,30K Algeria to European Mediterranean $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6SM5.X,30K Algeria to European Mediterranean $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6SQ0.X,30K Algeria to European Mediterranean $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6SQ1.X,30K Algeria to European Mediterranean $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6SQ2.X,30K Algeria to European Mediterranean $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6SQ3.X,30K Algeria to European Mediterranean $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6SQ4.X,30K Algeria to European Mediterranean $ Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6SQ5.X,30K Algeria to European Mediterranean $ Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6SYR1.X,30K Algeria to European Mediterranean $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6SYR2.X,30K Algeria to European Mediterranean $ Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT6BALMO.X,30K Algeria to European Mediterranean BALMO WS,BALTIC,BALTIC,GENERICRPT
+BCT6M0.X,30K Algeria to European Mediterranean Cur Month WS,BALTIC,BALTIC,GENERICRPT
+BCT6M1.X,30K Algeria to European Mediterranean Cur Month+1 WS,BALTIC,BALTIC,GENERICRPT
+BCT6M2.X,30K Algeria to European Mediterranean Cur Month+2 WS,BALTIC,BALTIC,GENERICRPT
+BCT6M3.X,30K Algeria to European Mediterranean Cur Month+3 WS,BALTIC,BALTIC,GENERICRPT
+BCT6M4.X,30K Algeria to European Mediterranean Cur Month+4 WS,BALTIC,BALTIC,GENERICRPT
+BCT6M5.X,30K Algeria to European Mediterranean Cur Month+5 WS,BALTIC,BALTIC,GENERICRPT
+BCT6Q0.X,30K Algeria to European Mediterranean Cur Qtr WS,BALTIC,BALTIC,GENERICRPT
+BCT6Q1.X,30K Algeria to European Mediterranean Cur Qtr+1 WS,BALTIC,BALTIC,GENERICRPT
+BCT6Q2.X,30K Algeria to European Mediterranean Cur Qtr+2 WS,BALTIC,BALTIC,GENERICRPT
+BCT6Q3.X,30K Algeria to European Mediterranean Cur Qtr+3 WS,BALTIC,BALTIC,GENERICRPT
+BCT6.X,30K Algeria to European Mediterranean Worldscale,BALTIC,BALTIC,GENERICRPT
+BCT23SBALMO.X,30k ARA - UK-Continent $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BCT23SM0.X,30k ARA - UK-Continent $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BCT23SM1.X,30k ARA - UK-Continent $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT23SM2.X,30k ARA - UK-Continent $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT23SM3.X,30k ARA - UK-Continent $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT23SM4.X,30k ARA - UK-Continent $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT23SM5.X,30k ARA - UK-Continent $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT23SQ0.X,30k ARA - UK-Continent $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BCT23SQ1.X,30k ARA - UK-Continent $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT23SQ2.X,30k ARA - UK-Continent $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT23SQ3.X,30k ARA - UK-Continent $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT23SQ4.X,30k ARA - UK-Continent $ Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT23SQ5.X,30k ARA - UK-Continent $ Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT23SYR1.X,30k ARA - UK-Continent $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT23SYR2.X,30k ARA - UK-Continent $ Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT23BALMO.X,30k ARA - UK-Continent BALMO WS,BALTIC,BALTIC,GENERICRPT
+BCT23M0.X,30k ARA - UK-Continent Cur Month WS,BALTIC,BALTIC,GENERICRPT
+BCT23M1.X,30k ARA - UK-Continent Cur Month+1 WS,BALTIC,BALTIC,GENERICRPT
+BCT23M2.X,30k ARA - UK-Continent Cur Month+2 WS,BALTIC,BALTIC,GENERICRPT
+BCT23M3.X,30k ARA - UK-Continent Cur Month+3 WS,BALTIC,BALTIC,GENERICRPT
+BCT23M4.X,30k ARA - UK-Continent Cur Month+4 WS,BALTIC,BALTIC,GENERICRPT
+BCT23M5.X,30k ARA - UK-Continent Cur Month+5 WS,BALTIC,BALTIC,GENERICRPT
+BCT23Q0.X,30k ARA - UK-Continent Cur Qtr WS,BALTIC,BALTIC,GENERICRPT
+BCT23Q1.X,30k ARA - UK-Continent Cur Qtr+1 WS,BALTIC,BALTIC,GENERICRPT
+BCT23Q2.X,30k ARA - UK-Continent Cur Qtr+2 WS,BALTIC,BALTIC,GENERICRPT
+BCT23Q3.X,30k ARA - UK-Continent Cur Qtr+3 WS,BALTIC,BALTIC,GENERICRPT
+BCT23.X,30k ARA - UK-Continent Worldscale,BALTIC,BALTIC,GENERICRPT
+BDT18.X,30K Baltic to UK-Continent Worldscale,BALTIC,BALTIC,GENERICRPT
+BCT17SBALMO.X,35K Middle East Gulf to East Africa $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17SM0.X,35K Middle East Gulf to East Africa $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17SM1.X,35K Middle East Gulf to East Africa $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17SM2.X,35K Middle East Gulf to East Africa $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17SM3.X,35K Middle East Gulf to East Africa $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17SM4.X,35K Middle East Gulf to East Africa $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17SM5.X,35K Middle East Gulf to East Africa $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17SQ0.X,35K Middle East Gulf to East Africa $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17SQ1.X,35K Middle East Gulf to East Africa $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17SQ2.X,35K Middle East Gulf to East Africa $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17SQ3.X,35K Middle East Gulf to East Africa $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17SQ4.X,35K Middle East Gulf to East Africa $ Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17SQ5.X,35K Middle East Gulf to East Africa $ Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17SYR1.X,35K Middle East Gulf to East Africa $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17SYR2.X,35K Middle East Gulf to East Africa $ Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17BALMO.X,35K Middle East Gulf to East Africa BALMO WS,BALTIC,BALTIC,GENERICRPT
+BCT17M0.X,35K Middle East Gulf to East Africa Cur Month WS,BALTIC,BALTIC,GENERICRPT
+BCT17M1.X,35K Middle East Gulf to East Africa Cur Month+1 WS,BALTIC,BALTIC,GENERICRPT
+BCT17M2.X,35K Middle East Gulf to East Africa Cur Month+2 WS,BALTIC,BALTIC,GENERICRPT
+BCT17M3.X,35K Middle East Gulf to East Africa Cur Month+3 WS,BALTIC,BALTIC,GENERICRPT
+BCT17M4.X,35K Middle East Gulf to East Africa Cur Month+4 WS,BALTIC,BALTIC,GENERICRPT
+BCT17M5.X,35K Middle East Gulf to East Africa Cur Month+5 WS,BALTIC,BALTIC,GENERICRPT
+BCT17Q0.X,35K Middle East Gulf to East Africa Cur Qtr WS,BALTIC,BALTIC,GENERICRPT
+BCT17Q1.X,35K Middle East Gulf to East Africa Cur Qtr+1 WS,BALTIC,BALTIC,GENERICRPT
+BCT17Q2.X,35K Middle East Gulf to East Africa Cur Qtr+2 WS,BALTIC,BALTIC,GENERICRPT
+BCT17Q3.X,35K Middle East Gulf to East Africa Cur Qtr+3 WS,BALTIC,BALTIC,GENERICRPT
+BCT17W0.X,35K Middle East Gulf to East Africa Cur Week $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17W1.X,35K Middle East Gulf to East Africa Cur Week+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17W2.X,35K Middle East Gulf to East Africa Cur Week+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17W3.X,35K Middle East Gulf to East Africa Cur Week+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17W4.X,35K Middle East Gulf to East Africa Cur Week+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17W5.X,35K Middle East Gulf to East Africa Cur Week+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT17.X,35K Middle East Gulf to East Africa Worldscale,BALTIC,BALTIC,GENERICRPT
+BITRA7SBALMO.X,35K Singapore to East Coast Australia $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA7SM0.X,35K Singapore to East Coast Australia $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA7SM1.X,35K Singapore to East Coast Australia $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA7SM2.X,35K Singapore to East Coast Australia $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA7SM3.X,35K Singapore to East Coast Australia $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA7SM4.X,35K Singapore to East Coast Australia $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA7SM5.X,35K Singapore to East Coast Australia $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA7SQ0.X,35K Singapore to East Coast Australia $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA7SQ1.X,35K Singapore to East Coast Australia $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA7SQ2.X,35K Singapore to East Coast Australia $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA7SQ3.X,35K Singapore to East Coast Australia $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA7SQ4.X,35K Singapore to East Coast Australia $ Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA7SQ5.X,35K Singapore to East Coast Australia $ Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA7SYR1.X,35K Singapore to East Coast Australia $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA7SYR2.X,35K Singapore to East Coast Australia $ Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA7BALMO.X,35K Singapore to East Coast Australia BALMO WS,BALTIC,BALTIC,GENERICRPT
+BITRA7M0.X,35K Singapore to East Coast Australia Cur Month WS,BALTIC,BALTIC,GENERICRPT
+BITRA7M1.X,35K Singapore to East Coast Australia Cur Month+1 WS,BALTIC,BALTIC,GENERICRPT
+BITRA7M2.X,35K Singapore to East Coast Australia Cur Month+2 WS,BALTIC,BALTIC,GENERICRPT
+BITRA7M3.X,35K Singapore to East Coast Australia Cur Month+3 WS,BALTIC,BALTIC,GENERICRPT
+BITRA7M4.X,35K Singapore to East Coast Australia Cur Month+4 WS,BALTIC,BALTIC,GENERICRPT
+BITRA7M5.X,35K Singapore to East Coast Australia Cur Month+5 WS,BALTIC,BALTIC,GENERICRPT
+BITRA7Q0.X,35K Singapore to East Coast Australia Cur Qtr WS,BALTIC,BALTIC,GENERICRPT
+BITRA7Q1.X,35K Singapore to East Coast Australia Cur Qtr+1 WS,BALTIC,BALTIC,GENERICRPT
+BITRA7Q2.X,35K Singapore to East Coast Australia Cur Qtr+2 WS,BALTIC,BALTIC,GENERICRPT
+BITRA7Q3.X,35K Singapore to East Coast Australia Cur Qtr+3 WS,BALTIC,BALTIC,GENERICRPT
+BITRA7.X,35K Singapore to East Coast Australia Worldscale,BALTIC,BALTIC,GENERICRPT
+BCT22.X,35k South Korea to Australia Worldscale,BALTIC,BALTIC,GENERICRPT
+BITRA12SBALMO.X,35K West Coast India to Japan $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA12SM0.X,35K West Coast India to Japan $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA12SM1.X,35K West Coast India to Japan $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA12SM2.X,35K West Coast India to Japan $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA12SM3.X,35K West Coast India to Japan $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA12SM4.X,35K West Coast India to Japan $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA12SM5.X,35K West Coast India to Japan $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA12SQ0.X,35K West Coast India to Japan $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA12SQ1.X,35K West Coast India to Japan $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA12SQ2.X,35K West Coast India to Japan $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA12SQ3.X,35K West Coast India to Japan $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA12SQ4.X,35K West Coast India to Japan $ Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA12SQ5.X,35K West Coast India to Japan $ Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA12SYR1.X,35K West Coast India to Japan $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA12SYR2.X,35K West Coast India to Japan $ Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA12BALMO.X,35K West Coast India to Japan BALMO WS,BALTIC,BALTIC,GENERICRPT
+BITRA12M0.X,35K West Coast India to Japan Cur Month WS,BALTIC,BALTIC,GENERICRPT
+BITRA12M1.X,35K West Coast India to Japan Cur Month+1 WS,BALTIC,BALTIC,GENERICRPT
+BITRA12M2.X,35K West Coast India to Japan Cur Month+2 WS,BALTIC,BALTIC,GENERICRPT
+BITRA12M3.X,35K West Coast India to Japan Cur Month+3 WS,BALTIC,BALTIC,GENERICRPT
+BITRA12M4.X,35K West Coast India to Japan Cur Month+4 WS,BALTIC,BALTIC,GENERICRPT
+BITRA12M5.X,35K West Coast India to Japan Cur Month+5 WS,BALTIC,BALTIC,GENERICRPT
+BITRA12Q0.X,35K West Coast India to Japan Cur Qtr WS,BALTIC,BALTIC,GENERICRPT
+BITRA12Q1.X,35K West Coast India to Japan Cur Qtr+1 WS,BALTIC,BALTIC,GENERICRPT
+BITRA12Q2.X,35K West Coast India to Japan Cur Qtr+2 WS,BALTIC,BALTIC,GENERICRPT
+BITRA12Q3.X,35K West Coast India to Japan Cur Qtr+3 WS,BALTIC,BALTIC,GENERICRPT
+BITRA12.X,35K West Coast India to Japan Worldscale,BALTIC,BALTIC,GENERICRPT
+BCT19.X,37K ARA to West Africa Worldscale,BALTIC,BALTIC,GENERICRPT
+BCT237XS.X,37K UK-Continent to US Atlantic Coast (EUETS Exclusive) $ $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2XSBALMO.X,37K UK-Continent to US Atlantic Coast (EUETS Exclusive) $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2XSM0.X,37K UK-Continent to US Atlantic Coast (EUETS Exclusive) $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2XSM1.X,37K UK-Continent to US Atlantic Coast (EUETS Exclusive) $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2XSM2.X,37K UK-Continent to US Atlantic Coast (EUETS Exclusive) $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2XSM3.X,37K UK-Continent to US Atlantic Coast (EUETS Exclusive) $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2XSM4.X,37K UK-Continent to US Atlantic Coast (EUETS Exclusive) $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2XSM5.X,37K UK-Continent to US Atlantic Coast (EUETS Exclusive) $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2XSQ0.X,37K UK-Continent to US Atlantic Coast (EUETS Exclusive) $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2XSQ1.X,37K UK-Continent to US Atlantic Coast (EUETS Exclusive) $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2XSQ2.X,37K UK-Continent to US Atlantic Coast (EUETS Exclusive) $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2XSQ3.X,37K UK-Continent to US Atlantic Coast (EUETS Exclusive) $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2SBALMO.X,37K UK-Continent to US Atlantic Coast $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2SM0.X,37K UK-Continent to US Atlantic Coast $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2SM1.X,37K UK-Continent to US Atlantic Coast $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2SM2.X,37K UK-Continent to US Atlantic Coast $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2SM3.X,37K UK-Continent to US Atlantic Coast $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2SM4.X,37K UK-Continent to US Atlantic Coast $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2SM5.X,37K UK-Continent to US Atlantic Coast $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2SQ0.X,37K UK-Continent to US Atlantic Coast $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2SQ1.X,37K UK-Continent to US Atlantic Coast $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2SQ2.X,37K UK-Continent to US Atlantic Coast $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2SQ3.X,37K UK-Continent to US Atlantic Coast $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2SQ4.X,37K UK-Continent to US Atlantic Coast $ Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2SQ5.X,37K UK-Continent to US Atlantic Coast $ Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2SYR1.X,37K UK-Continent to US Atlantic Coast $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2SYR2.X,37K UK-Continent to US Atlantic Coast $ Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT2BALMO.X,37K UK-Continent to US Atlantic Coast BALMO WS,BALTIC,BALTIC,GENERICRPT
+BCT2M0.X,37K UK-Continent to US Atlantic Coast Cur Month WS,BALTIC,BALTIC,GENERICRPT
+BCT2M1.X,37K UK-Continent to US Atlantic Coast Cur Month+1 WS,BALTIC,BALTIC,GENERICRPT
+BCT2M2.X,37K UK-Continent to US Atlantic Coast Cur Month+2 WS,BALTIC,BALTIC,GENERICRPT
+BCT2M3.X,37K UK-Continent to US Atlantic Coast Cur Month+3 WS,BALTIC,BALTIC,GENERICRPT
+BCT2M4.X,37K UK-Continent to US Atlantic Coast Cur Month+4 WS,BALTIC,BALTIC,GENERICRPT
+BCT2M5.X,37K UK-Continent to US Atlantic Coast Cur Month+5 WS,BALTIC,BALTIC,GENERICRPT
+BCT2Q0.X,37K UK-Continent to US Atlantic Coast Cur Qtr WS,BALTIC,BALTIC,GENERICRPT
+BCT2Q1.X,37K UK-Continent to US Atlantic Coast Cur Qtr+1 WS,BALTIC,BALTIC,GENERICRPT
+BCT2Q2.X,37K UK-Continent to US Atlantic Coast Cur Qtr+2 WS,BALTIC,BALTIC,GENERICRPT
+BCT2Q3.X,37K UK-Continent to US Atlantic Coast Cur Qtr+3 WS,BALTIC,BALTIC,GENERICRPT
+BCT2W0.X,37K UK-Continent to US Atlantic Coast Cur Week WS,BALTIC,BALTIC,GENERICRPT
+BCT2W1.X,37K UK-Continent to US Atlantic Coast Cur Week+1 WS,BALTIC,BALTIC,GENERICRPT
+BCT2W2.X,37K UK-Continent to US Atlantic Coast Cur Week+2 WS,BALTIC,BALTIC,GENERICRPT
+BCT2W3.X,37K UK-Continent to US Atlantic Coast Cur Week+3 WS,BALTIC,BALTIC,GENERICRPT
+BCT2W4.X,37K UK-Continent to US Atlantic Coast Cur Week+4 WS,BALTIC,BALTIC,GENERICRPT
+BCT2W5.X,37K UK-Continent to US Atlantic Coast Cur Week+5 WS,BALTIC,BALTIC,GENERICRPT
+BCT237.X,37K UK-Continent to US Atlantic Coast Worldscale,BALTIC,BALTIC,GENERICRPT
+BCT18SBALMO.X,37K US Gulf to Brazil $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BCT18SM0.X,37K US Gulf to Brazil $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BCT18SM1.X,37K US Gulf to Brazil $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT18SM2.X,37K US Gulf to Brazil $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT18SM3.X,37K US Gulf to Brazil $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT18SM4.X,37K US Gulf to Brazil $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT18SM5.X,37K US Gulf to Brazil $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT18SQ0.X,37K US Gulf to Brazil $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BCT18SQ1.X,37K US Gulf to Brazil $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT18SQ2.X,37K US Gulf to Brazil $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT18SQ3.X,37K US Gulf to Brazil $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT18SQ4.X,37K US Gulf to Brazil $ Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT18SQ5.X,37K US Gulf to Brazil $ Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT18SYR1.X,37K US Gulf to Brazil $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT18SYR2.X,37K US Gulf to Brazil $ Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT18BALMO.X,37K US Gulf to Brazil BALMO WS,BALTIC,BALTIC,GENERICRPT
+BCT18M0.X,37K US Gulf to Brazil Cur Month WS,BALTIC,BALTIC,GENERICRPT
+BCT18M1.X,37K US Gulf to Brazil Cur Month+1 WS,BALTIC,BALTIC,GENERICRPT
+BCT18M2.X,37K US Gulf to Brazil Cur Month+2 WS,BALTIC,BALTIC,GENERICRPT
+BCT18M3.X,37K US Gulf to Brazil Cur Month+3 WS,BALTIC,BALTIC,GENERICRPT
+BCT18M4.X,37K US Gulf to Brazil Cur Month+4 WS,BALTIC,BALTIC,GENERICRPT
+BCT18M5.X,37K US Gulf to Brazil Cur Month+5 WS,BALTIC,BALTIC,GENERICRPT
+BCT18Q0.X,37K US Gulf to Brazil Cur Qtr WS,BALTIC,BALTIC,GENERICRPT
+BCT18Q1.X,37K US Gulf to Brazil Cur Qtr+1 WS,BALTIC,BALTIC,GENERICRPT
+BCT18Q2.X,37K US Gulf to Brazil Cur Qtr+2 WS,BALTIC,BALTIC,GENERICRPT
+BCT18Q3.X,37K US Gulf to Brazil Cur Qtr+3 WS,BALTIC,BALTIC,GENERICRPT
+BCT18.X,37K US Gulf to Brazil Worldscale,BALTIC,BALTIC,GENERICRPT
+BCT21.X,38k US Gulf to Caribbean $,BALTIC,BALTIC,GENERICRPT
+BCT14XS.X,38K US Gulf to UK-Continent (EU ETS Exclusive) $ $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14XSBALMO.X,38K US Gulf to UK-Continent (EU ETS Exclusive) $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14XSM0.X,38K US Gulf to UK-Continent (EU ETS Exclusive) $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14XSM1.X,38K US Gulf to UK-Continent (EU ETS Exclusive) $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14XSM2.X,38K US Gulf to UK-Continent (EU ETS Exclusive) $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14XSM3.X,38K US Gulf to UK-Continent (EU ETS Exclusive) $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14XSM4.X,38K US Gulf to UK-Continent (EU ETS Exclusive) $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14XSM5.X,38K US Gulf to UK-Continent (EU ETS Exclusive) $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14XSQ0.X,38K US Gulf to UK-Continent (EU ETS Exclusive) $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14XSQ1.X,38K US Gulf to UK-Continent (EU ETS Exclusive) $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14XSQ2.X,38K US Gulf to UK-Continent (EU ETS Exclusive) $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14XSQ3.X,38K US Gulf to UK-Continent (EU ETS Exclusive) $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14SBALMO.X,38K US Gulf to UK-Continent $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14SM0.X,38K US Gulf to UK-Continent $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14SM1.X,38K US Gulf to UK-Continent $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14SM2.X,38K US Gulf to UK-Continent $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14SM3.X,38K US Gulf to UK-Continent $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14SM4.X,38K US Gulf to UK-Continent $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14SM5.X,38K US Gulf to UK-Continent $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14SQ0.X,38K US Gulf to UK-Continent $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14SQ1.X,38K US Gulf to UK-Continent $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14SQ2.X,38K US Gulf to UK-Continent $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14SQ3.X,38K US Gulf to UK-Continent $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14SQ4.X,38K US Gulf to UK-Continent $ Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14SQ5.X,38K US Gulf to UK-Continent $ Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14SYR1.X,38K US Gulf to UK-Continent $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14SYR2.X,38K US Gulf to UK-Continent $ Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14BALMO.X,38K US Gulf to UK-Continent BALMO WS,BALTIC,BALTIC,GENERICRPT
+BCT14M0.X,38K US Gulf to UK-Continent Cur Month WS,BALTIC,BALTIC,GENERICRPT
+BCT14M1.X,38K US Gulf to UK-Continent Cur Month+1 WS,BALTIC,BALTIC,GENERICRPT
+BCT14M2.X,38K US Gulf to UK-Continent Cur Month+2 WS,BALTIC,BALTIC,GENERICRPT
+BCT14M3.X,38K US Gulf to UK-Continent Cur Month+3 WS,BALTIC,BALTIC,GENERICRPT
+BCT14M4.X,38K US Gulf to UK-Continent Cur Month+4 WS,BALTIC,BALTIC,GENERICRPT
+BCT14M5.X,38K US Gulf to UK-Continent Cur Month+5 WS,BALTIC,BALTIC,GENERICRPT
+BCT14Q0.X,38K US Gulf to UK-Continent Cur Qtr WS,BALTIC,BALTIC,GENERICRPT
+BCT14Q1.X,38K US Gulf to UK-Continent Cur Qtr+1 WS,BALTIC,BALTIC,GENERICRPT
+BCT14Q2.X,38K US Gulf to UK-Continent Cur Qtr+2 WS,BALTIC,BALTIC,GENERICRPT
+BCT14Q3.X,38K US Gulf to UK-Continent Cur Qtr+3 WS,BALTIC,BALTIC,GENERICRPT
+BCT14W0.X,38K US Gulf to UK-Continent Cur Week $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14W1.X,38K US Gulf to UK-Continent Cur Week+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14W2.X,38K US Gulf to UK-Continent Cur Week+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14W3.X,38K US Gulf to UK-Continent Cur Week+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14W4.X,38K US Gulf to UK-Continent Cur Week+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14W5.X,38K US Gulf to UK-Continent Cur Week+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT14.X,38K US Gulf to UK-Continent Worldscale,BALTIC,BALTIC,GENERICRPT
+VG62.X,"40,000 mt Vegetable oil, EC South America to West Coast India $/mt",BALTIC,BALTIC,GENERICRPT
+PO45.X,"40,000mt parcel of Palmoil, Singapore Straights to NW Europe $/mt",BALTIC,BALTIC,GENERICRPT
+BCT10.X,40K South Korea to North Pacific West Coast $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA11SBALMO.X,40K South Korea to Singapore $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA11SM0.X,40K South Korea to Singapore $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA11SM1.X,40K South Korea to Singapore $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA11SM2.X,40K South Korea to Singapore $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA11SM3.X,40K South Korea to Singapore $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA11SQ0.X,40K South Korea to Singapore $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA11SQ1.X,40K South Korea to Singapore $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA11SQ2.X,40K South Korea to Singapore $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA11SQ3.X,40K South Korea to Singapore $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA11SYR1.X,40K South Korea to Singapore $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA11SYR2.X,40K South Korea to Singapore $ Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BITRA11.X,40K South Korea to Singapore $/mt,BALTIC,BALTIC,GENERICRPT
+EC57.X,"5,000mt Easy chems Korea to Singapore $/mt",BALTIC,BALTIC,GENERICRPT
+EC52.X,"5,000mt Easy chems Korea to West Coast India $/mt",BALTIC,BALTIC,GENERICRPT
+EC11.X,"5,000mt Easy chems North West Europe to US Gulf $/mt",BALTIC,BALTIC,GENERICRPT
+EC43.X,"5,000mt Easy chems Singapore to China $/mt",BALTIC,BALTIC,GENERICRPT
+EC36.X,"5,000mt Easy chems US Gulf to Brazil $/mt",BALTIC,BALTIC,GENERICRPT
+EC35.X,"5,000mt Easy chems US Gulf to North West Europe $/mt",BALTIC,BALTIC,GENERICRPT
+BDT21.X,50K Caribbean to US Gulf Worldscale,BALTIC,BALTIC,GENERICRPT
+BCT5SBALMO.X,55K Middle East Gulf to Japan $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5SM0.X,55K Middle East Gulf to Japan $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5SM1.X,55K Middle East Gulf to Japan $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5SM2.X,55K Middle East Gulf to Japan $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5SM3.X,55K Middle East Gulf to Japan $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5SM4.X,55K Middle East Gulf to Japan $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5SM5.X,55K Middle East Gulf to Japan $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5SQ0.X,55K Middle East Gulf to Japan $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5SQ1.X,55K Middle East Gulf to Japan $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5SQ2.X,55K Middle East Gulf to Japan $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5SQ3.X,55K Middle East Gulf to Japan $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5SQ4.X,55K Middle East Gulf to Japan $ Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5SQ5.X,55K Middle East Gulf to Japan $ Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5SYR1.X,55K Middle East Gulf to Japan $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5SYR2.X,55K Middle East Gulf to Japan $ Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5BALMO.X,55K Middle East Gulf to Japan BALMO WS,BALTIC,BALTIC,GENERICRPT
+BCT5M0.X,55K Middle East Gulf to Japan Cur Month WS,BALTIC,BALTIC,GENERICRPT
+BCT5M1.X,55K Middle East Gulf to Japan Cur Month+1 WS,BALTIC,BALTIC,GENERICRPT
+BCT5M2.X,55K Middle East Gulf to Japan Cur Month+2 WS,BALTIC,BALTIC,GENERICRPT
+BCT5M3.X,55K Middle East Gulf to Japan Cur Month+3 WS,BALTIC,BALTIC,GENERICRPT
+BCT5M4.X,55K Middle East Gulf to Japan Cur Month+4 WS,BALTIC,BALTIC,GENERICRPT
+BCT5M5.X,55K Middle East Gulf to Japan Cur Month+5 WS,BALTIC,BALTIC,GENERICRPT
+BCT5Q0.X,55K Middle East Gulf to Japan Cur Qtr WS,BALTIC,BALTIC,GENERICRPT
+BCT5Q1.X,55K Middle East Gulf to Japan Cur Qtr+1 WS,BALTIC,BALTIC,GENERICRPT
+BCT5Q2.X,55K Middle East Gulf to Japan Cur Qtr+2 WS,BALTIC,BALTIC,GENERICRPT
+BCT5Q3.X,55K Middle East Gulf to Japan Cur Qtr+3 WS,BALTIC,BALTIC,GENERICRPT
+BCT5W0.X,55K Middle East Gulf to Japan Cur Week $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5W1.X,55K Middle East Gulf to Japan Cur Week+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5W2.X,55K Middle East Gulf to Japan Cur Week+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5W3.X,55K Middle East Gulf to Japan Cur Week+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5W4.X,55K Middle East Gulf to Japan Cur Week+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5W5.X,55K Middle East Gulf to Japan Cur Week+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT5.X,55K Middle East Gulf to Japan Worldscale,BALTIC,BALTIC,GENERICRPT
+LNGM6.X,"6 Month Time Charter, LNG Carrier Cur Month+6 $/day",BALTIC,BALTIC,GENERICRPT
+BCT16.X,60K ARA to Offshore Lome Worldscale,BALTIC,BALTIC,GENERICRPT
+BCT8.X,65K Middle East Gulf to UK-Continent $/mt,BALTIC,BALTIC,GENERICRPT
+PCNBA.X,"7,000 TEU Panamax CV, New Building $ mil",BALTIC,BALTIC,GENERICRPT
+BDT9.X,70K Caribbean to US Gulf Worldscale,BALTIC,BALTIC,GENERICRPT
+BDT26.X,70K East Coast Mexico to US Gulf Worldscale,BALTIC,BALTIC,GENERICRPT
+BDT25XS.X,70K US Gulf to Antwerp Rotterdam - Amsterdam (EU ETS Exclusive) $ $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25XSBALMO.X,70K US Gulf to Antwerp Rotterdam - Amsterdam (EU ETS Exclusive) $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25XSM0.X,70K US Gulf to Antwerp Rotterdam - Amsterdam (EU ETS Exclusive) $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25XSM1.X,70K US Gulf to Antwerp Rotterdam - Amsterdam (EU ETS Exclusive) $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25XSM2.X,70K US Gulf to Antwerp Rotterdam - Amsterdam (EU ETS Exclusive) $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25XSM3.X,70K US Gulf to Antwerp Rotterdam - Amsterdam (EU ETS Exclusive) $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25XSM4.X,70K US Gulf to Antwerp Rotterdam - Amsterdam (EU ETS Exclusive) $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25XSM5.X,70K US Gulf to Antwerp Rotterdam - Amsterdam (EU ETS Exclusive) $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25XSQ0.X,70K US Gulf to Antwerp Rotterdam - Amsterdam (EU ETS Exclusive) $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25XSQ1.X,70K US Gulf to Antwerp Rotterdam - Amsterdam (EU ETS Exclusive) $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25XSQ2.X,70K US Gulf to Antwerp Rotterdam - Amsterdam (EU ETS Exclusive) $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25XSQ3.X,70K US Gulf to Antwerp Rotterdam - Amsterdam (EU ETS Exclusive) $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25XSQ4.X,70K US Gulf to Antwerp Rotterdam - Amsterdam (EU ETS Exclusive) $ Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25XSYR1.X,70K US Gulf to Antwerp Rotterdam - Amsterdam (EU ETS Exclusive) $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25SBALMO.X,70K US Gulf to UK-Continent $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25SM0.X,70K US Gulf to UK-Continent $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25SM1.X,70K US Gulf to UK-Continent $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25SM2.X,70K US Gulf to UK-Continent $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25SM3.X,70K US Gulf to UK-Continent $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25SM4.X,70K US Gulf to UK-Continent $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25SM5.X,70K US Gulf to UK-Continent $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25SQ0.X,70K US Gulf to UK-Continent $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25SQ1.X,70K US Gulf to UK-Continent $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25SQ2.X,70K US Gulf to UK-Continent $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25SQ3.X,70K US Gulf to UK-Continent $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25SQ4.X,70K US Gulf to UK-Continent $ Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25SQ5.X,70K US Gulf to UK-Continent $ Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25SYR1.X,70K US Gulf to UK-Continent $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25SYR2.X,70K US Gulf to UK-Continent $ Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25SYR3.X,70K US Gulf to UK-Continent $ Cur Year+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25BALMO.X,70K US Gulf to UK-Continent BALMO WS,BALTIC,BALTIC,GENERICRPT
+BDT25M0.X,70K US Gulf to UK-Continent Cur Month WS,BALTIC,BALTIC,GENERICRPT
+BDT25M1.X,70K US Gulf to UK-Continent Cur Month+1 WS,BALTIC,BALTIC,GENERICRPT
+BDT25M2.X,70K US Gulf to UK-Continent Cur Month+2 WS,BALTIC,BALTIC,GENERICRPT
+BDT25M3.X,70K US Gulf to UK-Continent Cur Month+3 WS,BALTIC,BALTIC,GENERICRPT
+BDT25M4.X,70K US Gulf to UK-Continent Cur Month+4 WS,BALTIC,BALTIC,GENERICRPT
+BDT25M5.X,70K US Gulf to UK-Continent Cur Month+5 WS,BALTIC,BALTIC,GENERICRPT
+BDT25Q0.X,70K US Gulf to UK-Continent Cur Qtr WS,BALTIC,BALTIC,GENERICRPT
+BDT25Q1.X,70K US Gulf to UK-Continent Cur Qtr+1 WS,BALTIC,BALTIC,GENERICRPT
+BDT25Q2.X,70K US Gulf to UK-Continent Cur Qtr+2 WS,BALTIC,BALTIC,GENERICRPT
+BDT25Q3.X,70K US Gulf to UK-Continent Cur Qtr+3 WS,BALTIC,BALTIC,GENERICRPT
+BDT25W0.X,70K US Gulf to UK-Continent Cur Week $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25W1.X,70K US Gulf to UK-Continent Cur Week+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25W2.X,70K US Gulf to UK-Continent Cur Week+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25W3.X,70K US Gulf to UK-Continent Cur Week+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25W4.X,70K US Gulf to UK-Continent Cur Week+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25W5.X,70K US Gulf to UK-Continent Cur Week+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT25.X,70K US Gulf to UK-Continent Worldscale,BALTIC,BALTIC,GENERICRPT
+BCT1.X,75K Middle East Gulf to Japan Worldscale,BALTIC,BALTIC,GENERICRPT
+BDT19SBALMO.X,80K Cross Mediterranean $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19SM0.X,80K Cross Mediterranean $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19SM1.X,80K Cross Mediterranean $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19SM2.X,80K Cross Mediterranean $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19SM3.X,80K Cross Mediterranean $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19SM4.X,80K Cross Mediterranean $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19SM5.X,80K Cross Mediterranean $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19SQ0.X,80K Cross Mediterranean $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19SQ1.X,80K Cross Mediterranean $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19SQ2.X,80K Cross Mediterranean $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19SQ3.X,80K Cross Mediterranean $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19SQ4.X,80K Cross Mediterranean $ Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19SQ5.X,80K Cross Mediterranean $ Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19SYR1.X,80K Cross Mediterranean $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19SYR2.X,80K Cross Mediterranean $ Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19BALMO.X,80K Cross Mediterranean BALMO WS,BALTIC,BALTIC,GENERICRPT
+BDT19M0.X,80K Cross Mediterranean Cur Month WS,BALTIC,BALTIC,GENERICRPT
+BDT19M1.X,80K Cross Mediterranean Cur Month+1 WS,BALTIC,BALTIC,GENERICRPT
+BDT19M2.X,80K Cross Mediterranean Cur Month+2 WS,BALTIC,BALTIC,GENERICRPT
+BDT19M3.X,80K Cross Mediterranean Cur Month+3 WS,BALTIC,BALTIC,GENERICRPT
+BDT19M4.X,80K Cross Mediterranean Cur Month+4 WS,BALTIC,BALTIC,GENERICRPT
+BDT19M5.X,80K Cross Mediterranean Cur Month+5 WS,BALTIC,BALTIC,GENERICRPT
+BDT19Q0.X,80K Cross Mediterranean Cur Qtr WS,BALTIC,BALTIC,GENERICRPT
+BDT19Q1.X,80K Cross Mediterranean Cur Qtr+1 WS,BALTIC,BALTIC,GENERICRPT
+BDT19Q2.X,80K Cross Mediterranean Cur Qtr+2 WS,BALTIC,BALTIC,GENERICRPT
+BDT19Q3.X,80K Cross Mediterranean Cur Qtr+3 WS,BALTIC,BALTIC,GENERICRPT
+BDT19W0.X,80K Cross Mediterranean Cur Week $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19W1.X,80K Cross Mediterranean Cur Week+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19W2.X,80K Cross Mediterranean Cur Week+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19W3.X,80K Cross Mediterranean Cur Week+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19W4.X,80K Cross Mediterranean Cur Week+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19W5.X,80K Cross Mediterranean Cur Week+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT19.X,80K Cross Mediterranean Worldscale,BALTIC,BALTIC,GENERICRPT
+BDT8SBALMO.X,80K Kuwait to Singapore $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8SM0.X,80K Kuwait to Singapore $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8SM1.X,80K Kuwait to Singapore $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8SM2.X,80K Kuwait to Singapore $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8SM3.X,80K Kuwait to Singapore $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8SM4.X,80K Kuwait to Singapore $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8SM5.X,80K Kuwait to Singapore $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8SQ0.X,80K Kuwait to Singapore $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8SQ1.X,80K Kuwait to Singapore $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8SQ2.X,80K Kuwait to Singapore $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8SQ3.X,80K Kuwait to Singapore $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8SQ4.X,80K Kuwait to Singapore $ Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8SQ5.X,80K Kuwait to Singapore $ Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8SYR1.X,80K Kuwait to Singapore $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8SYR2.X,80K Kuwait to Singapore $ Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8BALMO.X,80K Kuwait to Singapore BALMO WS,BALTIC,BALTIC,GENERICRPT
+BDT8M0.X,80K Kuwait to Singapore Cur Month WS,BALTIC,BALTIC,GENERICRPT
+BDT8M1.X,80K Kuwait to Singapore Cur Month+1 WS,BALTIC,BALTIC,GENERICRPT
+BDT8M2.X,80K Kuwait to Singapore Cur Month+2 WS,BALTIC,BALTIC,GENERICRPT
+BDT8M3.X,80K Kuwait to Singapore Cur Month+3 WS,BALTIC,BALTIC,GENERICRPT
+BDT8M4.X,80K Kuwait to Singapore Cur Month+4 WS,BALTIC,BALTIC,GENERICRPT
+BDT8M5.X,80K Kuwait to Singapore Cur Month+5 WS,BALTIC,BALTIC,GENERICRPT
+BDT8Q0.X,80K Kuwait to Singapore Cur Qtr WS,BALTIC,BALTIC,GENERICRPT
+BDT8Q1.X,80K Kuwait to Singapore Cur Qtr+1 WS,BALTIC,BALTIC,GENERICRPT
+BDT8Q2.X,80K Kuwait to Singapore Cur Qtr+2 WS,BALTIC,BALTIC,GENERICRPT
+BDT8Q3.X,80K Kuwait to Singapore Cur Qtr+3 WS,BALTIC,BALTIC,GENERICRPT
+BDT8W0.X,80K Kuwait to Singapore Cur Week $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8W1.X,80K Kuwait to Singapore Cur Week+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8W2.X,80K Kuwait to Singapore Cur Week+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8W3.X,80K Kuwait to Singapore Cur Week+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8W4.X,80K Kuwait to Singapore Cur Week+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8W5.X,80K Kuwait to Singapore Cur Week+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT8.X,80K Kuwait to Singapore Worldscale,BALTIC,BALTIC,GENERICRPT
+BCT15.X,80K Mediterranean to Far East $,BALTIC,BALTIC,GENERICRPT
+BCT15SBALMO.X,80K Mediterranean to Far East $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BCT15SM0.X,80K Mediterranean to Far East $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BCT15SM1.X,80K Mediterranean to Far East $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT15SM2.X,80K Mediterranean to Far East $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT15SM3.X,80K Mediterranean to Far East $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT15SM4.X,80K Mediterranean to Far East $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT15SM5.X,80K Mediterranean to Far East $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT15SQ0.X,80K Mediterranean to Far East $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BCT15SQ1.X,80K Mediterranean to Far East $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT15SQ2.X,80K Mediterranean to Far East $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT15SQ3.X,80K Mediterranean to Far East $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT15SQ4.X,80K Mediterranean to Far East $ Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT15SQ5.X,80K Mediterranean to Far East $ Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT15SYR1.X,80K Mediterranean to Far East $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT15SYR2.X,80K Mediterranean to Far East $ Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7SBALMO.X,80K North Sea to UK-Continent $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7SM0.X,80K North Sea to UK-Continent $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7SM1.X,80K North Sea to UK-Continent $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7SM2.X,80K North Sea to UK-Continent $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7SM3.X,80K North Sea to UK-Continent $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7SM4.X,80K North Sea to UK-Continent $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7SM5.X,80K North Sea to UK-Continent $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7SQ0.X,80K North Sea to UK-Continent $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7SQ1.X,80K North Sea to UK-Continent $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7SQ2.X,80K North Sea to UK-Continent $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7SQ3.X,80K North Sea to UK-Continent $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7SQ4.X,80K North Sea to UK-Continent $ Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7SQ5.X,80K North Sea to UK-Continent $ Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7SYR1.X,80K North Sea to UK-Continent $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7SYR2.X,80K North Sea to UK-Continent $ Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7BALMO.X,80K North Sea to UK-Continent BALMO WS,BALTIC,BALTIC,GENERICRPT
+BDT7M0.X,80K North Sea to UK-Continent Cur Month WS,BALTIC,BALTIC,GENERICRPT
+BDT7M1.X,80K North Sea to UK-Continent Cur Month+1 WS,BALTIC,BALTIC,GENERICRPT
+BDT7M2.X,80K North Sea to UK-Continent Cur Month+2 WS,BALTIC,BALTIC,GENERICRPT
+BDT7M3.X,80K North Sea to UK-Continent Cur Month+3 WS,BALTIC,BALTIC,GENERICRPT
+BDT7M4.X,80K North Sea to UK-Continent Cur Month+4 WS,BALTIC,BALTIC,GENERICRPT
+BDT7M5.X,80K North Sea to UK-Continent Cur Month+5 WS,BALTIC,BALTIC,GENERICRPT
+BDT7Q0.X,80K North Sea to UK-Continent Cur Qtr WS,BALTIC,BALTIC,GENERICRPT
+BDT7Q1.X,80K North Sea to UK-Continent Cur Qtr+1 WS,BALTIC,BALTIC,GENERICRPT
+BDT7Q2.X,80K North Sea to UK-Continent Cur Qtr+2 WS,BALTIC,BALTIC,GENERICRPT
+BDT7Q3.X,80K North Sea to UK-Continent Cur Qtr+3 WS,BALTIC,BALTIC,GENERICRPT
+BDT7W0.X,80K North Sea to UK-Continent Cur Week $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7W1.X,80K North Sea to UK-Continent Cur Week+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7W2.X,80K North Sea to UK-Continent Cur Week+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7W3.X,80K North Sea to UK-Continent Cur Week+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7W4.X,80K North Sea to UK-Continent Cur Week+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7W5.X,80K North Sea to UK-Continent Cur Week+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT7.X,80K North Sea to UK-Continent Worldscale,BALTIC,BALTIC,GENERICRPT
+BDT14.X,80K South East Asia to East Coast Australia Worldscale,BALTIC,BALTIC,GENERICRPT
+AFRAMAX.X,"Aframax , 5 years old $",BALTIC,BALTIC,GENERICRPT
+ATISPA10.X,Aframax 10Y Old Price $,BALTIC,BALTIC,GENERICRPT
+ATTC5.X,Aframax 5 Year Time Charter $/day,BALTIC,BALTIC,GENERICRPT
+AT5YTC.X,Aframax 5 Year Timecharter,BALTIC,BALTIC,GENERICRPT
+ATISPA.X,Aframax 5Y Old Price $,BALTIC,BALTIC,GENERICRPT
+BDT9TCE.X,AFRAMAX Caribbean to US Gulf $/day,BALTIC,BALTIC,GENERICRPT
+ATCC.X,Aframax Crew Cost $/day,BALTIC,BALTIC,GENERICRPT
+BDT19TCE.X,AFRAMAX Cross Mediterranean $/day,BALTIC,BALTIC,GENERICRPT
+ATIOPEX.X,Aframax Daily Opex,BALTIC,BALTIC,GENERICRPT
+ATDC.X,Aframax Dry Dock Cost $/day,BALTIC,BALTIC,GENERICRPT
+BDT26TCE.X,AFRAMAX East Coast Mexico to US Gulf $/day,BALTIC,BALTIC,GENERICRPT
+ATTCEA.X,Aframax Implied Spot Timecharter Earnings,BALTIC,BALTIC,GENERICRPT
+ATIC.X,Aframax Insurance Cost $/day,BALTIC,BALTIC,GENERICRPT
+BDT8TCE.X,AFRAMAX Kuwait to Singapore $/day,BALTIC,BALTIC,GENERICRPT
+BDT7TCE.X,AFRAMAX North Sea to Cont $/day,BALTIC,BALTIC,GENERICRPT
+ATOPEX.X,Aframax Operating Expense Index $/day,BALTIC,BALTIC,GENERICRPT
+ATISRA.X,Aframax Recycling Value,BALTIC,BALTIC,GENERICRPT
+ATRRI.X,Aframax Residual Risk Index,BALTIC,BALTIC,GENERICRPT
+ATRVI.X,Aframax Residual Value Index,BALTIC,BALTIC,GENERICRPT
+BDT14TCE.X,AFRAMAX South East Asia to East Coast Australia $/day,BALTIC,BALTIC,GENERICRPT
+ATNBA.X,"Aframax Tanker, New Building $ mil",BALTIC,BALTIC,GENERICRPT
+ATTC.X,Aframax Technical Cost $/day,BALTIC,BALTIC,GENERICRPT
+A6TCE.X,Aframax Time Charter Equivalent $/day,BALTIC,BALTIC,GENERICRPT
+ATCE.X,Aframax Time Charter Equivalent $/day,BALTIC,BALTIC,GENERICRPT
+BDT25TCE.X,AFRAMAX US Gulf to Antwerp - Rotterdam - Amsterdam $/day,BALTIC,BALTIC,GENERICRPT
+ATSPA10.X,"Aframax, 10 years old $ mil",BALTIC,BALTIC,GENERICRPT
+ATINBA.X,"Aframax, New Building",BALTIC,BALTIC,GENERICRPT
+BAI00.X,BAI - Powered by TAC Data,BALTIC,BALTIC,GENERICRPT
+BCI.X,Baltic Capesize Index,BALTIC,BALTIC,GENERICRPT
+BCTI.X,Baltic Clean Tanker Index,BALTIC,BALTIC,GENERICRPT
+BDTI.X,Baltic Dirty Tanker Index,BALTIC,BALTIC,GENERICRPT
+BDI.X,Baltic Dry Index,BALTIC,BALTIC,GENERICRPT
+BFABDICM0.X,Baltic Dry Index Cur Month,BALTIC,BALTIC,GENERICRPT
+BFABDICM1.X,Baltic Dry Index Cur Month+1,BALTIC,BALTIC,GENERICRPT
+BFABDICM2.X,Baltic Dry Index Cur Month+2,BALTIC,BALTIC,GENERICRPT
+BFABDICM3.X,Baltic Dry Index Cur Month+3,BALTIC,BALTIC,GENERICRPT
+BFABDICM4.X,Baltic Dry Index Cur Month+4,BALTIC,BALTIC,GENERICRPT
+BFABDICM5.X,Baltic Dry Index Cur Month+5,BALTIC,BALTIC,GENERICRPT
+BFABDICM6.X,Baltic Dry Index Cur Month+6,BALTIC,BALTIC,GENERICRPT
+BFABDICQ0.X,Baltic Dry Index Cur Qtr,BALTIC,BALTIC,GENERICRPT
+BFABDICQ1.X,Baltic Dry Index Cur Qtr+1,BALTIC,BALTIC,GENERICRPT
+BFABDICQ2.X,Baltic Dry Index Cur Qtr+2,BALTIC,BALTIC,GENERICRPT
+BFABDICQ3.X,Baltic Dry Index Cur Qtr+3,BALTIC,BALTIC,GENERICRPT
+BFABDICQ4.X,Baltic Dry Index Cur Qtr+4,BALTIC,BALTIC,GENERICRPT
+BFABDICQ5.X,Baltic Dry Index Cur Qtr+5,BALTIC,BALTIC,GENERICRPT
+BFABDICQ6.X,Baltic Dry Index Cur Qtr+6,BALTIC,BALTIC,GENERICRPT
+BFABDICYR1.X,Baltic Dry Index Cur Year+1,BALTIC,BALTIC,GENERICRPT
+BFABDICYR2.X,Baltic Dry Index Cur Year+2,BALTIC,BALTIC,GENERICRPT
+BFABDICYR3.X,Baltic Dry Index Cur Year+3,BALTIC,BALTIC,GENERICRPT
+BFABDICYR4.X,Baltic Dry Index Cur Year+4,BALTIC,BALTIC,GENERICRPT
+BFABDICYR5.X,Baltic Dry Index Cur Year+5,BALTIC,BALTIC,GENERICRPT
+BFABDICYR6.X,Baltic Dry Index Cur Year+6,BALTIC,BALTIC,GENERICRPT
+BFABDICYR7.X,Baltic Dry Index Cur Year+7,BALTIC,BALTIC,GENERICRPT
+BHSI.X,Baltic Handysize Index,BALTIC,BALTIC,GENERICRPT
+BLNG.X,Baltic LNGg Index,BALTIC,BALTIC,GENERICRPT
+BLPG.X,Baltic LPG Index,BALTIC,BALTIC,GENERICRPT
+BOPEX.X,Baltic Operating Index $/day,BALTIC,BALTIC,GENERICRPT
+DOPEX.X,Baltic Operating Index Dry $/day,BALTIC,BALTIC,GENERICRPT
+GOPEX.X,Baltic Operating Index Gas $/day,BALTIC,BALTIC,GENERICRPT
+TOPEX.X,Baltic Operating Index Tanker $/day,BALTIC,BALTIC,GENERICRPT
+BPI.X,Baltic Panamax Index,BALTIC,BALTIC,GENERICRPT
+BSPA.X,Baltic Sale and Purchase Index,BALTIC,BALTIC,GENERICRPT
+BSRA.X,Baltic Ship Recycling Index,BALTIC,BALTIC,GENERICRPT
+S3TC63.X,Baltic Supramax Asia Index (BES Asia),BALTIC,BALTIC,GENERICRPT
+S3TC.X,Baltic Supramax Asia Index (BES Asia) $/day,BALTIC,BALTIC,GENERICRPT
+BSI.X,Baltic Supramax Index,BALTIC,BALTIC,GENERICRPT
+FFADVLPG.X,BLPG1 FFA Volumes Lots,BALTIC,BALTIC,GENERICRPT
+FFADVLPG2.X,BLPG2 FFA Volumes Lots,BALTIC,BALTIC,GENERICRPT
+FFADVLPG3.X,BLPG3 FFA Volumes Lots,BALTIC,BALTIC,GENERICRPT
+C7.X,Bolivar to Rotterdam $/mt,BALTIC,BALTIC,GENERICRPT
+C7M0.X,Bolivar to Rotterdam Cur Month $/ton,BALTIC,BALTIC,GENERICRPT
+C7M1.X,Bolivar to Rotterdam Cur Month+1 $/ton,BALTIC,BALTIC,GENERICRPT
+C7M2.X,Bolivar to Rotterdam Cur Month+2 $/ton,BALTIC,BALTIC,GENERICRPT
+C7M3.X,Bolivar to Rotterdam Cur Month+3 $/ton,BALTIC,BALTIC,GENERICRPT
+C7M4.X,Bolivar to Rotterdam Cur Month+4 $/ton,BALTIC,BALTIC,GENERICRPT
+C7M5.X,Bolivar to Rotterdam Cur Month+5 $/ton,BALTIC,BALTIC,GENERICRPT
+C7M6.X,Bolivar to Rotterdam Cur Month+6 $/ton,BALTIC,BALTIC,GENERICRPT
+C7Q0.X,Bolivar to Rotterdam Cur Qtr $/ton,BALTIC,BALTIC,GENERICRPT
+C7Q1.X,Bolivar to Rotterdam Cur Qtr+1 $/ton,BALTIC,BALTIC,GENERICRPT
+C7Q2.X,Bolivar to Rotterdam Cur Qtr+2 $/ton,BALTIC,BALTIC,GENERICRPT
+C7Q3.X,Bolivar to Rotterdam Cur Qtr+3 $/ton,BALTIC,BALTIC,GENERICRPT
+C7Q4.X,Bolivar to Rotterdam Cur Qtr+4 $/ton,BALTIC,BALTIC,GENERICRPT
+C7Q5.X,Bolivar to Rotterdam Cur Qtr+5 $/ton,BALTIC,BALTIC,GENERICRPT
+C7Q6.X,Bolivar to Rotterdam Cur Qtr+6 $/ton,BALTIC,BALTIC,GENERICRPT
+C7YR1.X,Bolivar to Rotterdam Cur Year+1 $/ton,BALTIC,BALTIC,GENERICRPT
+C7YR2.X,Bolivar to Rotterdam Cur Year+2 $/ton,BALTIC,BALTIC,GENERICRPT
+C7YR3.X,Bolivar to Rotterdam Cur Year+3 $/ton,BALTIC,BALTIC,GENERICRPT
+C7YR4.X,Bolivar to Rotterdam Cur Year+4 $/ton,BALTIC,BALTIC,GENERICRPT
+C7YR5.X,Bolivar to Rotterdam Cur Year+5 $/ton,BALTIC,BALTIC,GENERICRPT
+SUPRAMAXTRIAL.X,"Bulk Carrier Supramax, 5 years old $",BALTIC,BALTIC,GENERICRPT
+C17TCE.X,C17-TCE $/day,BALTIC,BALTIC,GENERICRPT
+C2TCE.X,C2-TCE $/day,BALTIC,BALTIC,GENERICRPT
+FFADVC3.X,C3 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+C3TCE.X,C3-TCE $/day,BALTIC,BALTIC,GENERICRPT
+FFADVC5.X,C5 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+C5TCE.X,C5-TCE $/day,BALTIC,BALTIC,GENERICRPT
+FFADVC5TC.X,C5TC FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+ODVC5TC.X,C5TC Option Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVC7.X,C7 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+C7TCE.X,C7-TCE $/day,BALTIC,BALTIC,GENERICRPT
+S1B.X,Canakkale trip via Mediterranean or Black Sea to China-South Korea $/day,BALTIC,BALTIC,GENERICRPT
+FFACAPEOI.X,Cape FFA Open Interest lots,BALTIC,BALTIC,GENERICRPT
+OPTIONSCAPEOI.X,Cape Options Open Interest lots,BALTIC,BALTIC,GENERICRPT
+CDISPA10.X,Capesize 10Y Old Price $,BALTIC,BALTIC,GENERICRPT
+CDISPA.X,Capesize 5Y Old Price $,BALTIC,BALTIC,GENERICRPT
+CDNBA.X,"Capesize Bulk Carrier, New Building $ mil",BALTIC,BALTIC,GENERICRPT
+C1014.X,Capesize China-Japan transpacific round voyage $/day,BALTIC,BALTIC,GENERICRPT
+C914.X,Capesize Continent/Mediterranean trip China-Japan $/day,BALTIC,BALTIC,GENERICRPT
+CDCC.X,Capesize Crew Cost $/day,BALTIC,BALTIC,GENERICRPT
+CDIOPEX.X,Capesize Daily Opex $/day,BALTIC,BALTIC,GENERICRPT
+CDDC.X,Capesize Dry Dock Cost $/day,BALTIC,BALTIC,GENERICRPT
+C814.X,Capesize Gibraltar/Hamburg transatlantic round voyage $/day,BALTIC,BALTIC,GENERICRPT
+CDHEI.X,Capesize Health of Earnings Index,BALTIC,BALTIC,GENERICRPT
+CDITC.X,Capesize Implied 5 Year Timecharter $/day,BALTIC,BALTIC,GENERICRPT
+CDIC.X,Capesize Insurance Cost $/day,BALTIC,BALTIC,GENERICRPT
+CDINBA.X,Capesize New Building $,BALTIC,BALTIC,GENERICRPT
+CDOPEX.X,Capesize Operating Expense Index $/day,BALTIC,BALTIC,GENERICRPT
+CDISRA.X,Capesize Recycling Value $,BALTIC,BALTIC,GENERICRPT
+CDRRI.X,Capesize Residual Risk Index,BALTIC,BALTIC,GENERICRPT
+CDRVI.X,Capesize Residual Value Index $,BALTIC,BALTIC,GENERICRPT
+CDI5TC.X,Capesize Spot Timecharter Earnings $/day,BALTIC,BALTIC,GENERICRPT
+CDTC.X,Capesize Technical Cost $/day,BALTIC,BALTIC,GENERICRPT
+C5TC.X,Capesize Timecharter Average $/day,BALTIC,BALTIC,GENERICRPT
+C5TC182.X,Capesize Timecharter Average $/day,BALTIC,BALTIC,GENERICRPT
+C5TCM0.X,Capesize Timecharter Average Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+C5TCM1.X,Capesize Timecharter Average Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+C5TCM2.X,Capesize Timecharter Average Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+C5TCM3.X,Capesize Timecharter Average Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+C5TCM4.X,Capesize Timecharter Average Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+C5TCM5.X,Capesize Timecharter Average Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+C5TCM6.X,Capesize Timecharter Average Cur Month+6 $/day,BALTIC,BALTIC,GENERICRPT
+C5TCQ0.X,Capesize Timecharter Average Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+C5TCQ1.X,Capesize Timecharter Average Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+C5TCQ2.X,Capesize Timecharter Average Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+C5TCQ3.X,Capesize Timecharter Average Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+C5TCQ4.X,Capesize Timecharter Average Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+C5TCQ5.X,Capesize Timecharter Average Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+C5TCQ6.X,Capesize Timecharter Average Cur Qtr+6 $/day,BALTIC,BALTIC,GENERICRPT
+C5TCYR1.X,Capesize Timecharter Average Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+C5TCYR2.X,Capesize Timecharter Average Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+C5TCYR3.X,Capesize Timecharter Average Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+C5TCYR4.X,Capesize Timecharter Average Cur Year+4 $/day,BALTIC,BALTIC,GENERICRPT
+C5TCYR5.X,Capesize Timecharter Average Cur Year+5 $/day,BALTIC,BALTIC,GENERICRPT
+C5TCYR6.X,Capesize Timecharter Average Cur Year+6 $/day,BALTIC,BALTIC,GENERICRPT
+C5TCYR7.X,Capesize Timecharter Average Cur Year+7 $/day,BALTIC,BALTIC,GENERICRPT
+CDSPA10.X,"Capesize, 10years old $ mil",BALTIC,BALTIC,GENERICRPT
+CAPESIZE.X,"Capesize, 5 years old $",BALTIC,BALTIC,GENERICRPT
+CDSPA.X,"Capesize, 5 years old $ mil",BALTIC,BALTIC,GENERICRPT
+C14182.X,China - Brazil or West Africa round voyage $/day,BALTIC,BALTIC,GENERICRPT
+C14.X,China-Brazil or West Africa round voyage $/day,BALTIC,BALTIC,GENERICRPT
+C10.X,China-Japan transpacific round voyage $/day,BALTIC,BALTIC,GENERICRPT
+C10182.X,China-Japan transpacific round voyage $/day,BALTIC,BALTIC,GENERICRPT
+BCT20.X,Clean 90k Middle East Gulf to UK-Continent $,BALTIC,BALTIC,GENERICRPT
+BCT20SBALMO.X,Clean 90k Middle East Gulf to UK-Continent $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BCT20SM0.X,Clean 90k Middle East Gulf to UK-Continent $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BCT20SM1.X,Clean 90k Middle East Gulf to UK-Continent $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT20SM2.X,Clean 90k Middle East Gulf to UK-Continent $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT20SM3.X,Clean 90k Middle East Gulf to UK-Continent $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT20SM4.X,Clean 90k Middle East Gulf to UK-Continent $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT20SM5.X,Clean 90k Middle East Gulf to UK-Continent $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT20SQ0.X,Clean 90k Middle East Gulf to UK-Continent $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BCT20SQ1.X,Clean 90k Middle East Gulf to UK-Continent $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT20SQ2.X,Clean 90k Middle East Gulf to UK-Continent $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT20SQ3.X,Clean 90k Middle East Gulf to UK-Continent $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT20SQ4.X,Clean 90k Middle East Gulf to UK-Continent $ Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT20SQ5.X,Clean 90k Middle East Gulf to UK-Continent $ Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT20SYR1.X,Clean 90k Middle East Gulf to UK-Continent $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT20SYR2.X,Clean 90k Middle East Gulf to UK-Continent $ Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+C9.X,Cont-Med trip China-Japan $/day,BALTIC,BALTIC,GENERICRPT
+C9182.X,Cont-Med trip China-Japan $/day,BALTIC,BALTIC,GENERICRPT
+BDT3SBALMO.X,Dirty 270K Middle East Gulf to China $ BALMO $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3SM0.X,Dirty 270K Middle East Gulf to China $ Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3SM1.X,Dirty 270K Middle East Gulf to China $ Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3SM2.X,Dirty 270K Middle East Gulf to China $ Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3SM3.X,Dirty 270K Middle East Gulf to China $ Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3SM4.X,Dirty 270K Middle East Gulf to China $ Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3SM5.X,Dirty 270K Middle East Gulf to China $ Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3SQ0.X,Dirty 270K Middle East Gulf to China $ Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3SQ1.X,Dirty 270K Middle East Gulf to China $ Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3SQ2.X,Dirty 270K Middle East Gulf to China $ Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3SQ3.X,Dirty 270K Middle East Gulf to China $ Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3SQ4.X,Dirty 270K Middle East Gulf to China $ Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3SQ5.X,Dirty 270K Middle East Gulf to China $ Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3SYR1.X,Dirty 270K Middle East Gulf to China $ Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3SYR2.X,Dirty 270K Middle East Gulf to China $ Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3SYR3.X,Dirty 270K Middle East Gulf to China $ Cur Year+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3SYR4.X,Dirty 270K Middle East Gulf to China $ Cur Year+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3BALMO.X,Dirty 270K Middle East Gulf to China BALMO WS,BALTIC,BALTIC,GENERICRPT
+BDT3M0.X,Dirty 270K Middle East Gulf to China Cur Month WS,BALTIC,BALTIC,GENERICRPT
+BDT3M1.X,Dirty 270K Middle East Gulf to China Cur Month+1 WS,BALTIC,BALTIC,GENERICRPT
+BDT3M2.X,Dirty 270K Middle East Gulf to China Cur Month+2 WS,BALTIC,BALTIC,GENERICRPT
+BDT3M3.X,Dirty 270K Middle East Gulf to China Cur Month+3 WS,BALTIC,BALTIC,GENERICRPT
+BDT3M4.X,Dirty 270K Middle East Gulf to China Cur Month+4 WS,BALTIC,BALTIC,GENERICRPT
+BDT3M5.X,Dirty 270K Middle East Gulf to China Cur Month+5 WS,BALTIC,BALTIC,GENERICRPT
+BDT3Q0.X,Dirty 270K Middle East Gulf to China Cur Qtr WS,BALTIC,BALTIC,GENERICRPT
+BDT3Q1.X,Dirty 270K Middle East Gulf to China Cur Qtr+1 WS,BALTIC,BALTIC,GENERICRPT
+BDT3Q2.X,Dirty 270K Middle East Gulf to China Cur Qtr+2 WS,BALTIC,BALTIC,GENERICRPT
+BDT3Q3.X,Dirty 270K Middle East Gulf to China Cur Qtr+3 WS,BALTIC,BALTIC,GENERICRPT
+BDT3CW0.X,Dirty 270K Middle East Gulf to China Cur Week $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3CW1.X,Dirty 270K Middle East Gulf to China Cur Week+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3CW2.X,Dirty 270K Middle East Gulf to China Cur Week+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3CW3.X,Dirty 270K Middle East Gulf to China Cur Week+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3CW4.X,Dirty 270K Middle East Gulf to China Cur Week+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3CW5.X,Dirty 270K Middle East Gulf to China Cur Week+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BDT3C.X,Dirty 270K Middle East Gulf to China Worldscale,BALTIC,BALTIC,GENERICRPT
+BDT1.X,Dirty Middle East Gulf to US Gulf Worldscale,BALTIC,BALTIC,GENERICRPT
+BDHEI.X,Dry Health of Earnings Index,BALTIC,BALTIC,GENERICRPT
+DSRA.X,Dry Recycling Index,BALTIC,BALTIC,GENERICRPT
+BDRRI.X,Dry Residual Risk Index,BALTIC,BALTIC,GENERICRPT
+BDRVI.X,Dry Residual Value Index,BALTIC,BALTIC,GENERICRPT
+DSPA.X,Dry Sale and Purchase Index,BALTIC,BALTIC,GENERICRPT
+EUADECUSD.X,"EUA December (current year) forward OTC contract, delivered (Priced in $) $",BALTIC,BALTIC,GENERICRPT
+EUADEC.X,"EUA December (current year) forward OTC contract, delivered $/mt",BALTIC,BALTIC,GENERICRPT
+EUADECEUR.X,"EUA December (current year) forward OTC contract, delivered Euro/mt",BALTIC,BALTIC,GENERICRPT
+EUADEC25.X,EUA December (EUADEC) Average of previous month $,BALTIC,BALTIC,GENERICRPT
+EUADEC+1USD.X,"EUA December (next year) forward OTC contract, delivered (Priced in $) $",BALTIC,BALTIC,GENERICRPT
+EUADEC+1.X,"EUA December (next year) forward OTC contract, delivered $/mt",BALTIC,BALTIC,GENERICRPT
+EUADEC+1EUR.X,"EUA December (next year) forward OTC contract, delivered Euro/mt",BALTIC,BALTIC,GENERICRPT
+EUADECCAL+1.X,"EUA December +1 Cal forward OTC contract, delivered (Priced in Euro) Euro",BALTIC,BALTIC,GENERICRPT
+EUADEC24.X,"EUA December 2024 forward OTC contract, delivered Euro",BALTIC,BALTIC,GENERICRPT
+EUADECYR0.X,"EUA December forward OTC contract, delivered (Priced in Euro) Cur Year Euro",BALTIC,BALTIC,GENERICRPT
+EUASPOTUSD.X,"EUA OTC spot price, delivered (Priced in $) $",BALTIC,BALTIC,GENERICRPT
+EUASPOT.X,"EUA OTC spot price, delivered (Priced in Euro) Euro",BALTIC,BALTIC,GENERICRPT
+EUASPOTLOCALCURRENCY.X,"EUA OTC spot price, delivered (Priced in Euro) Euro",BALTIC,BALTIC,GENERICRPT
+EUA.X,"EUA OTC spot price, delivered $/mt",BALTIC,BALTIC,GENERICRPT
+EUAEUR.X,"EUA OTC spot price, delivered Euro/mt",BALTIC,BALTIC,GENERICRPT
+C16182.X,Far East-Atlantic Backhaul $/day,BALTIC,BALTIC,GENERICRPT
+FFAVHSC.X,FFAVHS_C lots,BALTIC,BALTIC,GENERICRPT
+BAI20.X,Frankfurt Outbound Index,BALTIC,BALTIC,GENERICRPT
+FHSFOT.X,Fujairah HSFO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+FLSGOT.X,Fujairah MGO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+FVSFOT.X,Fujairah VLFSO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+GHSFOT.X,Gibraltar HSFO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+GLSGOT.X,Gibraltar MGO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+GVSFOT.X,Gibraltar VLFSO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+C8.X,Gibraltar/Hamburg transatlantic round voyage $/day,BALTIC,BALTIC,GENERICRPT
+C8182.X,Gibraltar/Hamburg transatlantic round voyage $/day,BALTIC,BALTIC,GENERICRPT
+FFADVH6TC.X,H6TC FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVH7TC.X,H7TC FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+BCT6TCE.X,Handy Algeria to European Mediterranean $/day,BALTIC,BALTIC,GENERICRPT
+BCT23TCE.X,Handy ARA to UK-Continent $/day,BALTIC,BALTIC,GENERICRPT
+BDT18TCE.X,HANDY Baltic to UK-Continent $/day,BALTIC,BALTIC,GENERICRPT
+HDISPA10.X,Handysize 10Y Old Price $,BALTIC,BALTIC,GENERICRPT
+BHSFM0.X,"Handysize 28,000dwt Timecharter Average Cur Month $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM10.X,"Handysize 28,000dwt Timecharter Average Cur Month+0 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM20.X,"Handysize 28,000dwt Timecharter Average Cur Month+0 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM30.X,"Handysize 28,000dwt Timecharter Average Cur Month+0 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM40.X,"Handysize 28,000dwt Timecharter Average Cur Month+0 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM50.X,"Handysize 28,000dwt Timecharter Average Cur Month+0 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM60.X,"Handysize 28,000dwt Timecharter Average Cur Month+0 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM70.X,"Handysize 28,000dwt Timecharter Average Cur Month+0 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM80.X,"Handysize 28,000dwt Timecharter Average Cur Month+0 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM1.X,"Handysize 28,000dwt Timecharter Average Cur Month+1 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM11.X,"Handysize 28,000dwt Timecharter Average Cur Month+1 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM21.X,"Handysize 28,000dwt Timecharter Average Cur Month+1 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM31.X,"Handysize 28,000dwt Timecharter Average Cur Month+1 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM41.X,"Handysize 28,000dwt Timecharter Average Cur Month+1 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM51.X,"Handysize 28,000dwt Timecharter Average Cur Month+1 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM61.X,"Handysize 28,000dwt Timecharter Average Cur Month+1 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM71.X,"Handysize 28,000dwt Timecharter Average Cur Month+1 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM81.X,"Handysize 28,000dwt Timecharter Average Cur Month+1 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM12.X,"Handysize 28,000dwt Timecharter Average Cur Month+2 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM2.X,"Handysize 28,000dwt Timecharter Average Cur Month+2 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM22.X,"Handysize 28,000dwt Timecharter Average Cur Month+2 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM32.X,"Handysize 28,000dwt Timecharter Average Cur Month+2 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM42.X,"Handysize 28,000dwt Timecharter Average Cur Month+2 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM52.X,"Handysize 28,000dwt Timecharter Average Cur Month+2 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM62.X,"Handysize 28,000dwt Timecharter Average Cur Month+2 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM72.X,"Handysize 28,000dwt Timecharter Average Cur Month+2 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM82.X,"Handysize 28,000dwt Timecharter Average Cur Month+2 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM13.X,"Handysize 28,000dwt Timecharter Average Cur Month+3 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM23.X,"Handysize 28,000dwt Timecharter Average Cur Month+3 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM3.X,"Handysize 28,000dwt Timecharter Average Cur Month+3 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM33.X,"Handysize 28,000dwt Timecharter Average Cur Month+3 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM43.X,"Handysize 28,000dwt Timecharter Average Cur Month+3 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM53.X,"Handysize 28,000dwt Timecharter Average Cur Month+3 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM63.X,"Handysize 28,000dwt Timecharter Average Cur Month+3 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM73.X,"Handysize 28,000dwt Timecharter Average Cur Month+3 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM83.X,"Handysize 28,000dwt Timecharter Average Cur Month+3 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM14.X,"Handysize 28,000dwt Timecharter Average Cur Month+4 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM24.X,"Handysize 28,000dwt Timecharter Average Cur Month+4 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM34.X,"Handysize 28,000dwt Timecharter Average Cur Month+4 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM4.X,"Handysize 28,000dwt Timecharter Average Cur Month+4 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM44.X,"Handysize 28,000dwt Timecharter Average Cur Month+4 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM54.X,"Handysize 28,000dwt Timecharter Average Cur Month+4 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM64.X,"Handysize 28,000dwt Timecharter Average Cur Month+4 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM74.X,"Handysize 28,000dwt Timecharter Average Cur Month+4 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM84.X,"Handysize 28,000dwt Timecharter Average Cur Month+4 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM15.X,"Handysize 28,000dwt Timecharter Average Cur Month+5 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM25.X,"Handysize 28,000dwt Timecharter Average Cur Month+5 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM35.X,"Handysize 28,000dwt Timecharter Average Cur Month+5 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM45.X,"Handysize 28,000dwt Timecharter Average Cur Month+5 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM5.X,"Handysize 28,000dwt Timecharter Average Cur Month+5 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM55.X,"Handysize 28,000dwt Timecharter Average Cur Month+5 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM65.X,"Handysize 28,000dwt Timecharter Average Cur Month+5 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM75.X,"Handysize 28,000dwt Timecharter Average Cur Month+5 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM85.X,"Handysize 28,000dwt Timecharter Average Cur Month+5 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM16.X,"Handysize 28,000dwt Timecharter Average Cur Month+6 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM26.X,"Handysize 28,000dwt Timecharter Average Cur Month+6 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM36.X,"Handysize 28,000dwt Timecharter Average Cur Month+6 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM46.X,"Handysize 28,000dwt Timecharter Average Cur Month+6 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM56.X,"Handysize 28,000dwt Timecharter Average Cur Month+6 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM6.X,"Handysize 28,000dwt Timecharter Average Cur Month+6 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM66.X,"Handysize 28,000dwt Timecharter Average Cur Month+6 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM76.X,"Handysize 28,000dwt Timecharter Average Cur Month+6 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM86.X,"Handysize 28,000dwt Timecharter Average Cur Month+6 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM17.X,"Handysize 28,000dwt Timecharter Average Cur Month+7 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM27.X,"Handysize 28,000dwt Timecharter Average Cur Month+7 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM37.X,"Handysize 28,000dwt Timecharter Average Cur Month+7 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM47.X,"Handysize 28,000dwt Timecharter Average Cur Month+7 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM57.X,"Handysize 28,000dwt Timecharter Average Cur Month+7 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM67.X,"Handysize 28,000dwt Timecharter Average Cur Month+7 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM7.X,"Handysize 28,000dwt Timecharter Average Cur Month+7 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM77.X,"Handysize 28,000dwt Timecharter Average Cur Month+7 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM87.X,"Handysize 28,000dwt Timecharter Average Cur Month+7 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM18.X,"Handysize 28,000dwt Timecharter Average Cur Month+8 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM28.X,"Handysize 28,000dwt Timecharter Average Cur Month+8 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM38.X,"Handysize 28,000dwt Timecharter Average Cur Month+8 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM48.X,"Handysize 28,000dwt Timecharter Average Cur Month+8 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM58.X,"Handysize 28,000dwt Timecharter Average Cur Month+8 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM68.X,"Handysize 28,000dwt Timecharter Average Cur Month+8 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM78.X,"Handysize 28,000dwt Timecharter Average Cur Month+8 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM8.X,"Handysize 28,000dwt Timecharter Average Cur Month+8 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM88.X,"Handysize 28,000dwt Timecharter Average Cur Month+8 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM19.X,"Handysize 28,000dwt Timecharter Average Cur Month+9 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM29.X,"Handysize 28,000dwt Timecharter Average Cur Month+9 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM39.X,"Handysize 28,000dwt Timecharter Average Cur Month+9 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM49.X,"Handysize 28,000dwt Timecharter Average Cur Month+9 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM59.X,"Handysize 28,000dwt Timecharter Average Cur Month+9 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM69.X,"Handysize 28,000dwt Timecharter Average Cur Month+9 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM79.X,"Handysize 28,000dwt Timecharter Average Cur Month+9 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM89.X,"Handysize 28,000dwt Timecharter Average Cur Month+9 $/day",BALTIC,BALTIC,GENERICRPT
+BHSFM9.X,"Handysize 28,000dwt Timecharter Average Cur Month+9 $/day",BALTIC,BALTIC,GENERICRPT
+HDISPA.X,Handysize 5Y Old Price $,BALTIC,BALTIC,GENERICRPT
+HDNBA.X,"Handysize Bulk Carrier, New Building $ mil",BALTIC,BALTIC,GENERICRPT
+HDCC.X,Handysize Crew Cost $/day,BALTIC,BALTIC,GENERICRPT
+HDIOPEX.X,Handysize Daily Opex $/day,BALTIC,BALTIC,GENERICRPT
+HDDC.X,Handysize Dry Dock Cost $/day,BALTIC,BALTIC,GENERICRPT
+FFAHSOI.X,Handysize FFA Open Interest lots,BALTIC,BALTIC,GENERICRPT
+HDHEI.X,Handysize Health of Earnings Index,BALTIC,BALTIC,GENERICRPT
+HDITC.X,Handysize Implied 5 Year Timecharter $/day,BALTIC,BALTIC,GENERICRPT
+HDIC.X,Handysize Insurance Cost $/day,BALTIC,BALTIC,GENERICRPT
+HDINBA.X,Handysize New Building $,BALTIC,BALTIC,GENERICRPT
+HDOPEX.X,Handysize Operating Expense Index $/day,BALTIC,BALTIC,GENERICRPT
+OPTIONSHSOI.X,Handysize Options Open Interest lots,BALTIC,BALTIC,GENERICRPT
+HDISRA.X,Handysize Recycling Value $,BALTIC,BALTIC,GENERICRPT
+HDRRI.X,Handysize Residual Risk Index,BALTIC,BALTIC,GENERICRPT
+HDRVI.X,Handysize Residual Value Index $,BALTIC,BALTIC,GENERICRPT
+HDI7TC.X,Handysize Spot Timecharter Earnings $/day,BALTIC,BALTIC,GENERICRPT
+HDTC.X,Handysize Technical Cost $/day,BALTIC,BALTIC,GENERICRPT
+HS7TC.X,Handysize Timecharter Average $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FM0.X,Handysize Timecharter Average Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FM1.X,Handysize Timecharter Average Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FM2.X,Handysize Timecharter Average Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FM3.X,Handysize Timecharter Average Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FM4.X,Handysize Timecharter Average Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FM5.X,Handysize Timecharter Average Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FM6.X,Handysize Timecharter Average Cur Month+6 $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FQ0.X,Handysize Timecharter Average Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FQ1.X,Handysize Timecharter Average Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FQ2.X,Handysize Timecharter Average Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FQ3.X,Handysize Timecharter Average Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FQ4.X,Handysize Timecharter Average Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FQ5.X,Handysize Timecharter Average Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FQ6.X,Handysize Timecharter Average Cur Qtr+6 $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FYR1.X,Handysize Timecharter Average Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FYR2.X,Handysize Timecharter Average Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FYR3.X,Handysize Timecharter Average Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FYR4.X,Handysize Timecharter Average Cur Year+4 $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FYR5.X,Handysize Timecharter Average Cur Year+5 $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FYR6.X,Handysize Timecharter Average Cur Year+6 $/day,BALTIC,BALTIC,GENERICRPT
+BHS38FYR7.X,Handysize Timecharter Average Cur Year+7 $/day,BALTIC,BALTIC,GENERICRPT
+HDSPA10.X,"Handysize, 10years old $ mil",BALTIC,BALTIC,GENERICRPT
+HANDYSIZE.X,"Handysize, 5 years old $",BALTIC,BALTIC,GENERICRPT
+HDSPA.X,"Handysize, 5 years old $ mil",BALTIC,BALTIC,GENERICRPT
+BAI30.X,Hong Kong Outbound Index,BALTIC,BALTIC,GENERICRPT
+HHSFOT.X,Houston HSFO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+HLSGOT.X,Houston MGO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+HVSFOT.X,Houston VLFSO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+S15.X,Indian Ocean trip via South Africa to the Far East $/day,BALTIC,BALTIC,GENERICRPT
+IVC5M0.X,IV_C5-FFA Cur Month %,BALTIC,BALTIC,GENERICRPT
+IVC5M1.X,IV_C5-FFA Cur Month+1 %,BALTIC,BALTIC,GENERICRPT
+IVC5M2.X,IV_C5-FFA Cur Month+2 %,BALTIC,BALTIC,GENERICRPT
+IVC5M3.X,IV_C5-FFA Cur Month+3 %,BALTIC,BALTIC,GENERICRPT
+IVC5M4.X,IV_C5-FFA Cur Month+4 %,BALTIC,BALTIC,GENERICRPT
+IVC5M5.X,IV_C5-FFA Cur Month+5 %,BALTIC,BALTIC,GENERICRPT
+IVC5Q1.X,IV_C5-FFA Cur Qtr+1 %,BALTIC,BALTIC,GENERICRPT
+IVC5Q2.X,IV_C5-FFA Cur Qtr+2 %,BALTIC,BALTIC,GENERICRPT
+IVC5Q3.X,IV_C5-FFA Cur Qtr+3 %,BALTIC,BALTIC,GENERICRPT
+IVC5Q4.X,IV_C5-FFA Cur Qtr+4 %,BALTIC,BALTIC,GENERICRPT
+IVC5YR1.X,IV_C5-FFA Cur Year+1 %,BALTIC,BALTIC,GENERICRPT
+IVCTC14M0.X,IV_CTC14-FFA Cur Month %,BALTIC,BALTIC,GENERICRPT
+IVCTC14M1.X,IV_CTC14-FFA Cur Month+1 %,BALTIC,BALTIC,GENERICRPT
+IVCTC14M2.X,IV_CTC14-FFA Cur Month+2 %,BALTIC,BALTIC,GENERICRPT
+IVCTC14M3.X,IV_CTC14-FFA Cur Month+3 %,BALTIC,BALTIC,GENERICRPT
+IVCTC14Q1.X,IV_CTC14-FFA Cur Qtr+1 %,BALTIC,BALTIC,GENERICRPT
+IVCTC14Q2.X,IV_CTC14-FFA Cur Qtr+2 %,BALTIC,BALTIC,GENERICRPT
+IVCTC14Q3.X,IV_CTC14-FFA Cur Qtr+3 %,BALTIC,BALTIC,GENERICRPT
+IVCTC14Q4.X,IV_CTC14-FFA Cur Qtr+4 %,BALTIC,BALTIC,GENERICRPT
+IVCTC14YR1.X,IV_CTC14-FFA Cur Year+1 %,BALTIC,BALTIC,GENERICRPT
+IVCTC14YR2.X,IV_CTC14-FFA Cur Year+2 %,BALTIC,BALTIC,GENERICRPT
+IVCTC14YR3.X,IV_CTC14-FFA Cur Year+3 %,BALTIC,BALTIC,GENERICRPT
+IVCTC14YR4.X,IV_CTC14-FFA Cur Year+4 %,BALTIC,BALTIC,GENERICRPT
+IVP2AM0.X,IV_P2A-FFA Cur Month %,BALTIC,BALTIC,GENERICRPT
+IVP2AM1.X,IV_P2A-FFA Cur Month+1 %,BALTIC,BALTIC,GENERICRPT
+IVP2AM2.X,IV_P2A-FFA Cur Month+2 %,BALTIC,BALTIC,GENERICRPT
+IVP2AQ1.X,IV_P2A-FFA Cur Qtr+1 %,BALTIC,BALTIC,GENERICRPT
+IVP2AQ2.X,IV_P2A-FFA Cur Qtr+2 %,BALTIC,BALTIC,GENERICRPT
+IVP2AQ3.X,IV_P2A-FFA Cur Qtr+3 %,BALTIC,BALTIC,GENERICRPT
+IVP2AQ4.X,IV_P2A-FFA Cur Qtr+4 %,BALTIC,BALTIC,GENERICRPT
+IVP2AYR1.X,IV_P2A-FFA Cur Year+1 %,BALTIC,BALTIC,GENERICRPT
+IVP5TCM0.X,IV_P5TC-FFA Cur Month %,BALTIC,BALTIC,GENERICRPT
+IVP5TCM1.X,IV_P5TC-FFA Cur Month+1 %,BALTIC,BALTIC,GENERICRPT
+IVP5TCM2.X,IV_P5TC-FFA Cur Month+2 %,BALTIC,BALTIC,GENERICRPT
+IVP5TCM3.X,IV_P5TC-FFA Cur Month+3 %,BALTIC,BALTIC,GENERICRPT
+IVP5TCQ1.X,IV_P5TC-FFA Cur Qtr+1 %,BALTIC,BALTIC,GENERICRPT
+IVP5TCQ2.X,IV_P5TC-FFA Cur Qtr+2 %,BALTIC,BALTIC,GENERICRPT
+IVP5TCQ3.X,IV_P5TC-FFA Cur Qtr+3 %,BALTIC,BALTIC,GENERICRPT
+IVP5TCQ4.X,IV_P5TC-FFA Cur Qtr+4 %,BALTIC,BALTIC,GENERICRPT
+IVP5TCYR1.X,IV_P5TC-FFA Cur Year+1 %,BALTIC,BALTIC,GENERICRPT
+IVP5TCYR2.X,IV_P5TC-FFA Cur Year+2 %,BALTIC,BALTIC,GENERICRPT
+IVP5TCYR3.X,IV_P5TC-FFA Cur Year+3 %,BALTIC,BALTIC,GENERICRPT
+IVP5TCYR4.X,IV_P5TC-FFA Cur Year+4 %,BALTIC,BALTIC,GENERICRPT
+IVPTCM0.X,IV_PTC-FFA Cur Month %,BALTIC,BALTIC,GENERICRPT
+IVPTCM1.X,IV_PTC-FFA Cur Month+1 %,BALTIC,BALTIC,GENERICRPT
+IVPTCM2.X,IV_PTC-FFA Cur Month+2 %,BALTIC,BALTIC,GENERICRPT
+IVPTCM3.X,IV_PTC-FFA Cur Month+3 %,BALTIC,BALTIC,GENERICRPT
+IVPTCQ1.X,IV_PTC-FFA Cur Qtr+1 %,BALTIC,BALTIC,GENERICRPT
+IVPTCQ2.X,IV_PTC-FFA Cur Qtr+2 %,BALTIC,BALTIC,GENERICRPT
+IVPTCQ3.X,IV_PTC-FFA Cur Qtr+3 %,BALTIC,BALTIC,GENERICRPT
+IVPTCQ4.X,IV_PTC-FFA Cur Qtr+4 %,BALTIC,BALTIC,GENERICRPT
+IVPTCYR1.X,IV_PTC-FFA Cur Year+1 %,BALTIC,BALTIC,GENERICRPT
+IVPTCYR2.X,IV_PTC-FFA Cur Year+2 %,BALTIC,BALTIC,GENERICRPT
+IVPTCYR3.X,IV_PTC-FFA Cur Year+3 %,BALTIC,BALTIC,GENERICRPT
+IVPTCYR4.X,IV_PTC-FFA Cur Year+4 %,BALTIC,BALTIC,GENERICRPT
+IVS10TCM0.X,IV_S10TC-FFA Cur Month %,BALTIC,BALTIC,GENERICRPT
+IVS10TCM1.X,IV_S10TC-FFA Cur Month+1 %,BALTIC,BALTIC,GENERICRPT
+IVS10TCM2.X,IV_S10TC-FFA Cur Month+2 %,BALTIC,BALTIC,GENERICRPT
+IVS10TCM3.X,IV_S10TC-FFA Cur Month+3 %,BALTIC,BALTIC,GENERICRPT
+IVS10TCQ1.X,IV_S10TC-FFA Cur Qtr+1 %,BALTIC,BALTIC,GENERICRPT
+IVS10TCQ2.X,IV_S10TC-FFA Cur Qtr+2 %,BALTIC,BALTIC,GENERICRPT
+IVS10TCQ3.X,IV_S10TC-FFA Cur Qtr+3 %,BALTIC,BALTIC,GENERICRPT
+IVS10TCQ4.X,IV_S10TC-FFA Cur Qtr+4 %,BALTIC,BALTIC,GENERICRPT
+IVS10TCYR1.X,IV_S10TC-FFA Cur Year+1 %,BALTIC,BALTIC,GENERICRPT
+IVS10TCYR2.X,IV_S10TC-FFA Cur Year+2 %,BALTIC,BALTIC,GENERICRPT
+IVS10TCYR3.X,IV_S10TC-FFA Cur Year+3 %,BALTIC,BALTIC,GENERICRPT
+IVS10TCYR4.X,IV_S10TC-FFA Cur Year+4 %,BALTIC,BALTIC,GENERICRPT
+P3A82.X,Japan-South Korea transpacific round voyage $/day,BALTIC,BALTIC,GENERICRPT
+P3EA82M0.X,Japan-South Korea transpacific round voyage Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+P3EA82M1.X,Japan-South Korea transpacific round voyage Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+P3EA82M2.X,Japan-South Korea transpacific round voyage Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+P3EA82M3.X,Japan-South Korea transpacific round voyage Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+P3EA82M4.X,Japan-South Korea transpacific round voyage Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+P3EA82M5.X,Japan-South Korea transpacific round voyage Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+P3EA82M6.X,Japan-South Korea transpacific round voyage Cur Month+6 $/day,BALTIC,BALTIC,GENERICRPT
+P3EA82Q0.X,Japan-South Korea transpacific round voyage Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+P3EA82Q1.X,Japan-South Korea transpacific round voyage Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+P3EA82Q2.X,Japan-South Korea transpacific round voyage Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+P3EA82Q3.X,Japan-South Korea transpacific round voyage Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+P3EA82Q4.X,Japan-South Korea transpacific round voyage Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+P3EA82Q5.X,Japan-South Korea transpacific round voyage Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+P3EA82Q6.X,Japan-South Korea transpacific round voyage Cur Qtr+6 $/day,BALTIC,BALTIC,GENERICRPT
+P3EA82YR1.X,Japan-South Korea transpacific round voyage Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+P3EA82YR2.X,Japan-South Korea transpacific round voyage Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+P3EA82YR3.X,Japan-South Korea transpacific round voyage Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+P482.X,Japan-South Korea trip to Skaw-Passero $/day,BALTIC,BALTIC,GENERICRPT
+LCNBA.X,"Large 15,000 TEU CV, New Building $ mil",BALTIC,BALTIC,GENERICRPT
+BCBDESHLRG.X,"Large Bulk Carrier, Bangladesh $/LDT",BALTIC,BALTIC,GENERICRPT
+LBDSRA.X,"Large Bulk Carrier, Bangladesh $/LDT",BALTIC,BALTIC,GENERICRPT
+BCINDLRG.X,"Large Bulk Carrier, India $/LDT",BALTIC,BALTIC,GENERICRPT
+LIDSRA.X,"Large Bulk Carrier, India $/LDT",BALTIC,BALTIC,GENERICRPT
+BCPAKLRG.X,"Large Bulk Carrier, Pakistan $/LDT",BALTIC,BALTIC,GENERICRPT
+LPDSRA.X,"Large Bulk Carrier, Pakistan $/LDT",BALTIC,BALTIC,GENERICRPT
+LBTSRA.X,"Large Tanker, Bangladesh $/LDT",BALTIC,BALTIC,GENERICRPT
+TKRBDESHLRG.X,"Large Tanker, Bangladesh $/LDT",BALTIC,BALTIC,GENERICRPT
+LITSRA.X,"Large Tanker, India $/LDT",BALTIC,BALTIC,GENERICRPT
+TKRINDLRG.X,"Large Tanker, India $/LDT",BALTIC,BALTIC,GENERICRPT
+LPTSRA.X,"Large Tanker, Pakistan $/LDT",BALTIC,BALTIC,GENERICRPT
+TKRPAKLRG.X,"Large Tanker, Pakistan $/LDT",BALTIC,BALTIC,GENERICRPT
+BLNG1174.X,LNG Australia to Japan Round Voyage (174) $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1174M0.X,LNG Australia to Japan Round Voyage (174) Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1174M1.X,LNG Australia to Japan Round Voyage (174) Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1174M2.X,LNG Australia to Japan Round Voyage (174) Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1174M3.X,LNG Australia to Japan Round Voyage (174) Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1174M4.X,LNG Australia to Japan Round Voyage (174) Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1174M5.X,LNG Australia to Japan Round Voyage (174) Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1174Q0.X,LNG Australia to Japan Round Voyage (174) Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1174Q1.X,LNG Australia to Japan Round Voyage (174) Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1174Q2.X,LNG Australia to Japan Round Voyage (174) Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1174Q3.X,LNG Australia to Japan Round Voyage (174) Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1174Q4.X,LNG Australia to Japan Round Voyage (174) Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1174Q5.X,LNG Australia to Japan Round Voyage (174) Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1174YR1.X,LNG Australia to Japan Round Voyage (174) Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1174YR2.X,LNG Australia to Japan Round Voyage (174) Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1174YR3.X,LNG Australia to Japan Round Voyage (174) Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1.X,LNG Australia to Japan Round Voyage $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1G.X,LNG Australia to Japan Round Voyage $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1GM0.X,LNG Australia to Japan Round Voyage Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1GM1.X,LNG Australia to Japan Round Voyage Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1GM2.X,LNG Australia to Japan Round Voyage Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1GM3.X,LNG Australia to Japan Round Voyage Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1GM4.X,LNG Australia to Japan Round Voyage Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1GM5.X,LNG Australia to Japan Round Voyage Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1GQ0.X,LNG Australia to Japan Round Voyage Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1GQ1.X,LNG Australia to Japan Round Voyage Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1GQ2.X,LNG Australia to Japan Round Voyage Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1GQ3.X,LNG Australia to Japan Round Voyage Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1GQ4.X,LNG Australia to Japan Round Voyage Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1GQ5.X,LNG Australia to Japan Round Voyage Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1GYR1.X,LNG Australia to Japan Round Voyage Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG1GYR2.X,LNG Australia to Japan Round Voyage Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+LNGCC.X,LNG Carrier Crew Cost $/day,BALTIC,BALTIC,GENERICRPT
+LNGDC.X,LNG Carrier Dry Dock Cost $/day,BALTIC,BALTIC,GENERICRPT
+LNGIC.X,LNG Carrier Insurance Cost $/day,BALTIC,BALTIC,GENERICRPT
+LNGOPEX.X,LNG Carrier Operating Expense Index $/day,BALTIC,BALTIC,GENERICRPT
+LNGTC.X,LNG Carrier Technical Cost $/day,BALTIC,BALTIC,GENERICRPT
+LNGNBA.X,"LNG Carrier, New Building $ mil",BALTIC,BALTIC,GENERICRPT
+BFLNG1.X,LNG DES Japan 30-45d $/cbm,BALTIC,BALTIC,GENERICRPT
+BFLNG3.X,LNG DES Japan 60-75d $/cbm,BALTIC,BALTIC,GENERICRPT
+BFLNG2.X,LNG DES UK 30-45d $/cbm,BALTIC,BALTIC,GENERICRPT
+BLNG2174.X,LNG US Gulf to Continent Round Voyage (174) $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2174M0.X,LNG US Gulf to Continent Round Voyage (174) Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2174M1.X,LNG US Gulf to Continent Round Voyage (174) Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2174M2.X,LNG US Gulf to Continent Round Voyage (174) Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2174M3.X,LNG US Gulf to Continent Round Voyage (174) Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2174M4.X,LNG US Gulf to Continent Round Voyage (174) Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2174M5.X,LNG US Gulf to Continent Round Voyage (174) Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2174Q0.X,LNG US Gulf to Continent Round Voyage (174) Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2174Q1.X,LNG US Gulf to Continent Round Voyage (174) Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2174Q2.X,LNG US Gulf to Continent Round Voyage (174) Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2174Q3.X,LNG US Gulf to Continent Round Voyage (174) Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2174Q4.X,LNG US Gulf to Continent Round Voyage (174) Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2174Q5.X,LNG US Gulf to Continent Round Voyage (174) Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2174YR1.X,LNG US Gulf to Continent Round Voyage (174) Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2174YR2.X,LNG US Gulf to Continent Round Voyage (174) Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2174YR3.X,LNG US Gulf to Continent Round Voyage (174) Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2.X,LNG US Gulf to Continent Round Voyage $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2G.X,LNG US Gulf to Continent Round Voyage $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2GM0.X,LNG US Gulf to Continent Round Voyage Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2GM1.X,LNG US Gulf to Continent Round Voyage Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2GM2.X,LNG US Gulf to Continent Round Voyage Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2GM3.X,LNG US Gulf to Continent Round Voyage Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2GM4.X,LNG US Gulf to Continent Round Voyage Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2GM5.X,LNG US Gulf to Continent Round Voyage Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2GQ0.X,LNG US Gulf to Continent Round Voyage Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2GQ1.X,LNG US Gulf to Continent Round Voyage Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2GQ2.X,LNG US Gulf to Continent Round Voyage Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2GQ3.X,LNG US Gulf to Continent Round Voyage Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2GQ4.X,LNG US Gulf to Continent Round Voyage Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2GQ5.X,LNG US Gulf to Continent Round Voyage Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2GYR1.X,LNG US Gulf to Continent Round Voyage Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG2GYR2.X,LNG US Gulf to Continent Round Voyage Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3174.X,LNG US Gulf to Japan Round Voyage (174) $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3174M0.X,LNG US Gulf to Japan Round Voyage (174) Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3174M1.X,LNG US Gulf to Japan Round Voyage (174) Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3174M2.X,LNG US Gulf to Japan Round Voyage (174) Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3174M3.X,LNG US Gulf to Japan Round Voyage (174) Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3174M4.X,LNG US Gulf to Japan Round Voyage (174) Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3174M5.X,LNG US Gulf to Japan Round Voyage (174) Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3174Q0.X,LNG US Gulf to Japan Round Voyage (174) Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3174Q1.X,LNG US Gulf to Japan Round Voyage (174) Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3174Q2.X,LNG US Gulf to Japan Round Voyage (174) Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3174Q3.X,LNG US Gulf to Japan Round Voyage (174) Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3174Q4.X,LNG US Gulf to Japan Round Voyage (174) Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3174Q5.X,LNG US Gulf to Japan Round Voyage (174) Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3174YR1.X,LNG US Gulf to Japan Round Voyage (174) Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3174YR2.X,LNG US Gulf to Japan Round Voyage (174) Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3174YR3.X,LNG US Gulf to Japan Round Voyage (174) Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3.X,LNG US Gulf to Japan Round Voyage $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3G.X,LNG US Gulf to Japan Round Voyage $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3GM0.X,LNG US Gulf to Japan Round Voyage Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3GM1.X,LNG US Gulf to Japan Round Voyage Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3GM2.X,LNG US Gulf to Japan Round Voyage Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3GM3.X,LNG US Gulf to Japan Round Voyage Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3GM4.X,LNG US Gulf to Japan Round Voyage Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3GM5.X,LNG US Gulf to Japan Round Voyage Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3GQ0.X,LNG US Gulf to Japan Round Voyage Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3GQ1.X,LNG US Gulf to Japan Round Voyage Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3GQ2.X,LNG US Gulf to Japan Round Voyage Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3GQ3.X,LNG US Gulf to Japan Round Voyage Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3GQ4.X,LNG US Gulf to Japan Round Voyage Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3GQ5.X,LNG US Gulf to Japan Round Voyage Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3GYR1.X,LNG US Gulf to Japan Round Voyage Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+BLNG3GYR2.X,LNG US Gulf to Japan Round Voyage Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+FFADVLNG1.X,LNG1 FFA Volumes Lots,BALTIC,BALTIC,GENERICRPT
+FFADVLNG2.X,LNG2 FFA Volumes Lots,BALTIC,BALTIC,GENERICRPT
+FFADVLNG3.X,LNG3 FFA Volumes Lots,BALTIC,BALTIC,GENERICRPT
+BAI40.X,London Heathrow Outbound Index,BALTIC,BALTIC,GENERICRPT
+LPGCC.X,LPG Carrier Crew Cost $/day,BALTIC,BALTIC,GENERICRPT
+LPGDC.X,LPG Carrier Dry Dock Cost $/day,BALTIC,BALTIC,GENERICRPT
+LPGIC.X,LPG Carrier Insurance Cost $/day,BALTIC,BALTIC,GENERICRPT
+LPGOPEX.X,LPG Carrier Operating Expense Index $/day,BALTIC,BALTIC,GENERICRPT
+LPGTC.X,LPG Carrier Technical Cost $/day,BALTIC,BALTIC,GENERICRPT
+LPGNBA.X,"LPG Carrier, New Building $ mil",BALTIC,BALTIC,GENERICRPT
+BLPG1.X,LPG Middle East Gulf to Japan $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG1M0.X,LPG Middle East Gulf to Japan Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG1M1.X,LPG Middle East Gulf to Japan Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG1M2.X,LPG Middle East Gulf to Japan Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG1M3.X,LPG Middle East Gulf to Japan Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG1M4.X,LPG Middle East Gulf to Japan Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG1M5.X,LPG Middle East Gulf to Japan Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG1Q0.X,LPG Middle East Gulf to Japan Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG1Q1.X,LPG Middle East Gulf to Japan Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG1Q2.X,LPG Middle East Gulf to Japan Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG1Q3.X,LPG Middle East Gulf to Japan Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG1Q4.X,LPG Middle East Gulf to Japan Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG1Q5.X,LPG Middle East Gulf to Japan Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG1YR1.X,LPG Middle East Gulf to Japan Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG1YR2.X,LPG Middle East Gulf to Japan Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG2.X,LPG US Gulf to Continent $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG2M0.X,LPG US Gulf to Continent Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG2M1.X,LPG US Gulf to Continent Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG2M2.X,LPG US Gulf to Continent Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG2M3.X,LPG US Gulf to Continent Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG2M4.X,LPG US Gulf to Continent Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG2M5.X,LPG US Gulf to Continent Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG2Q0.X,LPG US Gulf to Continent Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG2Q1.X,LPG US Gulf to Continent Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG2Q2.X,LPG US Gulf to Continent Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG2Q3.X,LPG US Gulf to Continent Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG2Q4.X,LPG US Gulf to Continent Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG2Q5.X,LPG US Gulf to Continent Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG2YR1.X,LPG US Gulf to Continent Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG2YR2.X,LPG US Gulf to Continent Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG3.X,LPG US Gulf to Japan $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG3M0.X,LPG US Gulf to Japan Cur Month $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG3M1.X,LPG US Gulf to Japan Cur Month+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG3M2.X,LPG US Gulf to Japan Cur Month+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG3M3.X,LPG US Gulf to Japan Cur Month+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG3M4.X,LPG US Gulf to Japan Cur Month+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG3M5.X,LPG US Gulf to Japan Cur Month+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG3Q0.X,LPG US Gulf to Japan Cur Qtr $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG3Q1.X,LPG US Gulf to Japan Cur Qtr+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG3Q2.X,LPG US Gulf to Japan Cur Qtr+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG3Q3.X,LPG US Gulf to Japan Cur Qtr+3 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG3Q4.X,LPG US Gulf to Japan Cur Qtr+4 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG3Q5.X,LPG US Gulf to Japan Cur Qtr+5 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG3YR1.X,LPG US Gulf to Japan Cur Year+1 $/mt,BALTIC,BALTIC,GENERICRPT
+BLPG3YR2.X,LPG US Gulf to Japan Cur Year+2 $/mt,BALTIC,BALTIC,GENERICRPT
+BCT16TCE.X,LR1 Amsterdam to offshore Lome $/day,BALTIC,BALTIC,GENERICRPT
+BCT5TCE.X,LR1 Middle East Gulf to Japan $/day,BALTIC,BALTIC,GENERICRPT
+BCT8TCE.X,LR1 Middle East Gulf to UK-Continent $/day,BALTIC,BALTIC,GENERICRPT
+BCT15TCE.X,LR2 Mediterranean to Far East $/day,BALTIC,BALTIC,GENERICRPT
+BCT1TCE.X,LR2 Middle East Gulf to Japan $/day,BALTIC,BALTIC,GENERICRPT
+BCT20TCE.X,LR2 Middle East Gulf to UK-Continent $/day,BALTIC,BALTIC,GENERICRPT
+LTNBA.X,"LR2 Product Carrier, New Building $ mil",BALTIC,BALTIC,GENERICRPT
+BCBDESHMED.X,"Medium Bulk Carrier, Bangladesh $/LDT",BALTIC,BALTIC,GENERICRPT
+MBDSRA.X,"Medium Bulk Carrier, Bangladesh $/LDT",BALTIC,BALTIC,GENERICRPT
+BCINDMED.X,"Medium Bulk Carrier, India $/LDT",BALTIC,BALTIC,GENERICRPT
+MIDSRA.X,"Medium Bulk Carrier, India $/LDT",BALTIC,BALTIC,GENERICRPT
+BCPAKMED.X,"Medium Bulk Carrier, Pakistan $/LDT",BALTIC,BALTIC,GENERICRPT
+MPDSRA.X,"Medium Bulk Carrier, Pakistan $/LDT",BALTIC,BALTIC,GENERICRPT
+MBTSRA.X,"Medium Tanker, Bangladesh $/LDT",BALTIC,BALTIC,GENERICRPT
+TKRBDESHMED.X,"Medium Tanker, Bangladesh $/LDT",BALTIC,BALTIC,GENERICRPT
+MITSRA.X,"Medium Tanker, India $/LDT",BALTIC,BALTIC,GENERICRPT
+TKRINDMED.X,"Medium Tanker, India $/LDT",BALTIC,BALTIC,GENERICRPT
+MPTSRA.X,"Medium Tanker, Pakistan $/LDT",BALTIC,BALTIC,GENERICRPT
+TKRPAKMED.X,"Medium Tanker, Pakistan $/LDT",BALTIC,BALTIC,GENERICRPT
+MTISPA10.X,MR 10Y Old Price $,BALTIC,BALTIC,GENERICRPT
+MT5YTC.X,MR 5 Year Timecharter,BALTIC,BALTIC,GENERICRPT
+MTISPA.X,MR 5Y Old Price $,BALTIC,BALTIC,GENERICRPT
+BCT19TCE.X,MR Amsterdam to Lagos $/day,BALTIC,BALTIC,GENERICRPT
+MA2TCE.X,MR Atlantic Basket $/day,BALTIC,BALTIC,GENERICRPT
+BCT237TCE.X,MR Continent to US Atlantic Coast $/day,BALTIC,BALTIC,GENERICRPT
+MTCC.X,MR Crew Cost $/day,BALTIC,BALTIC,GENERICRPT
+MTIOPEX.X,MR Daily Opex,BALTIC,BALTIC,GENERICRPT
+MTDC.X,MR Dry Dock Cost $/day,BALTIC,BALTIC,GENERICRPT
+MTHEI.X,MR Health of Earnings Index,BALTIC,BALTIC,GENERICRPT
+MTTCEA.X,MR Implied Spot Timecharter Earnings,BALTIC,BALTIC,GENERICRPT
+MTIC.X,MR Insurance Cost $/day,BALTIC,BALTIC,GENERICRPT
+BCT17TCE.X,MR Middle East Gulf to East Africa $/day,BALTIC,BALTIC,GENERICRPT
+MTOPEX.X,MR Operating Expense Index $/day,BALTIC,BALTIC,GENERICRPT
+MP2TCE.X,MR Pacific Basket $/day,BALTIC,BALTIC,GENERICRPT
+MTTC5.X,MR Product Carrier 5 Year Time Charter $/day,BALTIC,BALTIC,GENERICRPT
+MRPRODTKR.X,"MR Product Carrier, 5 years old $",BALTIC,BALTIC,GENERICRPT
+MTSPA.X,"MR Product Carrier, 5 years old $ mil",BALTIC,BALTIC,GENERICRPT
+MTINBA.X,"MR Product Carrier, New Building",BALTIC,BALTIC,GENERICRPT
+MTNBA.X,"MR Product Carrier, New Building $ mil",BALTIC,BALTIC,GENERICRPT
+MTISRA.X,MR Recycling Value,BALTIC,BALTIC,GENERICRPT
+MTRRI.X,MR Residual Risk Index,BALTIC,BALTIC,GENERICRPT
+MTRVI.X,MR Residual Value Index,BALTIC,BALTIC,GENERICRPT
+BITRA12TCE.X,MR Sikka to Japan $/day,BALTIC,BALTIC,GENERICRPT
+BITRA7TCE.X,MR Singapore to East Coast Australia $/day,BALTIC,BALTIC,GENERICRPT
+BCT22TCE.X,MR South Korea to Australia $/day,BALTIC,BALTIC,GENERICRPT
+BCT10TCE.X,MR South Korea to North Pacific West Coast $/day,BALTIC,BALTIC,GENERICRPT
+BITRA11TCE.X,MR South Korea to Singapore $/day,BALTIC,BALTIC,GENERICRPT
+MTSPA10.X,"MR Tanker, 10 years old $ mil",BALTIC,BALTIC,GENERICRPT
+MTTC.X,MR Technical Cost $/day,BALTIC,BALTIC,GENERICRPT
+BCT18TCE.X,MR US Gulf to Brazil $/day,BALTIC,BALTIC,GENERICRPT
+BCT21TCE.X,MR US Gulf to Caribbean $/day,BALTIC,BALTIC,GENERICRPT
+BCT14TCE.X,MR US Gulf to Continent $/day,BALTIC,BALTIC,GENERICRPT
+MRATCEM0.X,MRATCE-FFA Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+MRATCEM1.X,MRATCE-FFA Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+MRATCEM2.X,MRATCE-FFA Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+MRATCEM3.X,MRATCE-FFA Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+MRATCEM4.X,MRATCE-FFA Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+MRATCEM5.X,MRATCE-FFA Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+MRATCEQ0.X,MRATCE-FFA Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+MRATCEQ1.X,MRATCE-FFA Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+MRATCEQ2.X,MRATCE-FFA Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+MRATCEQ3.X,MRATCE-FFA Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+MRATCEQ4.X,MRATCE-FFA Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+MRATCEQ5.X,MRATCE-FFA Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+MRATCEYR1.X,MRATCE-FFA Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+MRATCEYR2.X,MRATCE-FFA Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+NDNBA.X,"Newcastlemax Bulk Carrier, New Building $ mil",BALTIC,BALTIC,GENERICRPT
+S2.X,North China one Australian or Pacific round voyage $/day,BALTIC,BALTIC,GENERICRPT
+S3.X,North China trip to West Africa $/day,BALTIC,BALTIC,GENERICRPT
+HS638.X,North China-South Korea-Japan trip to North China-South Korea-Japan $/day,BALTIC,BALTIC,GENERICRPT
+HS738.X,North China-South Korea-Japan trip to South East Asia $/day,BALTIC,BALTIC,GENERICRPT
+BAI50.X,"O'Hare Int'l, Chicago Outbound Index",BALTIC,BALTIC,GENERICRPT
+FFADVP2.X,P2 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVP3.X,P3 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVP4TC.X,P4TC FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+ODVP4TC.X,P4TC Option Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVP5TC.X,P5TC FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+ODVP5TC.X,P5TC Option Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVP6.X,P6 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+P7TCE.X,P7-TCE $/day,BALTIC,BALTIC,GENERICRPT
+FFADVP8.X,P8 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+P8TCE.X,P8-TCE $/day,BALTIC,BALTIC,GENERICRPT
+PHSFOT.X,Panama HSFO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+PLSGOT.X,Panama MGO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+PVSFOT.X,Panama VLFSO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+PDISPA10.X,Panamax 10Y Old Price $,BALTIC,BALTIC,GENERICRPT
+PDISPA.X,Panamax 5Y Old Price $,BALTIC,BALTIC,GENERICRPT
+P3A.X,Panamax 74 Japan-S. Korea Transpacific round voyage $/day,BALTIC,BALTIC,GENERICRPT
+P3AM0.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+P3EAM0.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+P3AM1.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+P3EAM1.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+P3AM2.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+P3EAM2.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+P3AM3.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+P3EAM3.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+P3AM4.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+P3EAM4.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+P3AM5.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+P3EAM5.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+P3EAM6.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Month+6 $/day,BALTIC,BALTIC,GENERICRPT
+P3AQ0.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+P3EAQ0.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+P3AQ1.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+P3EAQ1.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+P3AQ2.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+P3EAQ2.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+P3AQ3.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+P3EAQ3.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+P3AQ4.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+P3EAQ4.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+P3EAQ5.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+P3EAQ6.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Qtr+6 $/day,BALTIC,BALTIC,GENERICRPT
+P3AYR1.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+P3EAYR1.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+P3AYR2.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+P3EAYR2.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+P3AYR3.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+P3EAYR3.X,Panamax 74 Japan-S. Korea Transpacific round voyage Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+P1A.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage $/day,BALTIC,BALTIC,GENERICRPT
+P17AM0.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+P1EAM0.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+P17AM1.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+P1EAM1.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+P17AM2.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+P1EAM2.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+P17AM3.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+P1EAM3.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+P17AM4.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+P1EAM4.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+P17AM5.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+P1EAM5.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+P1EAM6.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Month+6 $/day,BALTIC,BALTIC,GENERICRPT
+P17AQ0.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+P1EAQ0.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+P17AQ1.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+P1EAQ1.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+P17AQ2.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+P1EAQ2.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+P17AQ3.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+P1EAQ3.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+P17AQ4.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+P1EAQ4.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+P1EAQ5.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+P1EAQ6.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Qtr+6 $/day,BALTIC,BALTIC,GENERICRPT
+P17AYR1.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+P1EAYR1.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+P17AYR2.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+P1EAYR2.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+P17AYR3.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+P1EAYR3.X,Panamax 74 Skaw-Gibraltar transatlantic round voyage Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+P2A.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan $/day,BALTIC,BALTIC,GENERICRPT
+P2AM0.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+P2EAM0.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+P2AM1.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+P2EAM1.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+P2AM2.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+P2EAM2.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+P2AM3.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+P2EAM3.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+P2AM4.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+P2EAM4.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+P2AM5.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+P2EAM5.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+P2EAM6.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Month+6 $/day,BALTIC,BALTIC,GENERICRPT
+P2AQ0.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+P2EAQ0.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+P2AQ1.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+P2EAQ1.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+P2AQ2.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+P2EAQ2.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+P2AQ3.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+P2EAQ3.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+P2AQ4.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+P2EAQ4.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+P2EAQ5.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+P2EAQ6.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+6 $/day,BALTIC,BALTIC,GENERICRPT
+P2AYR1.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+P2EAYR1.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+P2AYR2.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+P2EAYR2.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+P2AYR3.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+P2EAYR3.X,Panamax 74 Skaw-Gibraltar trip to Taiwan-Japan Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+P4TC.X,Panamax 74 Timecharter Average $/day,BALTIC,BALTIC,GENERICRPT
+P4TCM0.X,Panamax 74 Timecharter Average Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+P4TCM1.X,Panamax 74 Timecharter Average Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+P4TCM2.X,Panamax 74 Timecharter Average Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+P4TCM3.X,Panamax 74 Timecharter Average Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+P4TCM4.X,Panamax 74 Timecharter Average Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+P4TCM5.X,Panamax 74 Timecharter Average Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+P4TCM6.X,Panamax 74 Timecharter Average Cur Month+6 $/day,BALTIC,BALTIC,GENERICRPT
+P4TCQ0.X,Panamax 74 Timecharter Average Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+P4TCQ1.X,Panamax 74 Timecharter Average Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+P4TCQ2.X,Panamax 74 Timecharter Average Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+P4TCQ3.X,Panamax 74 Timecharter Average Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+P4TCQ4.X,Panamax 74 Timecharter Average Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+P4TCQ5.X,Panamax 74 Timecharter Average Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+P4TCQ6.X,Panamax 74 Timecharter Average Cur Qtr+6 $/day,BALTIC,BALTIC,GENERICRPT
+P4TCYR1.X,Panamax 74 Timecharter Average Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+P4TCYR2.X,Panamax 74 Timecharter Average Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+P4TCYR3.X,Panamax 74 Timecharter Average Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+P4TCYR4.X,Panamax 74 Timecharter Average Cur Year+4 $/day,BALTIC,BALTIC,GENERICRPT
+P4TCYR5.X,Panamax 74 Timecharter Average Cur Year+5 $/day,BALTIC,BALTIC,GENERICRPT
+P4TCYR6.X,Panamax 74 Timecharter Average Cur Year+6 $/day,BALTIC,BALTIC,GENERICRPT
+P4TCYR7.X,Panamax 74 Timecharter Average Cur Year+7 $/day,BALTIC,BALTIC,GENERICRPT
+PDNBA.X,"Panamax Bulk Carrier, New Building $ mil",BALTIC,BALTIC,GENERICRPT
+BDT21TCE.X,PANAMAX Caribbean to US Gulf $/day,BALTIC,BALTIC,GENERICRPT
+PDCC.X,Panamax Crew Cost $/day,BALTIC,BALTIC,GENERICRPT
+PDIOPEX.X,Panamax Daily Opex $/day,BALTIC,BALTIC,GENERICRPT
+PDDC.X,Panamax Dry Dock Cost $/day,BALTIC,BALTIC,GENERICRPT
+FFAPMXOI.X,Panamax FFA Open Interest lots,BALTIC,BALTIC,GENERICRPT
+PDHEI.X,Panamax Health of Earnings Index,BALTIC,BALTIC,GENERICRPT
+PDITC.X,Panamax Implied 5 Year Timecharter $/day,BALTIC,BALTIC,GENERICRPT
+PDIC.X,Panamax Insurance Cost $/day,BALTIC,BALTIC,GENERICRPT
+P3A82M0.X,Panamax Japan-S. Korea transpacific round voyage Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+P3A82M1.X,Panamax Japan-S. Korea transpacific round voyage Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+P3A82M2.X,Panamax Japan-S. Korea transpacific round voyage Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+P3A82M3.X,Panamax Japan-S. Korea transpacific round voyage Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+P3A82M4.X,Panamax Japan-S. Korea transpacific round voyage Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+P3A82M5.X,Panamax Japan-S. Korea transpacific round voyage Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+P3A82Q0.X,Panamax Japan-S. Korea transpacific round voyage Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+P3A82Q1.X,Panamax Japan-S. Korea transpacific round voyage Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+P3A82Q2.X,Panamax Japan-S. Korea transpacific round voyage Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+P3A82Q3.X,Panamax Japan-S. Korea transpacific round voyage Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+P3A82Q4.X,Panamax Japan-S. Korea transpacific round voyage Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+P3A82YR1.X,Panamax Japan-S. Korea transpacific round voyage Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+P3A82YR2.X,Panamax Japan-S. Korea transpacific round voyage Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+P3A82YR3.X,Panamax Japan-S. Korea transpacific round voyage Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+PDINBA.X,Panamax New Building $,BALTIC,BALTIC,GENERICRPT
+PDOPEX.X,Panamax Operating Expense Index $/day,BALTIC,BALTIC,GENERICRPT
+OPTIONSPMXOI.X,Panamax Options Open Interest lots,BALTIC,BALTIC,GENERICRPT
+PDISRA.X,Panamax Recycling Value $,BALTIC,BALTIC,GENERICRPT
+PDRRI.X,Panamax Residual Risk Index,BALTIC,BALTIC,GENERICRPT
+PDRVI.X,Panamax Residual Value Index $,BALTIC,BALTIC,GENERICRPT
+P8M0.X,Panamax Santos to Qingdao grain Cur Month $,BALTIC,BALTIC,GENERICRPT
+P8M1.X,Panamax Santos to Qingdao grain Cur Month+1 $,BALTIC,BALTIC,GENERICRPT
+P8M2.X,Panamax Santos to Qingdao grain Cur Month+2 $,BALTIC,BALTIC,GENERICRPT
+P8M3.X,Panamax Santos to Qingdao grain Cur Month+3 $,BALTIC,BALTIC,GENERICRPT
+P8M4.X,Panamax Santos to Qingdao grain Cur Month+4 $,BALTIC,BALTIC,GENERICRPT
+P8M5.X,Panamax Santos to Qingdao grain Cur Month+5 $,BALTIC,BALTIC,GENERICRPT
+P8Q0.X,Panamax Santos to Qingdao grain Cur Qtr $,BALTIC,BALTIC,GENERICRPT
+P8Q1.X,Panamax Santos to Qingdao grain Cur Qtr+1 $,BALTIC,BALTIC,GENERICRPT
+P8Q2.X,Panamax Santos to Qingdao grain Cur Qtr+2 $,BALTIC,BALTIC,GENERICRPT
+P8Q3.X,Panamax Santos to Qingdao grain Cur Qtr+3 $,BALTIC,BALTIC,GENERICRPT
+P8Q4.X,Panamax Santos to Qingdao grain Cur Qtr+4 $,BALTIC,BALTIC,GENERICRPT
+P8YR1.X,Panamax Santos to Qingdao grain Cur Year+1 $,BALTIC,BALTIC,GENERICRPT
+P8YR2.X,Panamax Santos to Qingdao grain Cur Year+2 $,BALTIC,BALTIC,GENERICRPT
+P1A82M0.X,Panamax Skaw-Gibraltar transatlantic round voyage Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+P1A82M1.X,Panamax Skaw-Gibraltar transatlantic round voyage Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+P1A82M2.X,Panamax Skaw-Gibraltar transatlantic round voyage Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+P1A82M3.X,Panamax Skaw-Gibraltar transatlantic round voyage Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+P1A82M4.X,Panamax Skaw-Gibraltar transatlantic round voyage Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+P1A82M5.X,Panamax Skaw-Gibraltar transatlantic round voyage Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+P1A82Q0.X,Panamax Skaw-Gibraltar transatlantic round voyage Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+P1A82Q1.X,Panamax Skaw-Gibraltar transatlantic round voyage Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+P1A82Q2.X,Panamax Skaw-Gibraltar transatlantic round voyage Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+P1A82Q3.X,Panamax Skaw-Gibraltar transatlantic round voyage Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+P1A82Q4.X,Panamax Skaw-Gibraltar transatlantic round voyage Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+P1A82YR1.X,Panamax Skaw-Gibraltar transatlantic round voyage Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+P1A82YR2.X,Panamax Skaw-Gibraltar transatlantic round voyage Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+P1A82YR3.X,Panamax Skaw-Gibraltar transatlantic round voyage Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+P2A82M0.X,Panamax Skaw-Gibraltar trip to Taiwan-Japan Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+P2A82M1.X,Panamax Skaw-Gibraltar trip to Taiwan-Japan Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+P2A82M2.X,Panamax Skaw-Gibraltar trip to Taiwan-Japan Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+P2A82M3.X,Panamax Skaw-Gibraltar trip to Taiwan-Japan Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+P2A82M4.X,Panamax Skaw-Gibraltar trip to Taiwan-Japan Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+P2A82M5.X,Panamax Skaw-Gibraltar trip to Taiwan-Japan Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+P2A82Q0.X,Panamax Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+P2A82Q1.X,Panamax Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+P2A82Q2.X,Panamax Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+P2A82Q3.X,Panamax Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+P2A82Q4.X,Panamax Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+P2A82YR1.X,Panamax Skaw-Gibraltar trip to Taiwan-Japan Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+P2A82YR2.X,Panamax Skaw-Gibraltar trip to Taiwan-Japan Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+P2A82YR3.X,Panamax Skaw-Gibraltar trip to Taiwan-Japan Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+PDI5TC.X,Panamax Spot Timecharter Earnings $/day,BALTIC,BALTIC,GENERICRPT
+PDTC.X,Panamax Technical Cost $/day,BALTIC,BALTIC,GENERICRPT
+P5TC.X,Panamax Timecharter Average $/day,BALTIC,BALTIC,GENERICRPT
+P5TCM0.X,Panamax Timecharter Average Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+P5TCM1.X,Panamax Timecharter Average Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+P5TCM2.X,Panamax Timecharter Average Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+P5TCM3.X,Panamax Timecharter Average Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+P5TCM4.X,Panamax Timecharter Average Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+P5TCM5.X,Panamax Timecharter Average Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+P5TCM6.X,Panamax Timecharter Average Cur Month+6 $/day,BALTIC,BALTIC,GENERICRPT
+P5TCQ0.X,Panamax Timecharter Average Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+P5TCQ1.X,Panamax Timecharter Average Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+P5TCQ2.X,Panamax Timecharter Average Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+P5TCQ3.X,Panamax Timecharter Average Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+P5TCQ4.X,Panamax Timecharter Average Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+P5TCQ5.X,Panamax Timecharter Average Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+P5TCQ6.X,Panamax Timecharter Average Cur Qtr+6 $/day,BALTIC,BALTIC,GENERICRPT
+P5TCYR1.X,Panamax Timecharter Average Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+P5TCYR2.X,Panamax Timecharter Average Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+P5TCYR3.X,Panamax Timecharter Average Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+P5TCYR4.X,Panamax Timecharter Average Cur Year+4 $/day,BALTIC,BALTIC,GENERICRPT
+P5TCYR5.X,Panamax Timecharter Average Cur Year+5 $/day,BALTIC,BALTIC,GENERICRPT
+P5TCYR6.X,Panamax Timecharter Average Cur Year+6 $/day,BALTIC,BALTIC,GENERICRPT
+P5TCYR7.X,Panamax Timecharter Average Cur Year+7 $/day,BALTIC,BALTIC,GENERICRPT
+PDSPA10.X,"Panamax, 10years old $ mil",BALTIC,BALTIC,GENERICRPT
+PNMXDRY.X,"Panamax, 5 years old $",BALTIC,BALTIC,GENERICRPT
+PDSPA.X,"Panamax, 5 years old $ mil",BALTIC,BALTIC,GENERICRPT
+C16.X,Revised Backhaul $/day,BALTIC,BALTIC,GENERICRPT
+HS338.X,Rio de Janeiro-Recalada trip to Skaw-Passero $/day,BALTIC,BALTIC,GENERICRPT
+RHSFOT.X,Rotterdam HSFO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+RLSGOT.X,Rotterdam MGO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+RVSFOT.X,Rotterdam VLSFO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+FFADVS10TC.X,S10TC FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+ODVS10TC.X,S10TC Option Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVS11TC.X,S11TC FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVS6TC.X,S6TC FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+S5TCM0.X,S6TC-FFA Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+S5TCM1.X,S6TC-FFA Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+S5TCM2.X,S6TC-FFA Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+S5TCM3.X,S6TC-FFA Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+S5TCM4.X,S6TC-FFA Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+S5TCM5.X,S6TC-FFA Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+S5TCM6.X,S6TC-FFA Cur Month+6 $/day,BALTIC,BALTIC,GENERICRPT
+S5TCQ0.X,S6TC-FFA Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+S5TCQ1.X,S6TC-FFA Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+S5TCQ2.X,S6TC-FFA Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+S5TCQ3.X,S6TC-FFA Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+S5TCQ4.X,S6TC-FFA Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+S5TCQ5.X,S6TC-FFA Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+S5TCQ6.X,S6TC-FFA Cur Qtr+6 $/day,BALTIC,BALTIC,GENERICRPT
+S5TCYR1.X,S6TC-FFA Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+S5TCYR2.X,S6TC-FFA Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+S5TCYR3.X,S6TC-FFA Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+S5TCYR4.X,S6TC-FFA Cur Year+4 $/day,BALTIC,BALTIC,GENERICRPT
+S5TCYR5.X,S6TC-FFA Cur Year+5 $/day,BALTIC,BALTIC,GENERICRPT
+S5TCYR6.X,S6TC-FFA Cur Year+6 $/day,BALTIC,BALTIC,GENERICRPT
+S5TCYR7.X,S6TC-FFA Cur Year+7 $/day,BALTIC,BALTIC,GENERICRPT
+C17.X,Saldanha Bay to Qingdao $/mt,BALTIC,BALTIC,GENERICRPT
+P8.X,Santos to Qingdao grain $/MT,BALTIC,BALTIC,GENERICRPT
+BAI80.X,Shanghai Pudong Outbound Index,BALTIC,BALTIC,GENERICRPT
+SHSFOT.X,Singapore HSFO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+SLSGOT.X,Singapore MGO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+BAI60.X,Singapore Outbound Index,BALTIC,BALTIC,GENERICRPT
+P682.X,Singapore round voyage via Atlantic $/day,BALTIC,BALTIC,GENERICRPT
+P6M0.X,Singapore round voyage via Atlantic Cur Month $,BALTIC,BALTIC,GENERICRPT
+P6M1.X,Singapore round voyage via Atlantic Cur Month+1 $,BALTIC,BALTIC,GENERICRPT
+P6M2.X,Singapore round voyage via Atlantic Cur Month+2 $,BALTIC,BALTIC,GENERICRPT
+P6M3.X,Singapore round voyage via Atlantic Cur Month+3 $,BALTIC,BALTIC,GENERICRPT
+P6M4.X,Singapore round voyage via Atlantic Cur Month+4 $,BALTIC,BALTIC,GENERICRPT
+P6M5.X,Singapore round voyage via Atlantic Cur Month+5 $,BALTIC,BALTIC,GENERICRPT
+P6M6.X,Singapore round voyage via Atlantic Cur Month+6 $,BALTIC,BALTIC,GENERICRPT
+P6Q0.X,Singapore round voyage via Atlantic Cur Qtr $,BALTIC,BALTIC,GENERICRPT
+P6Q1.X,Singapore round voyage via Atlantic Cur Qtr+1 $,BALTIC,BALTIC,GENERICRPT
+P6Q2.X,Singapore round voyage via Atlantic Cur Qtr+2 $,BALTIC,BALTIC,GENERICRPT
+P6Q3.X,Singapore round voyage via Atlantic Cur Qtr+3 $,BALTIC,BALTIC,GENERICRPT
+P6Q4.X,Singapore round voyage via Atlantic Cur Qtr+4 $,BALTIC,BALTIC,GENERICRPT
+P6Q5.X,Singapore round voyage via Atlantic Cur Qtr+5 $,BALTIC,BALTIC,GENERICRPT
+P6Q6.X,Singapore round voyage via Atlantic Cur Qtr+6 $,BALTIC,BALTIC,GENERICRPT
+P6YR1.X,Singapore round voyage via Atlantic Cur Year+1 $,BALTIC,BALTIC,GENERICRPT
+P6YR2.X,Singapore round voyage via Atlantic Cur Year+2 $,BALTIC,BALTIC,GENERICRPT
+SVSFOT.X,Singapore VLFSO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+P1A82.X,Skaw-Gibraltar transatlantic round voyage $/day,BALTIC,BALTIC,GENERICRPT
+P1EA82M0.X,Skaw-Gibraltar transatlantic round voyage Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+P1EA82M1.X,Skaw-Gibraltar transatlantic round voyage Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+P1EA82M2.X,Skaw-Gibraltar transatlantic round voyage Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+P1EA82M3.X,Skaw-Gibraltar transatlantic round voyage Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+P1EA82M4.X,Skaw-Gibraltar transatlantic round voyage Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+P1EA82M5.X,Skaw-Gibraltar transatlantic round voyage Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+P1EA82M6.X,Skaw-Gibraltar transatlantic round voyage Cur Month+6 $/day,BALTIC,BALTIC,GENERICRPT
+P1EA82Q0.X,Skaw-Gibraltar transatlantic round voyage Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+P1EA82Q1.X,Skaw-Gibraltar transatlantic round voyage Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+P1EA82Q2.X,Skaw-Gibraltar transatlantic round voyage Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+P1EA82Q3.X,Skaw-Gibraltar transatlantic round voyage Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+P1EA82Q4.X,Skaw-Gibraltar transatlantic round voyage Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+P1EA82Q5.X,Skaw-Gibraltar transatlantic round voyage Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+P1EA82Q6.X,Skaw-Gibraltar transatlantic round voyage Cur Qtr+6 $/day,BALTIC,BALTIC,GENERICRPT
+P1EA82YR1.X,Skaw-Gibraltar transatlantic round voyage Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+P1EA82YR2.X,Skaw-Gibraltar transatlantic round voyage Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+P1EA82YR3.X,Skaw-Gibraltar transatlantic round voyage Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+P2A82.X,Skaw-Gibraltar trip to Taiwan-Japan $/day,BALTIC,BALTIC,GENERICRPT
+P2EA82M0.X,Skaw-Gibraltar trip to Taiwan-Japan Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+P2EA82M1.X,Skaw-Gibraltar trip to Taiwan-Japan Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+P2EA82M2.X,Skaw-Gibraltar trip to Taiwan-Japan Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+P2EA82M3.X,Skaw-Gibraltar trip to Taiwan-Japan Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+P2EA82M4.X,Skaw-Gibraltar trip to Taiwan-Japan Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+P2EA82M5.X,Skaw-Gibraltar trip to Taiwan-Japan Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+P2EA82M6.X,Skaw-Gibraltar trip to Taiwan-Japan Cur Month+6 $/day,BALTIC,BALTIC,GENERICRPT
+P2EA82Q0.X,Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+P2EA82Q1.X,Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+P2EA82Q2.X,Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+P2EA82Q3.X,Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+P2EA82Q4.X,Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+P2EA82Q5.X,Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+P2EA82Q6.X,Skaw-Gibraltar trip to Taiwan-Japan Cur Qtr+6 $/day,BALTIC,BALTIC,GENERICRPT
+P2EA82YR1.X,Skaw-Gibraltar trip to Taiwan-Japan Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+P2EA82YR2.X,Skaw-Gibraltar trip to Taiwan-Japan Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+P2EA82YR3.X,Skaw-Gibraltar trip to Taiwan-Japan Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+HS238.X,Skaw-Passero trip to Boston-Galveston $/day,BALTIC,BALTIC,GENERICRPT
+HS138.X,Skaw-Passero trip to Rio de Janeiro-Recalada $/day,BALTIC,BALTIC,GENERICRPT
+S4B.X,Skaw-Passero trip to US Gulf $/day,BALTIC,BALTIC,GENERICRPT
+BCBDESHSML.X,"Small Bulk Carrier, Bangladesh $/LDT",BALTIC,BALTIC,GENERICRPT
+SBDSRA.X,"Small Bulk Carrier, Bangladesh $/LDT",BALTIC,BALTIC,GENERICRPT
+BCINDSML.X,"Small Bulk Carrier, India $/LDT",BALTIC,BALTIC,GENERICRPT
+SIDSRA.X,"Small Bulk Carrier, India $/LDT",BALTIC,BALTIC,GENERICRPT
+BCPAKSML.X,"Small Bulk Carrier, Pakistan $/LDT",BALTIC,BALTIC,GENERICRPT
+SPDSRA.X,"Small Bulk Carrier, Pakistan $/LDT",BALTIC,BALTIC,GENERICRPT
+SBTSRA.X,"Small Tanker, Bangladesh $/LDT",BALTIC,BALTIC,GENERICRPT
+TKRBDESHSML.X,"Small Tanker, Bangladesh $/LDT",BALTIC,BALTIC,GENERICRPT
+SITSRA.X,"Small Tanker, India $/LDT",BALTIC,BALTIC,GENERICRPT
+TKRINDSML.X,"Small Tanker, India $/LDT",BALTIC,BALTIC,GENERICRPT
+SPTSRA.X,"Small Tanker, Pakistan $/LDT",BALTIC,BALTIC,GENERICRPT
+TKRPAKSML.X,"Small Tanker, Pakistan $/LDT",BALTIC,BALTIC,GENERICRPT
+S8.X,South China trip via Indonesia to East Coast India $/day,BALTIC,BALTIC,GENERICRPT
+S10.X,South China trip via Indonesia to South China $/day,BALTIC,BALTIC,GENERICRPT
+P582.X,"South China, Indonesian round voyage (BEP Asia) $/day",BALTIC,BALTIC,GENERICRPT
+HS538.X,South East Asia trip to Singapore-Japan $/day,BALTIC,BALTIC,GENERICRPT
+STTCEA.X,Suexmax Implied Spot Timecharter Earnings,BALTIC,BALTIC,GENERICRPT
+STISPA10.X,Suezmax 10Y Old Price $,BALTIC,BALTIC,GENERICRPT
+STTC5.X,Suezmax 5 Year Time Charter $/day,BALTIC,BALTIC,GENERICRPT
+STISPA.X,Suezmax 5Y Old Price $,BALTIC,BALTIC,GENERICRPT
+BDT6TCE.X,SUEZMAX Black Sea to Mediterranean $/day,BALTIC,BALTIC,GENERICRPT
+STCC.X,Suezmax Crew Cost $/day,BALTIC,BALTIC,GENERICRPT
+STIOPEX.X,Suezmax Daily Opex,BALTIC,BALTIC,GENERICRPT
+STDC.X,Suezmax Dry Dock Cost $/day,BALTIC,BALTIC,GENERICRPT
+BDT27TCE.X,SUEZMAX Guyana to ARA $/day,BALTIC,BALTIC,GENERICRPT
+STHEI.X,Suezmax Health of Earnings Index,BALTIC,BALTIC,GENERICRPT
+STIC.X,Suezmax Insurance Cost $/day,BALTIC,BALTIC,GENERICRPT
+BDT23TCE.X,SUEZMAX Middle East Gulf to Mediterranean $/day,BALTIC,BALTIC,GENERICRPT
+STINBA.X,Suezmax New Building,BALTIC,BALTIC,GENERICRPT
+STOPEX.X,Suezmax Operating Expense Index $/day,BALTIC,BALTIC,GENERICRPT
+STISRA.X,Suezmax Recycling Value,BALTIC,BALTIC,GENERICRPT
+STRRI.X,Suezmax Residual Risk Index,BALTIC,BALTIC,GENERICRPT
+STRVI.X,Suezmax Residual Value Index,BALTIC,BALTIC,GENERICRPT
+STNBA.X,"Suezmax Tanker, New Building $ mil",BALTIC,BALTIC,GENERICRPT
+STTC.X,Suezmax Technical Cost $/day,BALTIC,BALTIC,GENERICRPT
+S2TCE.X,Suezmax Time Charter Equivalent $/day,BALTIC,BALTIC,GENERICRPT
+SZTCE.X,Suezmax Time Charter Equivalent $/day,BALTIC,BALTIC,GENERICRPT
+BDT20TCE.X,SUEZMAX West Africa to UK-Continent $/day,BALTIC,BALTIC,GENERICRPT
+STSPA10.X,"Suezmax, 10 years old $ mil",BALTIC,BALTIC,GENERICRPT
+SUEZMAX.X,"Suezmax, 5 years old $",BALTIC,BALTIC,GENERICRPT
+STSPA.X,"Suezmax, 5 years old $ mil",BALTIC,BALTIC,GENERICRPT
+ST5YTC.X,Suezmaz 5 Year Timecharter,BALTIC,BALTIC,GENERICRPT
+S10TC.X,Supramax (58) Timecharter Average $/day,BALTIC,BALTIC,GENERICRPT
+S10TCM0.X,Supramax (58) Timecharter Average Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+S10TCM1.X,Supramax (58) Timecharter Average Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+S10TCM2.X,Supramax (58) Timecharter Average Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+S10TCM3.X,Supramax (58) Timecharter Average Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+S10TCM4.X,Supramax (58) Timecharter Average Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+S10TCM5.X,Supramax (58) Timecharter Average Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+S10TCM6.X,Supramax (58) Timecharter Average Cur Month+6 $/day,BALTIC,BALTIC,GENERICRPT
+S10TCQ0.X,Supramax (58) Timecharter Average Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+S10TCQ1.X,Supramax (58) Timecharter Average Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+S10TCQ2.X,Supramax (58) Timecharter Average Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+S10TCQ3.X,Supramax (58) Timecharter Average Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+S10TCQ4.X,Supramax (58) Timecharter Average Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+S10TCQ5.X,Supramax (58) Timecharter Average Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+S10TCQ6.X,Supramax (58) Timecharter Average Cur Qtr+6 $/day,BALTIC,BALTIC,GENERICRPT
+S10TCYR1.X,Supramax (58) Timecharter Average Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+S10TCYR2.X,Supramax (58) Timecharter Average Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+S10TCYR3.X,Supramax (58) Timecharter Average Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+S10TCYR4.X,Supramax (58) Timecharter Average Cur Year+4 $/day,BALTIC,BALTIC,GENERICRPT
+S10TCYR5.X,Supramax (58) Timecharter Average Cur Year+5 $/day,BALTIC,BALTIC,GENERICRPT
+S10TCYR6.X,Supramax (58) Timecharter Average Cur Year+6 $/day,BALTIC,BALTIC,GENERICRPT
+S10TCYR7.X,Supramax (58) Timecharter Average Cur Year+7 $/day,BALTIC,BALTIC,GENERICRPT
+SDISPA10.X,Supramax 10Y Old Price $,BALTIC,BALTIC,GENERICRPT
+S6TC.X,Supramax 52 Timecharter Average $/day,BALTIC,BALTIC,GENERICRPT
+SDISPA.X,Supramax 5Y Old Price $,BALTIC,BALTIC,GENERICRPT
+SDNBA.X,"Supramax Bulk Carrier, New Building $ mil",BALTIC,BALTIC,GENERICRPT
+BSIR1B58.X,Supramax Canakkale trip via Mediterranean or Black Sea to China-S. Korea $/day,BALTIC,BALTIC,GENERICRPT
+SDCC.X,Supramax Crew Cost $/day,BALTIC,BALTIC,GENERICRPT
+SDIOPEX.X,Supramax Daily Opex $/day,BALTIC,BALTIC,GENERICRPT
+SDDC.X,Supramax Dry Dock Cost $/day,BALTIC,BALTIC,GENERICRPT
+FFASUPROI.X,Supramax FFA Open Interest lots,BALTIC,BALTIC,GENERICRPT
+SDHEI.X,Supramax Health of Earnings Index,BALTIC,BALTIC,GENERICRPT
+SDITC.X,Supramax Implied 5 Year Timecharter $/day,BALTIC,BALTIC,GENERICRPT
+SDIC.X,Supramax Insurance Cost $/day,BALTIC,BALTIC,GENERICRPT
+BSIR258.X,Supramax N. China one Australian or Pacific round voyage $/day,BALTIC,BALTIC,GENERICRPT
+BSIR358.X,Supramax N. China trip to W. Africa $/day,BALTIC,BALTIC,GENERICRPT
+SDINBA.X,Supramax New Building $,BALTIC,BALTIC,GENERICRPT
+SDOPEX.X,Supramax Operating Expense Index $/day,BALTIC,BALTIC,GENERICRPT
+OPTIONSSUPROI.X,Supramax Options Open Interest lots,BALTIC,BALTIC,GENERICRPT
+SDISRA.X,Supramax Recycling Value $,BALTIC,BALTIC,GENERICRPT
+SDRRI.X,Supramax Residual Risk Index,BALTIC,BALTIC,GENERICRPT
+SDRVI.X,Supramax Residual Value Index $,BALTIC,BALTIC,GENERICRPT
+BSIR858.X,Supramax S. China trip via Indonesia to EC India $/day,BALTIC,BALTIC,GENERICRPT
+BSIR1058.X,Supramax S. China trip via Indonesia to S. China $/day,BALTIC,BALTIC,GENERICRPT
+BSIR4B58.X,Supramax Skaw-Passero trip to USG $/day,BALTIC,BALTIC,GENERICRPT
+SDI10TC.X,Supramax Spot Timecharter Earnings $/day,BALTIC,BALTIC,GENERICRPT
+SDI11TC.X,Supramax Spot Timecharter Earnings $/day,BALTIC,BALTIC,GENERICRPT
+SDTC.X,Supramax Technical Cost $/day,BALTIC,BALTIC,GENERICRPT
+SUPRAMAXTC63TRIAL.X,Supramax Timecharter Average (63 Trial) $/day,BALTIC,BALTIC,GENERICRPT
+S11TC.X,Supramax Timecharter Average $/day,BALTIC,BALTIC,GENERICRPT
+STCA.X,Supramax Timecharter Average $/day,BALTIC,BALTIC,GENERICRPT
+SUPRAMAXTC.X,Supramax Timecharter Average $/day,BALTIC,BALTIC,GENERICRPT
+S11TCM0.X,Supramax Timecharter Average Cur Month $/day,BALTIC,BALTIC,GENERICRPT
+S11TCM1.X,Supramax Timecharter Average Cur Month+1 $/day,BALTIC,BALTIC,GENERICRPT
+S11TCM2.X,Supramax Timecharter Average Cur Month+2 $/day,BALTIC,BALTIC,GENERICRPT
+S11TCM3.X,Supramax Timecharter Average Cur Month+3 $/day,BALTIC,BALTIC,GENERICRPT
+S11TCM4.X,Supramax Timecharter Average Cur Month+4 $/day,BALTIC,BALTIC,GENERICRPT
+S11TCM5.X,Supramax Timecharter Average Cur Month+5 $/day,BALTIC,BALTIC,GENERICRPT
+S11TCM6.X,Supramax Timecharter Average Cur Month+6 $/day,BALTIC,BALTIC,GENERICRPT
+S11TCQ0.X,Supramax Timecharter Average Cur Qtr $/day,BALTIC,BALTIC,GENERICRPT
+S11TCQ1.X,Supramax Timecharter Average Cur Qtr+1 $/day,BALTIC,BALTIC,GENERICRPT
+S11TCQ2.X,Supramax Timecharter Average Cur Qtr+2 $/day,BALTIC,BALTIC,GENERICRPT
+S11TCQ3.X,Supramax Timecharter Average Cur Qtr+3 $/day,BALTIC,BALTIC,GENERICRPT
+S11TCQ4.X,Supramax Timecharter Average Cur Qtr+4 $/day,BALTIC,BALTIC,GENERICRPT
+S11TCQ5.X,Supramax Timecharter Average Cur Qtr+5 $/day,BALTIC,BALTIC,GENERICRPT
+S11TCQ6.X,Supramax Timecharter Average Cur Qtr+6 $/day,BALTIC,BALTIC,GENERICRPT
+S11TCYR1.X,Supramax Timecharter Average Cur Year+1 $/day,BALTIC,BALTIC,GENERICRPT
+S11TCYR2.X,Supramax Timecharter Average Cur Year+2 $/day,BALTIC,BALTIC,GENERICRPT
+S11TCYR3.X,Supramax Timecharter Average Cur Year+3 $/day,BALTIC,BALTIC,GENERICRPT
+S11TCYR4.X,Supramax Timecharter Average Cur Year+4 $/day,BALTIC,BALTIC,GENERICRPT
+S11TCYR5.X,Supramax Timecharter Average Cur Year+5 $/day,BALTIC,BALTIC,GENERICRPT
+S11TCYR6.X,Supramax Timecharter Average Cur Year+6 $/day,BALTIC,BALTIC,GENERICRPT
+S11TCYR7.X,Supramax Timecharter Average Cur Year+7 $/day,BALTIC,BALTIC,GENERICRPT
+BSIR1C58.X,Supramax USG trip to China-S. Japan $/day,BALTIC,BALTIC,GENERICRPT
+BSIR4A58.X,Supramax USG trip to Skaw-Passero $/day,BALTIC,BALTIC,GENERICRPT
+BSIR558.X,Supramax W. Africa trip via EC S America to N.China $/day,BALTIC,BALTIC,GENERICRPT
+BSIR958.X,Supramax W. Africa trip via EC S America to Skaw-Passero $/day,BALTIC,BALTIC,GENERICRPT
+SDSPA10.X,"Supramax, 10years old $ mil",BALTIC,BALTIC,GENERICRPT
+SUPERHANDY.X,"Supramax, 5 years old $",BALTIC,BALTIC,GENERICRPT
+SUPRAMAX.X,"Supramax, 5 years old $",BALTIC,BALTIC,GENERICRPT
+SDSPA.X,"Supramax, 5 years old $ mil",BALTIC,BALTIC,GENERICRPT
+ATSPA.X,"Tanker Aframax Product Carrier, 5 years old $ mil",BALTIC,BALTIC,GENERICRPT
+TSRA.X,Tanker Recycling Index,BALTIC,BALTIC,GENERICRPT
+TSPA.X,Tanker Sale and Purchase Index,BALTIC,BALTIC,GENERICRPT
+FFADVTC12.X,TC12 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVTC14.X,TC14 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVTC15.X,TC15 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVTC17.X,TC17 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVTC2.X,TC2 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVTC20.X,TC20 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVTC23.X,TC23 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVTC5.X,TC5 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVTC6.X,TC6 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVTC7.X,TC7 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVTC9.X,TC9 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+BLPG1TCE.X,TCE LPG Middle East Gulf to Japan $/day,BALTIC,BALTIC,GENERICRPT
+BLPG2TCE.X,TCE LPG US Gulf to Continent $/day,BALTIC,BALTIC,GENERICRPT
+BLPG3TCE.X,TCE LPG US Gulf to Japan $/day,BALTIC,BALTIC,GENERICRPT
+BDT1TCE.X,TD1-TCE $/day,BALTIC,BALTIC,GENERICRPT
+FFADVTD17.X,TD17 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVTD19.X,TD19 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVTD20.X,TD20 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVTD22.X,TD22 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVTD25.X,TD25 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVTD3C.X,TD3C FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVTD7.X,TD7 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVTD8.X,TD8 FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVCAPET.X,Total Capesize FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVCLEANTT.X,Total Clean FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVHST.X,Total Daily Handysize FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVDIRTYTT.X,Total Dirty FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVT.X,Total Dry FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+ODVT.X,Total Dry Options lots,BALTIC,BALTIC,GENERICRPT
+FFAVCAPET.X,Total Estimated Weekly Cape FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFAVCLEANTT.X,Total Estimated Weekly Clean Tanker FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFAVDIRTYTT.X,Total Estimated Weekly Dirty Tanker FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFAVT.X,Total Estimated Weekly Dry FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFAVHST.X,Total Estimated Weekly Handysize FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFAVPMXT.X,Total Estimated Weekly Panamax FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFAVSUPRT.X,Total Estimated Weekly Supramax FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFAVTT.X,Total Estimated Weekly Tanker FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVGT.X,Total Gas FFA Volumes Lots,BALTIC,BALTIC,GENERICRPT
+FFADVLNGT.X,Total LNG FFA Volumes Lots,BALTIC,BALTIC,GENERICRPT
+FFADVLPGT.X,Total LPG FFA Volumes Lots,BALTIC,BALTIC,GENERICRPT
+FFADVPMXT.X,Total Panamax FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVSUPRT.X,Total Supramax FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+FFADVTT.X,Total Tanker FFA Volumes lots,BALTIC,BALTIC,GENERICRPT
+C3.X,Tubarao to Qingdao $/mt,BALTIC,BALTIC,GENERICRPT
+C3M0.X,Tubarao to Qingdao Cur Month $/ton,BALTIC,BALTIC,GENERICRPT
+C3M1.X,Tubarao to Qingdao Cur Month+1 $/ton,BALTIC,BALTIC,GENERICRPT
+C3M2.X,Tubarao to Qingdao Cur Month+2 $/ton,BALTIC,BALTIC,GENERICRPT
+C3M3.X,Tubarao to Qingdao Cur Month+3 $/ton,BALTIC,BALTIC,GENERICRPT
+C3M4.X,Tubarao to Qingdao Cur Month+4 $/ton,BALTIC,BALTIC,GENERICRPT
+C3M5.X,Tubarao to Qingdao Cur Month+5 $/ton,BALTIC,BALTIC,GENERICRPT
+C3M6.X,Tubarao to Qingdao Cur Month+6 $/ton,BALTIC,BALTIC,GENERICRPT
+C3Q0.X,Tubarao to Qingdao Cur Qtr $/ton,BALTIC,BALTIC,GENERICRPT
+C3Q1.X,Tubarao to Qingdao Cur Qtr+1 $/ton,BALTIC,BALTIC,GENERICRPT
+C3Q2.X,Tubarao to Qingdao Cur Qtr+2 $/ton,BALTIC,BALTIC,GENERICRPT
+C3Q3.X,Tubarao to Qingdao Cur Qtr+3 $/ton,BALTIC,BALTIC,GENERICRPT
+C3Q4.X,Tubarao to Qingdao Cur Qtr+4 $/ton,BALTIC,BALTIC,GENERICRPT
+C3Q5.X,Tubarao to Qingdao Cur Qtr+5 $/ton,BALTIC,BALTIC,GENERICRPT
+C3Q6.X,Tubarao to Qingdao Cur Qtr+6 $/ton,BALTIC,BALTIC,GENERICRPT
+C3YR1.X,Tubarao to Qingdao Cur Year+1 $/ton,BALTIC,BALTIC,GENERICRPT
+C3YR2.X,Tubarao to Qingdao Cur Year+2 $/ton,BALTIC,BALTIC,GENERICRPT
+C3YR3.X,Tubarao to Qingdao Cur Year+3 $/ton,BALTIC,BALTIC,GENERICRPT
+C2.X,Tubarao to Rotterdam $/mt,BALTIC,BALTIC,GENERICRPT
+UDSPA10.X,"Ultramax, 10years old $ mil",BALTIC,BALTIC,GENERICRPT
+UDSPA.X,"Ultramax, 5 years old $ mil",BALTIC,BALTIC,GENERICRPT
+P7.X,US Gulf to Qingdao grain $/MT,BALTIC,BALTIC,GENERICRPT
+S1C.X,US Gulf trip to China-South Japan $/day,BALTIC,BALTIC,GENERICRPT
+S4A.X,US Gulf trip to Skaw-Passero $/day,BALTIC,BALTIC,GENERICRPT
+HS438.X,US Gulf trip via US Gulf or North Coast South America to Skaw-Passero $/day,BALTIC,BALTIC,GENERICRPT
+VTSPA10.X,"Very Large Crude Carrier, 10 years old $ mil",BALTIC,BALTIC,GENERICRPT
+VLCC.X,"Very Large Crude Carrier, 5 years old $",BALTIC,BALTIC,GENERICRPT
+VTSPA.X,"Very Large Crude Carrier, 5 years old $ mil",BALTIC,BALTIC,GENERICRPT
+VTNBA.X,"Very Large Crude Carrier, New Building $ mil",BALTIC,BALTIC,GENERICRPT
+VTISPA10.X,VLCC 10Y Old Price,BALTIC,BALTIC,GENERICRPT
+VT5YTC.X,VLCC 5 Year Timecharter,BALTIC,BALTIC,GENERICRPT
+VTISPA.X,VLCC 5Y Old Price $,BALTIC,BALTIC,GENERICRPT
+VTCC.X,VLCC Crew cost $/day,BALTIC,BALTIC,GENERICRPT
+VTIOPEX.X,VLCC Daily Opex,BALTIC,BALTIC,GENERICRPT
+VTDC.X,VLCC Dry dock cost $/day,BALTIC,BALTIC,GENERICRPT
+VTHEI.X,VLCC Health of Earnings Index,BALTIC,BALTIC,GENERICRPT
+VTTCEA.X,VLCC Implied Spot Timecharter Earnings,BALTIC,BALTIC,GENERICRPT
+VTIC.X,VLCC Insurance Cost $/day,BALTIC,BALTIC,GENERICRPT
+BDT3CTCE.X,VLCC Middle East Gulf to China $/day,BALTIC,BALTIC,GENERICRPT
+BDT2TCE.X,VLCC Middle East Gulf to Singapore $/day,BALTIC,BALTIC,GENERICRPT
+VTINBA.X,VLCC New Building,BALTIC,BALTIC,GENERICRPT
+VTOPEX.X,VLCC Operating Expense Index $/day,BALTIC,BALTIC,GENERICRPT
+VTISRA.X,VLCC Recycling Value,BALTIC,BALTIC,GENERICRPT
+VTRRI.X,VLCC Residual Risk Index,BALTIC,BALTIC,GENERICRPT
+VTRVI.X,VLCC Residual Value Index,BALTIC,BALTIC,GENERICRPT
+VTTC.X,VLCC Technical Cost $/day,BALTIC,BALTIC,GENERICRPT
+V2TCE.X,VLCC Time Charter Equivalent $/day,BALTIC,BALTIC,GENERICRPT
+VLTCE.X,VLCC Time Charter Equivalent $/day,BALTIC,BALTIC,GENERICRPT
+BDT22TCE.X,VLCC US Gulf to China $/day,BALTIC,BALTIC,GENERICRPT
+BDT15TCE.X,VLCC West Africa to China $/day,BALTIC,BALTIC,GENERICRPT
+S5.X,West Africa trip via East Coast South America to North China $/day,BALTIC,BALTIC,GENERICRPT
+S9.X,West Africa trip via East Coast South America to Skaw-Passero $/day,BALTIC,BALTIC,GENERICRPT
+C5.X,West Australia to Qingdao $/mt,BALTIC,BALTIC,GENERICRPT
+C5M0.X,West Australia to Qingdao Cur Month $/ton,BALTIC,BALTIC,GENERICRPT
+C5M1.X,West Australia to Qingdao Cur Month+1 $/ton,BALTIC,BALTIC,GENERICRPT
+C5M2.X,West Australia to Qingdao Cur Month+2 $/ton,BALTIC,BALTIC,GENERICRPT
+C5M3.X,West Australia to Qingdao Cur Month+3 $/ton,BALTIC,BALTIC,GENERICRPT
+C5M4.X,West Australia to Qingdao Cur Month+4 $/ton,BALTIC,BALTIC,GENERICRPT
+C5M5.X,West Australia to Qingdao Cur Month+5 $/ton,BALTIC,BALTIC,GENERICRPT
+C5M6.X,West Australia to Qingdao Cur Month+6 $/ton,BALTIC,BALTIC,GENERICRPT
+C5Q0.X,West Australia to Qingdao Cur Qtr $/ton,BALTIC,BALTIC,GENERICRPT
+C5Q1.X,West Australia to Qingdao Cur Qtr+1 $/ton,BALTIC,BALTIC,GENERICRPT
+C5Q2.X,West Australia to Qingdao Cur Qtr+2 $/ton,BALTIC,BALTIC,GENERICRPT
+C5Q3.X,West Australia to Qingdao Cur Qtr+3 $/ton,BALTIC,BALTIC,GENERICRPT
+C5Q4.X,West Australia to Qingdao Cur Qtr+4 $/ton,BALTIC,BALTIC,GENERICRPT
+C5Q5.X,West Australia to Qingdao Cur Qtr+5 $/ton,BALTIC,BALTIC,GENERICRPT
+C5Q6.X,West Australia to Qingdao Cur Qtr+6 $/ton,BALTIC,BALTIC,GENERICRPT
+C5YR1.X,West Australia to Qingdao Cur Year+1 $/ton,BALTIC,BALTIC,GENERICRPT
+ZHSFOT.X,Zhoushan HSFO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+ZLSGOT.X,Zhoushan MGO Spot $/mt,BALTIC,BALTIC,GENERICRPT
+ZVSFOT.X,Zhoushan VLFSO Spot $/mt,BALTIC,BALTIC,GENERICRPT

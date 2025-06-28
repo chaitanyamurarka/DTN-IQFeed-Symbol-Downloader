@@ -1,0 +1,5 @@
+symbol,description,exchange,listedMarket,securityType
+@RCT.OI.Z,CANOLA TAS Future Total Open Interest,ICEFC,ICEFC,COMBINED_FUTURE
+@RCT.VOL.Z,CANOLA TAS Future Total Volume,ICEFC,ICEFC,COMBINED_FUTURE
+@RS.OI.Z,CANOLA Future Total Open Interest,ICEFC,ICEFC,COMBINED_FUTURE
+@RS.VOL.Z,CANOLA Future Total Volume,ICEFC,ICEFC,COMBINED_FUTURE

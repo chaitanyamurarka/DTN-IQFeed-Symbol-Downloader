@@ -1,0 +1,3 @@
+symbol,description,exchange,listedMarket,securityType
+@MW.OI.Z,HARD RED SPRING WHEAT-MGE Future Total Open Interest,MGE,MGE_GBX,COMBINED_FUTURE
+@MW.VOL.Z,HARD RED SPRING WHEAT-MGE Future Total Volume,MGE,MGE_GBX,COMBINED_FUTURE

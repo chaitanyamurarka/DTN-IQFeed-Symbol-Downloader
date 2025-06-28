@@ -1,0 +1,5 @@
+symbol,description,exchange,listedMarket,securityType
+M.PDD0,PALLADIUM Cash,LPPM,LPPM,FORWARD
+M.PDDM,PALLADIUM Monthly Average,LPPM,LPPM,FORWARD
+M.PTD0,PLATINUM Cash,LPPM,LPPM,FORWARD
+M.PTDM,PLATINUM Monthly Average,LPPM,LPPM,FORWARD

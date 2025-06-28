@@ -1,0 +1,434 @@
+symbol,description,exchange,listedMarket,securityType
+US_C_OFF.AL,Corn Off Farm Storage Alabama,GRNST,GRNST,GENERICRPT
+PS_C_OFF.AL,Corn Off Farm Storage Alabama Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.AZ,Corn Off Farm Storage Arizona,GRNST,GRNST,GENERICRPT
+PS_C_OFF.AZ,Corn Off Farm Storage Arizona Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.AR,Corn Off Farm Storage Arkansas,GRNST,GRNST,GENERICRPT
+PS_C_OFF.AR,Corn Off Farm Storage Arkansas Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.CA,Corn Off Farm Storage California,GRNST,GRNST,GENERICRPT
+PS_C_OFF.CA,Corn Off Farm Storage California Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.CO,Corn Off Farm Storage Colorado,GRNST,GRNST,GENERICRPT
+PS_C_OFF.CO,Corn Off Farm Storage Colorado Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.DE,Corn Off Farm Storage Delaware,GRNST,GRNST,GENERICRPT
+PS_C_OFF.DE,Corn Off Farm Storage Delaware Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.FL,Corn Off Farm Storage Florida,GRNST,GRNST,GENERICRPT
+PS_C_OFF.FL,Corn Off Farm Storage Florida Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.GA,Corn Off Farm Storage Georgia,GRNST,GRNST,GENERICRPT
+PS_C_OFF.GA,Corn Off Farm Storage Georgia Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.ID,Corn Off Farm Storage Idaho,GRNST,GRNST,GENERICRPT
+PS_C_OFF.ID,Corn Off Farm Storage Idaho Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.IL,Corn Off Farm Storage Illinois,GRNST,GRNST,GENERICRPT
+PS_C_OFF.IL,Corn Off Farm Storage Illinois Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.IN,Corn Off Farm Storage Indiana,GRNST,GRNST,GENERICRPT
+PS_C_OFF.IN,Corn Off Farm Storage Indiana Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.IA,Corn Off Farm Storage Iowa,GRNST,GRNST,GENERICRPT
+PS_C_OFF.IA,Corn Off Farm Storage Iowa Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.KS,Corn Off Farm Storage Kansas,GRNST,GRNST,GENERICRPT
+PS_C_OFF.KS,Corn Off Farm Storage Kansas Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.KY,Corn Off Farm Storage Kentucky,GRNST,GRNST,GENERICRPT
+PS_C_OFF.KY,Corn Off Farm Storage Kentucky Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.LA,Corn Off Farm Storage Louisiana,GRNST,GRNST,GENERICRPT
+PS_C_OFF.LA,Corn Off Farm Storage Louisiana Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.MD,Corn Off Farm Storage Maryland,GRNST,GRNST,GENERICRPT
+PS_C_OFF.MD,Corn Off Farm Storage Maryland Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.MI,Corn Off Farm Storage Michigan,GRNST,GRNST,GENERICRPT
+PS_C_OFF.MI,Corn Off Farm Storage Michigan Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.MN,Corn Off Farm Storage Minnesota,GRNST,GRNST,GENERICRPT
+PS_C_OFF.MN,Corn Off Farm Storage Minnesota Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.MS,Corn Off Farm Storage Mississippi,GRNST,GRNST,GENERICRPT
+PS_C_OFF.MS,Corn Off Farm Storage Mississippi Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.MO,Corn Off Farm Storage Missouri,GRNST,GRNST,GENERICRPT
+PS_C_OFF.MO,Corn Off Farm Storage Missouri Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.MT,Corn Off Farm Storage Montana,GRNST,GRNST,GENERICRPT
+PS_C_OFF.MT,Corn Off Farm Storage Montana Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.NE,Corn Off Farm Storage Nebraska,GRNST,GRNST,GENERICRPT
+PS_C_OFF.NE,Corn Off Farm Storage Nebraska Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.NJ,Corn Off Farm Storage New Jersey,GRNST,GRNST,GENERICRPT
+PS_C_OFF.NJ,Corn Off Farm Storage New Jersey Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.NY,Corn Off Farm Storage New York,GRNST,GRNST,GENERICRPT
+PS_C_OFF.NY,Corn Off Farm Storage New York Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.NC,Corn Off Farm Storage North Carolina,GRNST,GRNST,GENERICRPT
+PS_C_OFF.NC,Corn Off Farm Storage North Carolina Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.ND,Corn Off Farm Storage North Dakota,GRNST,GRNST,GENERICRPT
+PS_C_OFF.ND,Corn Off Farm Storage North Dakota Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.OH,Corn Off Farm Storage Ohio,GRNST,GRNST,GENERICRPT
+PS_C_OFF.OH,Corn Off Farm Storage Ohio Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.OK,Corn Off Farm Storage Oklahoma,GRNST,GRNST,GENERICRPT
+PS_C_OFF.OK,Corn Off Farm Storage Oklahoma Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.OR,Corn Off Farm Storage Oregon,GRNST,GRNST,GENERICRPT
+PS_C_OFF.OR,Corn Off Farm Storage Oregon Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.PA,Corn Off Farm Storage Pennsylvania,GRNST,GRNST,GENERICRPT
+PS_C_OFF.PA,Corn Off Farm Storage Pennsylvania Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.SC,Corn Off Farm Storage South Carolina,GRNST,GRNST,GENERICRPT
+PS_C_OFF.SC,Corn Off Farm Storage South Carolina Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.SD,Corn Off Farm Storage South Dakota,GRNST,GRNST,GENERICRPT
+PS_C_OFF.SD,Corn Off Farm Storage South Dakota Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.TN,Corn Off Farm Storage Tennessee,GRNST,GRNST,GENERICRPT
+PS_C_OFF.TN,Corn Off Farm Storage Tennessee Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.TX,Corn Off Farm Storage Texas,GRNST,GRNST,GENERICRPT
+PS_C_OFF.TX,Corn Off Farm Storage Texas Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.US,Corn Off Farm Storage United States,GRNST,GRNST,GENERICRPT
+PS_C_OFF.US,Corn Off Farm Storage United States Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.UT,Corn Off Farm Storage Utah,GRNST,GRNST,GENERICRPT
+PS_C_OFF.UT,Corn Off Farm Storage Utah Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.VA,Corn Off Farm Storage Virginia,GRNST,GRNST,GENERICRPT
+PS_C_OFF.VA,Corn Off Farm Storage Virginia Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.WA,Corn Off Farm Storage Washington,GRNST,GRNST,GENERICRPT
+PS_C_OFF.WA,Corn Off Farm Storage Washington Prior Year,GRNST,GRNST,GENERICRPT
+PS_C_OFF.WV,Corn Off Farm Storage West Virginia Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.WI,Corn Off Farm Storage Wisconsin,GRNST,GRNST,GENERICRPT
+PS_C_OFF.WI,Corn Off Farm Storage Wisconsin Prior Year,GRNST,GRNST,GENERICRPT
+US_C_OFF.WV,Corn OFF West Virginia,GRNST,GRNST,GENERICRPT
+US_C_ON.CO,Corn On Farm Storage Colorado,GRNST,GRNST,GENERICRPT
+PS_C_ON.CO,Corn On Farm Storage Colorado Prior Year,GRNST,GRNST,GENERICRPT
+US_C_ON.IL,Corn On Farm Storage Illinois,GRNST,GRNST,GENERICRPT
+PS_C_ON.IL,Corn On Farm Storage Illinois Prior Year,GRNST,GRNST,GENERICRPT
+US_C_ON.IN,Corn On Farm Storage Indiana,GRNST,GRNST,GENERICRPT
+PS_C_ON.IN,Corn On Farm Storage Indiana Prior Year,GRNST,GRNST,GENERICRPT
+US_C_ON.IA,Corn On Farm Storage Iowa,GRNST,GRNST,GENERICRPT
+PS_C_ON.IA,Corn On Farm Storage Iowa Prior Year,GRNST,GRNST,GENERICRPT
+US_C_ON.KS,Corn On Farm Storage Kansas,GRNST,GRNST,GENERICRPT
+PS_C_ON.KS,Corn On Farm Storage Kansas Prior Year,GRNST,GRNST,GENERICRPT
+US_C_ON.KY,Corn On Farm Storage Kentucky,GRNST,GRNST,GENERICRPT
+PS_C_ON.KY,Corn On Farm Storage Kentucky Prior Year,GRNST,GRNST,GENERICRPT
+US_C_ON.MI,Corn On Farm Storage Michigan,GRNST,GRNST,GENERICRPT
+PS_C_ON.MI,Corn On Farm Storage Michigan Prior Year,GRNST,GRNST,GENERICRPT
+US_C_ON.MN,Corn On Farm Storage Minnesota,GRNST,GRNST,GENERICRPT
+PS_C_ON.MN,Corn On Farm Storage Minnesota Prior Year,GRNST,GRNST,GENERICRPT
+US_C_ON.MO,Corn On Farm Storage Missouri,GRNST,GRNST,GENERICRPT
+PS_C_ON.MO,Corn On Farm Storage Missouri Prior Year,GRNST,GRNST,GENERICRPT
+US_C_ON.NE,Corn On Farm Storage Nebraska,GRNST,GRNST,GENERICRPT
+PS_C_ON.NE,Corn On Farm Storage Nebraska Prior Year,GRNST,GRNST,GENERICRPT
+US_C_ON.NC,Corn On Farm Storage North Carolina,GRNST,GRNST,GENERICRPT
+PS_C_ON.NC,Corn On Farm Storage North Carolina Prior Year,GRNST,GRNST,GENERICRPT
+US_C_ON.ND,Corn On Farm Storage North Dakota,GRNST,GRNST,GENERICRPT
+PS_C_ON.ND,Corn On Farm Storage North Dakota Prior Year,GRNST,GRNST,GENERICRPT
+US_C_ON.OH,Corn On Farm Storage Ohio,GRNST,GRNST,GENERICRPT
+PS_C_ON.OH,Corn On Farm Storage Ohio Prior Year,GRNST,GRNST,GENERICRPT
+US_C_ON.PA,Corn On Farm Storage Pennsylvania,GRNST,GRNST,GENERICRPT
+PS_C_ON.PA,Corn On Farm Storage Pennsylvania Prior Year,GRNST,GRNST,GENERICRPT
+US_C_ON.SD,Corn On Farm Storage South Dakota,GRNST,GRNST,GENERICRPT
+PS_C_ON.SD,Corn On Farm Storage South Dakota Prior Year,GRNST,GRNST,GENERICRPT
+US_C_ON.US,Corn On Farm Storage United States,GRNST,GRNST,GENERICRPT
+PS_C_ON.US,Corn On Farm Storage United States Prior Year,GRNST,GRNST,GENERICRPT
+US_C_ON.WI,Corn On Farm Storage Wisconsin,GRNST,GRNST,GENERICRPT
+PS_C_ON.WI,Corn On Farm Storage Wisconsin Prior Year,GRNST,GRNST,GENERICRPT
+US_C_TOT.CO,Corn Total Storage Colorado,GRNST,GRNST,GENERICRPT
+PS_C_TOT.CO,Corn Total Storage Colorado Prior Year,GRNST,GRNST,GENERICRPT
+US_C_TOT.IL,Corn Total Storage Illinois,GRNST,GRNST,GENERICRPT
+PS_C_TOT.IL,Corn Total Storage Illinois Prior Year,GRNST,GRNST,GENERICRPT
+US_C_TOT.IN,Corn Total Storage Indiana,GRNST,GRNST,GENERICRPT
+PS_C_TOT.IN,Corn Total Storage Indiana Prior Year,GRNST,GRNST,GENERICRPT
+US_C_TOT.IA,Corn Total Storage Iowa,GRNST,GRNST,GENERICRPT
+PS_C_TOT.IA,Corn Total Storage Iowa Prior Year,GRNST,GRNST,GENERICRPT
+US_C_TOT.KS,Corn Total Storage Kansas,GRNST,GRNST,GENERICRPT
+PS_C_TOT.KS,Corn Total Storage Kansas Prior Year,GRNST,GRNST,GENERICRPT
+US_C_TOT.KY,Corn Total Storage Kentucky,GRNST,GRNST,GENERICRPT
+PS_C_TOT.KY,Corn Total Storage Kentucky Prior Year,GRNST,GRNST,GENERICRPT
+US_C_TOT.MI,Corn Total Storage Michigan,GRNST,GRNST,GENERICRPT
+PS_C_TOT.MI,Corn Total Storage Michigan Prior Year,GRNST,GRNST,GENERICRPT
+US_C_TOT.MN,Corn Total Storage Minnesota,GRNST,GRNST,GENERICRPT
+PS_C_TOT.MN,Corn Total Storage Minnesota Prior Year,GRNST,GRNST,GENERICRPT
+US_C_TOT.MO,Corn Total Storage Missouri,GRNST,GRNST,GENERICRPT
+PS_C_TOT.MO,Corn Total Storage Missouri Prior Year,GRNST,GRNST,GENERICRPT
+US_C_TOT.NE,Corn Total Storage Nebraska,GRNST,GRNST,GENERICRPT
+PS_C_TOT.NE,Corn Total Storage Nebraska Prior Year,GRNST,GRNST,GENERICRPT
+US_C_TOT.NC,Corn Total Storage North Carolina,GRNST,GRNST,GENERICRPT
+PS_C_TOT.NC,Corn Total Storage North Carolina Prior Year,GRNST,GRNST,GENERICRPT
+US_C_TOT.ND,Corn Total Storage North Dakota,GRNST,GRNST,GENERICRPT
+PS_C_TOT.ND,Corn Total Storage North Dakota Prior Year,GRNST,GRNST,GENERICRPT
+US_C_TOT.OH,Corn Total Storage Ohio,GRNST,GRNST,GENERICRPT
+PS_C_TOT.OH,Corn Total Storage Ohio Prior Year,GRNST,GRNST,GENERICRPT
+US_C_TOT.PA,Corn Total Storage Pennsylvania,GRNST,GRNST,GENERICRPT
+PS_C_TOT.PA,Corn Total Storage Pennsylvania Prior Year,GRNST,GRNST,GENERICRPT
+US_C_TOT.SD,Corn Total Storage South Dakota,GRNST,GRNST,GENERICRPT
+PS_C_TOT.SD,Corn Total Storage South Dakota Prior Year,GRNST,GRNST,GENERICRPT
+US_C_TOT.US,Corn Total Storage United States,GRNST,GRNST,GENERICRPT
+PS_C_TOT.US,Corn Total Storage United States Prior Year,GRNST,GRNST,GENERICRPT
+US_C_TOT.WI,Corn Total Storage Wisconsin,GRNST,GRNST,GENERICRPT
+PS_C_TOT.WI,Corn Total Storage Wisconsin Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.AL,Soybeans Off Farm Storage Alabama,GRNST,GRNST,GENERICRPT
+PS_S_OFF.AL,Soybeans Off Farm Storage Alabama Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.AR,Soybeans Off Farm Storage Arkansas,GRNST,GRNST,GENERICRPT
+PS_S_OFF.AR,Soybeans Off Farm Storage Arkansas Prior Year,GRNST,GRNST,GENERICRPT
+PS_S_OFF.CO,SOYBEANS OFF FARM STORAGE COLORADO PRIOR YEAR,GRNST,GRNST,GENERICRPT
+US_S_OFF.DE,Soybeans Off Farm Storage Delaware,GRNST,GRNST,GENERICRPT
+PS_S_OFF.DE,Soybeans Off Farm Storage Delaware Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.GA,Soybeans Off Farm Storage Georgia,GRNST,GRNST,GENERICRPT
+PS_S_OFF.GA,Soybeans Off Farm Storage Georgia Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.IL,Soybeans Off Farm Storage Illinois,GRNST,GRNST,GENERICRPT
+PS_S_OFF.IL,Soybeans Off Farm Storage Illinois Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.IN,Soybeans Off Farm Storage Indiana,GRNST,GRNST,GENERICRPT
+PS_S_OFF.IN,Soybeans Off Farm Storage Indiana Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.IA,Soybeans Off Farm Storage Iowa,GRNST,GRNST,GENERICRPT
+PS_S_OFF.IA,Soybeans Off Farm Storage Iowa Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.KS,Soybeans Off Farm Storage Kansas,GRNST,GRNST,GENERICRPT
+PS_S_OFF.KS,Soybeans Off Farm Storage Kansas Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.KY,Soybeans Off Farm Storage Kentucky,GRNST,GRNST,GENERICRPT
+PS_S_OFF.KY,Soybeans Off Farm Storage Kentucky Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.LA,Soybeans Off Farm Storage Louisiana,GRNST,GRNST,GENERICRPT
+PS_S_OFF.LA,Soybeans Off Farm Storage Louisiana Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.MD,SOYBEANS OFF FARM STORAGE MARYLAND,GRNST,GRNST,GENERICRPT
+PS_S_OFF.MD,Soybeans Off Farm Storage Maryland Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.MI,Soybeans Off Farm Storage Michigan,GRNST,GRNST,GENERICRPT
+PS_S_OFF.MI,Soybeans Off Farm Storage Michigan Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.MN,Soybeans Off Farm Storage Minnesota,GRNST,GRNST,GENERICRPT
+PS_S_OFF.MN,Soybeans Off Farm Storage Minnesota Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.MS,Soybeans Off Farm Storage Mississippi,GRNST,GRNST,GENERICRPT
+PS_S_OFF.MS,Soybeans Off Farm Storage Mississippi Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.MO,Soybeans Off Farm Storage Missouri,GRNST,GRNST,GENERICRPT
+PS_S_OFF.MO,Soybeans Off Farm Storage Missouri Prior Year,GRNST,GRNST,GENERICRPT
+PS_S_OFF.MT,SOYBEANS OFF FARM STORAGE MONTANA PRIOR YEAR,GRNST,GRNST,GENERICRPT
+US_S_OFF.NE,Soybeans Off Farm Storage Nebraska,GRNST,GRNST,GENERICRPT
+PS_S_OFF.NE,Soybeans Off Farm Storage Nebraska Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.NY,Soybeans Off Farm Storage New York,GRNST,GRNST,GENERICRPT
+PS_S_OFF.NY,Soybeans Off Farm Storage New York Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.NC,Soybeans Off Farm Storage North Carolina,GRNST,GRNST,GENERICRPT
+PS_S_OFF.NC,Soybeans Off Farm Storage North Carolina Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.ND,Soybeans Off Farm Storage North Dakota,GRNST,GRNST,GENERICRPT
+PS_S_OFF.ND,Soybeans Off Farm Storage North Dakota Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.OH,Soybeans Off Farm Storage Ohio,GRNST,GRNST,GENERICRPT
+PS_S_OFF.OH,Soybeans Off Farm Storage Ohio Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.OK,Soybeans Off Farm Storage Oklahoma,GRNST,GRNST,GENERICRPT
+PS_S_OFF.OK,Soybeans Off Farm Storage Oklahoma Prior Year,GRNST,GRNST,GENERICRPT
+PS_S_OFF.OR,SOYBEANS OFF FARM STORAGE OREGON PRIOR YEAR,GRNST,GRNST,GENERICRPT
+US_S_OFF.PA,Soybeans Off Farm Storage Pennsylvania,GRNST,GRNST,GENERICRPT
+PS_S_OFF.PA,Soybeans Off Farm Storage Pennsylvania Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.SC,Soybeans Off Farm Storage South Carolina,GRNST,GRNST,GENERICRPT
+PS_S_OFF.SC,Soybeans Off Farm Storage South Carolina Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.SD,Soybeans Off Farm Storage South Dakota,GRNST,GRNST,GENERICRPT
+PS_S_OFF.SD,Soybeans Off Farm Storage South Dakota Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.TN,Soybeans Off Farm Storage Tennessee,GRNST,GRNST,GENERICRPT
+PS_S_OFF.TN,Soybeans Off Farm Storage Tennessee Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.TX,Soybeans Off Farm Storage Texas,GRNST,GRNST,GENERICRPT
+PS_S_OFF.TX,Soybeans Off Farm Storage Texas Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.US,Soybeans Off Farm Storage United States,GRNST,GRNST,GENERICRPT
+PS_S_OFF.US,Soybeans Off Farm Storage United States Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.VA,Soybeans Off Farm Storage Virginia,GRNST,GRNST,GENERICRPT
+PS_S_OFF.VA,Soybeans Off Farm Storage Virginia Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.WA,Soybeans Off Farm Storage Washington,GRNST,GRNST,GENERICRPT
+PS_S_OFF.WA,Soybeans Off Farm Storage Washington Prior Year,GRNST,GRNST,GENERICRPT
+US_S_OFF.WI,Soybeans Off Farm Storage Wisconsin,GRNST,GRNST,GENERICRPT
+PS_S_OFF.WI,Soybeans Off Farm Storage Wisconsin Prior Year,GRNST,GRNST,GENERICRPT
+US_S_ON.IL,Soybeans On Farm Storage Illinois,GRNST,GRNST,GENERICRPT
+PS_S_ON.IL,Soybeans On Farm Storage Illinois Prior Year,GRNST,GRNST,GENERICRPT
+US_S_ON.IN,Soybeans On Farm Storage Indiana,GRNST,GRNST,GENERICRPT
+PS_S_ON.IN,Soybeans On Farm Storage Indiana Prior Year,GRNST,GRNST,GENERICRPT
+US_S_ON.IA,Soybeans On Farm Storage Iowa,GRNST,GRNST,GENERICRPT
+PS_S_ON.IA,Soybeans On Farm Storage Iowa Prior Year,GRNST,GRNST,GENERICRPT
+US_S_ON.KS,Soybeans On Farm Storage Kansas,GRNST,GRNST,GENERICRPT
+PS_S_ON.KS,Soybeans On Farm Storage Kansas Prior Year,GRNST,GRNST,GENERICRPT
+US_S_ON.MI,Soybeans On Farm Storage Michigan,GRNST,GRNST,GENERICRPT
+PS_S_ON.MI,Soybeans On Farm Storage Michigan Prior Year,GRNST,GRNST,GENERICRPT
+US_S_ON.MN,Soybeans On Farm Storage Minnesota,GRNST,GRNST,GENERICRPT
+PS_S_ON.MN,Soybeans On Farm Storage Minnesota Prior Year,GRNST,GRNST,GENERICRPT
+US_S_ON.MO,Soybeans On Farm Storage Missouri,GRNST,GRNST,GENERICRPT
+PS_S_ON.MO,Soybeans On Farm Storage Missouri Prior Year,GRNST,GRNST,GENERICRPT
+US_S_ON.NE,Soybeans On Farm Storage Nebraska,GRNST,GRNST,GENERICRPT
+PS_S_ON.NE,Soybeans On Farm Storage Nebraska Prior Year,GRNST,GRNST,GENERICRPT
+US_S_ON.ND,Soybeans On Farm Storage North Dakota,GRNST,GRNST,GENERICRPT
+PS_S_ON.ND,Soybeans On Farm Storage North Dakota Prior Year,GRNST,GRNST,GENERICRPT
+US_S_ON.OH,Soybeans On Farm Storage Ohio,GRNST,GRNST,GENERICRPT
+PS_S_ON.OH,Soybeans On Farm Storage Ohio Prior Year,GRNST,GRNST,GENERICRPT
+US_S_ON.SD,Soybeans On Farm Storage South Dakota,GRNST,GRNST,GENERICRPT
+PS_S_ON.SD,Soybeans On Farm Storage South Dakota Prior Year,GRNST,GRNST,GENERICRPT
+US_S_ON.US,Soybeans On Farm Storage United States,GRNST,GRNST,GENERICRPT
+PS_S_ON.US,Soybeans On Farm Storage United States Prior Year,GRNST,GRNST,GENERICRPT
+US_S_ON.WI,Soybeans On Farm Storage Wisconsin,GRNST,GRNST,GENERICRPT
+PS_S_ON.WI,Soybeans On Farm Storage Wisconsin Prior Year,GRNST,GRNST,GENERICRPT
+PS_S_TOT.CO,SOYBEANS TOTAL STORAGE COLORADO PRIOR YEAR,GRNST,GRNST,GENERICRPT
+US_S_TOT.IL,Soybeans Total Storage Illinois,GRNST,GRNST,GENERICRPT
+PS_S_TOT.IL,Soybeans Total Storage Illinois Prior Year,GRNST,GRNST,GENERICRPT
+US_S_TOT.IN,Soybeans Total Storage Indiana,GRNST,GRNST,GENERICRPT
+PS_S_TOT.IN,Soybeans Total Storage Indiana Prior Year,GRNST,GRNST,GENERICRPT
+US_S_TOT.IA,Soybeans Total Storage Iowa,GRNST,GRNST,GENERICRPT
+PS_S_TOT.IA,Soybeans Total Storage Iowa Prior Year,GRNST,GRNST,GENERICRPT
+US_S_TOT.KS,Soybeans Total Storage Kansas,GRNST,GRNST,GENERICRPT
+PS_S_TOT.KS,Soybeans Total Storage Kansas Prior Year,GRNST,GRNST,GENERICRPT
+US_S_TOT.MI,Soybeans Total Storage Michigan,GRNST,GRNST,GENERICRPT
+PS_S_TOT.MI,Soybeans Total Storage Michigan Prior Year,GRNST,GRNST,GENERICRPT
+US_S_TOT.MN,Soybeans Total Storage Minnesota,GRNST,GRNST,GENERICRPT
+PS_S_TOT.MN,Soybeans Total Storage Minnesota Prior Year,GRNST,GRNST,GENERICRPT
+US_S_TOT.MO,Soybeans Total Storage Missouri,GRNST,GRNST,GENERICRPT
+PS_S_TOT.MO,Soybeans Total Storage Missouri Prior Year,GRNST,GRNST,GENERICRPT
+PS_S_TOT.MT,SOYBEANS TOTAL STORAGE MONTANA PRIOR YEAR,GRNST,GRNST,GENERICRPT
+US_S_TOT.NE,Soybeans Total Storage Nebraska,GRNST,GRNST,GENERICRPT
+PS_S_TOT.NE,Soybeans Total Storage Nebraska Prior Year,GRNST,GRNST,GENERICRPT
+US_S_TOT.ND,Soybeans Total Storage North Dakota,GRNST,GRNST,GENERICRPT
+PS_S_TOT.ND,Soybeans Total Storage North Dakota Prior Year,GRNST,GRNST,GENERICRPT
+US_S_TOT.OH,Soybeans Total Storage Ohio,GRNST,GRNST,GENERICRPT
+PS_S_TOT.OH,Soybeans Total Storage Ohio Prior Year,GRNST,GRNST,GENERICRPT
+PS_S_TOT.OR,SOYBEANS TOTAL STORAGE OREGON PRIOR YEAR,GRNST,GRNST,GENERICRPT
+US_S_TOT.SD,Soybeans Total Storage South Dakota,GRNST,GRNST,GENERICRPT
+PS_S_TOT.SD,Soybeans Total Storage South Dakota Prior Year,GRNST,GRNST,GENERICRPT
+US_S_TOT.US,Soybeans Total Storage United States,GRNST,GRNST,GENERICRPT
+PS_S_TOT.US,Soybeans Total Storage United States Prior Year,GRNST,GRNST,GENERICRPT
+US_S_TOT.WA,Soybeans Total Storage Washington,GRNST,GRNST,GENERICRPT
+PS_S_TOT.WA,Soybeans Total Storage Washington Prior Year,GRNST,GRNST,GENERICRPT
+US_S_TOT.WI,Soybeans Total Storage Wisconsin,GRNST,GRNST,GENERICRPT
+PS_S_TOT.WI,Soybeans Total Storage Wisconsin Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.AL,Wheat Off Farm Storage Alabama,GRNST,GRNST,GENERICRPT
+PS_W_OFF.AL,Wheat Off Farm Storage Alabama Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.AZ,Wheat Off Farm Storage Arizona,GRNST,GRNST,GENERICRPT
+PS_W_OFF.AZ,Wheat Off Farm Storage Arizona Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.AR,Wheat Off Farm Storage Arkansas,GRNST,GRNST,GENERICRPT
+US_W_OFF.CA,Wheat Off Farm Storage California,GRNST,GRNST,GENERICRPT
+PS_W_OFF.CA,Wheat Off Farm Storage California Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.CO,Wheat Off Farm Storage Colorado,GRNST,GRNST,GENERICRPT
+PS_W_OFF.CO,Wheat Off Farm Storage Colorado Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.DE,Wheat Off Farm Storage Delaware,GRNST,GRNST,GENERICRPT
+PS_W_OFF.DE,Wheat Off Farm Storage Delaware Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.GA,Wheat Off Farm Storage Georgia,GRNST,GRNST,GENERICRPT
+PS_W_OFF.GA,Wheat Off Farm Storage Georgia Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.ID,Wheat Off Farm Storage Idaho,GRNST,GRNST,GENERICRPT
+PS_W_OFF.ID,Wheat Off Farm Storage Idaho Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.IL,Wheat Off Farm Storage Illinois,GRNST,GRNST,GENERICRPT
+PS_W_OFF.IL,Wheat Off Farm Storage Illinois Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.IN,Wheat Off Farm Storage Indiana,GRNST,GRNST,GENERICRPT
+PS_W_OFF.IN,Wheat Off Farm Storage Indiana Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.IA,Wheat Off Farm Storage Iowa,GRNST,GRNST,GENERICRPT
+PS_W_OFF.IA,Wheat Off Farm Storage Iowa Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.KS,Wheat Off Farm Storage Kansas,GRNST,GRNST,GENERICRPT
+PS_W_OFF.KS,Wheat Off Farm Storage Kansas Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.KY,Wheat Off Farm Storage Kentucky,GRNST,GRNST,GENERICRPT
+PS_W_OFF.KY,Wheat Off Farm Storage Kentucky Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.LA,Wheat Off Farm Storage Louisiana,GRNST,GRNST,GENERICRPT
+PS_W_OFF.LA,Wheat Off Farm Storage Louisiana Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.MD,Wheat Off Farm Storage Maryland,GRNST,GRNST,GENERICRPT
+PS_W_OFF.MD,Wheat Off Farm Storage Maryland Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.MI,Wheat Off Farm Storage Michigan,GRNST,GRNST,GENERICRPT
+PS_W_OFF.MI,Wheat Off Farm Storage Michigan Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.MN,Wheat Off Farm Storage Minnesota,GRNST,GRNST,GENERICRPT
+PS_W_OFF.MN,Wheat Off Farm Storage Minnesota Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.MS,Wheat Off Farm Storage Mississippi,GRNST,GRNST,GENERICRPT
+PS_W_OFF.MS,WHEAT OFF FARM STORAGE MISSISSIPPI PRIOR YEAR,GRNST,GRNST,GENERICRPT
+US_W_OFF.MO,Wheat Off Farm Storage Missouri,GRNST,GRNST,GENERICRPT
+PS_W_OFF.MO,Wheat Off Farm Storage Missouri Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.MT,Wheat Off Farm Storage Montana,GRNST,GRNST,GENERICRPT
+PS_W_OFF.MT,Wheat Off Farm Storage Montana Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.NE,Wheat Off Farm Storage Nebraska,GRNST,GRNST,GENERICRPT
+PS_W_OFF.NE,Wheat Off Farm Storage Nebraska Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.NJ,WHEAT OFF FARM STORAGE NEW JERSEY,GRNST,GRNST,GENERICRPT
+PS_W_OFF.NJ,Wheat Off Farm Storage New Jersey Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.NY,Wheat Off Farm Storage New York,GRNST,GRNST,GENERICRPT
+PS_W_OFF.NY,Wheat Off Farm Storage New York Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.NC,Wheat Off Farm Storage North Carolina,GRNST,GRNST,GENERICRPT
+PS_W_OFF.NC,Wheat Off Farm Storage North Carolina Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.ND,Wheat Off Farm Storage North Dakota,GRNST,GRNST,GENERICRPT
+PS_W_OFF.ND,Wheat Off Farm Storage North Dakota Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.OH,Wheat Off Farm Storage Ohio,GRNST,GRNST,GENERICRPT
+PS_W_OFF.OH,Wheat Off Farm Storage Ohio Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.OK,Wheat Off Farm Storage Oklahoma,GRNST,GRNST,GENERICRPT
+PS_W_OFF.OK,Wheat Off Farm Storage Oklahoma Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.OR,Wheat Off Farm Storage Oregon,GRNST,GRNST,GENERICRPT
+PS_W_OFF.OR,Wheat Off Farm Storage Oregon Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.PA,Wheat Off Farm Storage Pennsylvania,GRNST,GRNST,GENERICRPT
+PS_W_OFF.PA,Wheat Off Farm Storage Pennsylvania Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.SC,Wheat Off Farm Storage South Carolina,GRNST,GRNST,GENERICRPT
+PS_W_OFF.SC,Wheat Off Farm Storage South Carolina Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.SD,Wheat Off Farm Storage South Dakota,GRNST,GRNST,GENERICRPT
+PS_W_OFF.SD,Wheat Off Farm Storage South Dakota Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.TN,Wheat Off Farm Storage Tennessee,GRNST,GRNST,GENERICRPT
+PS_W_OFF.TN,Wheat Off Farm Storage Tennessee Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.TX,Wheat Off Farm Storage Texas,GRNST,GRNST,GENERICRPT
+PS_W_OFF.TX,Wheat Off Farm Storage Texas Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.US,Wheat Off Farm Storage United States,GRNST,GRNST,GENERICRPT
+PS_W_OFF.US,Wheat Off Farm Storage United States Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.UT,Wheat Off Farm Storage Utah,GRNST,GRNST,GENERICRPT
+PS_W_OFF.UT,Wheat Off Farm Storage Utah Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.VA,Wheat Off Farm Storage Virginia,GRNST,GRNST,GENERICRPT
+PS_W_OFF.VA,Wheat Off Farm Storage Virginia Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.WA,Wheat Off Farm Storage Washington,GRNST,GRNST,GENERICRPT
+PS_W_OFF.WA,Wheat Off Farm Storage Washington Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.WI,Wheat Off Farm Storage Wisconsin,GRNST,GRNST,GENERICRPT
+PS_W_OFF.WI,Wheat Off Farm Storage Wisconsin Prior Year,GRNST,GRNST,GENERICRPT
+US_W_OFF.WY,WHEAT OFF FARM STORAGE WYOMING,GRNST,GRNST,GENERICRPT
+PS_W_OFF.WY,Wheat Off Farm Storage Wyoming Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.CA,Wheat On Farm Storage California,GRNST,GRNST,GENERICRPT
+PS_W_ON.CA,Wheat On Farm Storage California Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.CO,Wheat On Farm Storage Colorado,GRNST,GRNST,GENERICRPT
+PS_W_ON.CO,Wheat On Farm Storage Colorado Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.ID,Wheat On Farm Storage Idaho,GRNST,GRNST,GENERICRPT
+PS_W_ON.ID,Wheat On Farm Storage Idaho Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.IL,Wheat On Farm Storage Illinois,GRNST,GRNST,GENERICRPT
+PS_W_ON.IL,Wheat On Farm Storage Illinois Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.IN,Wheat On Farm Storage Indiana,GRNST,GRNST,GENERICRPT
+PS_W_ON.IN,Wheat On Farm Storage Indiana Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.KS,Wheat On Farm Storage Kansas,GRNST,GRNST,GENERICRPT
+PS_W_ON.KS,Wheat On Farm Storage Kansas Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.MI,Wheat On Farm Storage Michigan,GRNST,GRNST,GENERICRPT
+PS_W_ON.MI,Wheat On Farm Storage Michigan Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.MN,Wheat On Farm Storage Minnesota,GRNST,GRNST,GENERICRPT
+PS_W_ON.MN,Wheat On Farm Storage Minnesota Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.MO,Wheat On Farm Storage Missouri,GRNST,GRNST,GENERICRPT
+PS_W_ON.MO,Wheat On Farm Storage Missouri Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.MT,Wheat On Farm Storage Montana,GRNST,GRNST,GENERICRPT
+PS_W_ON.MT,Wheat On Farm Storage Montana Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.NE,Wheat On Farm Storage Nebraska,GRNST,GRNST,GENERICRPT
+PS_W_ON.NE,Wheat On Farm Storage Nebraska Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.NC,Wheat On Farm Storage North Carolina,GRNST,GRNST,GENERICRPT
+PS_W_ON.NC,Wheat On Farm Storage North Carolina Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.ND,Wheat On Farm Storage North Dakota,GRNST,GRNST,GENERICRPT
+PS_W_ON.ND,Wheat On Farm Storage North Dakota Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.OH,Wheat On Farm Storage Ohio,GRNST,GRNST,GENERICRPT
+PS_W_ON.OH,Wheat On Farm Storage Ohio Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.OK,Wheat On Farm Storage Oklahoma,GRNST,GRNST,GENERICRPT
+PS_W_ON.OK,Wheat On Farm Storage Oklahoma Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.OR,Wheat On Farm Storage Oregon,GRNST,GRNST,GENERICRPT
+PS_W_ON.OR,Wheat On Farm Storage Oregon Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.SD,Wheat On Farm Storage South Dakota,GRNST,GRNST,GENERICRPT
+PS_W_ON.SD,Wheat On Farm Storage South Dakota Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.TX,Wheat On Farm Storage Texas,GRNST,GRNST,GENERICRPT
+PS_W_ON.TX,Wheat On Farm Storage Texas Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.US,Wheat On Farm Storage United States,GRNST,GRNST,GENERICRPT
+PS_W_ON.US,Wheat On Farm Storage United States Prior Year,GRNST,GRNST,GENERICRPT
+US_W_ON.WA,Wheat On Farm Storage Washington,GRNST,GRNST,GENERICRPT
+PS_W_ON.WA,Wheat On Farm Storage Washington Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.AR,Wheat Total Storage Arkansas,GRNST,GRNST,GENERICRPT
+PS_W_TOT.AR,Wheat Total Storage Arkansas Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.CA,Wheat Total Storage California,GRNST,GRNST,GENERICRPT
+PS_W_TOT.CA,Wheat Total Storage California Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.CO,Wheat Total Storage Colorado,GRNST,GRNST,GENERICRPT
+PS_W_TOT.CO,Wheat Total Storage Colorado Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.ID,Wheat Total Storage Idaho,GRNST,GRNST,GENERICRPT
+PS_W_TOT.ID,Wheat Total Storage Idaho Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.IL,Wheat Total Storage Illinois,GRNST,GRNST,GENERICRPT
+PS_W_TOT.IL,Wheat Total Storage Illinois Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.IN,Wheat Total Storage Indiana,GRNST,GRNST,GENERICRPT
+PS_W_TOT.IN,Wheat Total Storage Indiana Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.IA,Wheat Total Storage Iowa,GRNST,GRNST,GENERICRPT
+PS_W_TOT.IA,Wheat Total Storage Iowa Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.KS,Wheat Total Storage Kansas,GRNST,GRNST,GENERICRPT
+PS_W_TOT.KS,Wheat Total Storage Kansas Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.KY,WHEAT TOTAL STORAGE KENTUCKY,GRNST,GRNST,GENERICRPT
+PS_W_TOT.KY,Wheat Total Storage Kentucky Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.LA,Wheat Total Storage Louisiana,GRNST,GRNST,GENERICRPT
+PS_W_TOT.LA,Wheat Total Storage Louisiana Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.MI,Wheat Total Storage Michigan,GRNST,GRNST,GENERICRPT
+PS_W_TOT.MI,Wheat Total Storage Michigan Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.MN,Wheat Total Storage Minnesota,GRNST,GRNST,GENERICRPT
+PS_W_TOT.MN,Wheat Total Storage Minnesota Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.MO,Wheat Total Storage Missouri,GRNST,GRNST,GENERICRPT
+PS_W_TOT.MO,Wheat Total Storage Missouri Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.MT,Wheat Total Storage Montana,GRNST,GRNST,GENERICRPT
+PS_W_TOT.MT,Wheat Total Storage Montana Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.NE,Wheat Total Storage Nebraska,GRNST,GRNST,GENERICRPT
+PS_W_TOT.NE,Wheat Total Storage Nebraska Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.NC,Wheat Total Storage North Carolina,GRNST,GRNST,GENERICRPT
+PS_W_TOT.NC,Wheat Total Storage North Carolina Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.ND,Wheat Total Storage North Dakota,GRNST,GRNST,GENERICRPT
+PS_W_TOT.ND,Wheat Total Storage North Dakota Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.OH,Wheat Total Storage Ohio,GRNST,GRNST,GENERICRPT
+PS_W_TOT.OH,Wheat Total Storage Ohio Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.OK,Wheat Total Storage Oklahoma,GRNST,GRNST,GENERICRPT
+PS_W_TOT.OK,Wheat Total Storage Oklahoma Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.OR,Wheat Total Storage Oregon,GRNST,GRNST,GENERICRPT
+PS_W_TOT.OR,Wheat Total Storage Oregon Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.SD,Wheat Total Storage South Dakota,GRNST,GRNST,GENERICRPT
+PS_W_TOT.SD,Wheat Total Storage South Dakota Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.TX,Wheat Total Storage Texas,GRNST,GRNST,GENERICRPT
+PS_W_TOT.TX,Wheat Total Storage Texas Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.US,Wheat Total Storage United States,GRNST,GRNST,GENERICRPT
+PS_W_TOT.US,Wheat Total Storage United States Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.WA,Wheat Total Storage Washington,GRNST,GRNST,GENERICRPT
+PS_W_TOT.WA,Wheat Total Storage Washington Prior Year,GRNST,GRNST,GENERICRPT

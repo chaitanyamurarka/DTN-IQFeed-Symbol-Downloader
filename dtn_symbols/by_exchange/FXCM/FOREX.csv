@@ -1,0 +1,49 @@
+symbol,description,exchange,listedMarket,securityType
+AUDCAD.FXCM,Australian Dollar vs Canadian Dollar - Forex Capital Markets,FXCM,FXCM,FOREX
+AUDJPY.FXCM,Australian Dollar vs Japanese Yen - Forex Capital Markets,FXCM,FXCM,FOREX
+AUDNZD.FXCM,Australian Dollar vs New Zealand Dollar - Forex Capital Markets,FXCM,FXCM,FOREX
+AUDCHF.FXCM,Australian Dollar vs Swiss Franc - Forex Capital Markets,FXCM,FXCM,FOREX
+AUDUSD.FXCM,Australian Dollar vs US Dollar - Forex Capital Markets,FXCM,FXCM,FOREX
+CADJPY.FXCM,Canadian Dollar vs Japanese Yen - Forex Capital Markets,FXCM,FXCM,FOREX
+CADCHF.FXCM,Canadian Dollar vs Swiss Franc - Forex Capital Markets,FXCM,FXCM,FOREX
+EURAUD.FXCM,Euro vs Australian Dollar - Forex Capital Markets,FXCM,FXCM,FOREX
+EURCAD.FXCM,Euro vs Canadian Dollar - Forex Capital Markets,FXCM,FXCM,FOREX
+EURHUF.FXCM,Euro vs Hungarian Forint - Forex Capital Markets,FXCM,FXCM,FOREX
+EURJPY.FXCM,Euro vs Japanese Yen - Forex Capital Markets,FXCM,FXCM,FOREX
+EURNZD.FXCM,Euro vs New Zealand Dollar - Forex Capital Markets,FXCM,FXCM,FOREX
+EURNOK.FXCM,Euro vs Norwegian Krone - Forex Capital Markets,FXCM,FXCM,FOREX
+EURGBP.FXCM,Euro vs Pound Sterling - Forex Capital Markets,FXCM,FXCM,FOREX
+EURSEK.FXCM,Euro vs Swedish Krona - Forex Capital Markets,FXCM,FXCM,FOREX
+EURCHF.FXCM,Euro vs Swiss Franc - Forex Capital Markets,FXCM,FXCM,FOREX
+EURTRY.FXCM,Euro vs Turkish Lira - Forex Capital Markets,FXCM,FXCM,FOREX
+EURUSD.FXCM,Euro vs US Dollar - Forex Capital Markets,FXCM,FXCM,FOREX
+XAUUSD.FXCM,Gold vs US Dollar - Forex Capital Markets,FXCM,FXCM,FOREX
+NZDCAD.FXCM,New Zealand Dollar vs Canadian Dollar - Forex Capital Markets,FXCM,FXCM,FOREX
+NZDJPY.FXCM,New Zealand Dollar vs Japanese Yen - Forex Capital Markets,FXCM,FXCM,FOREX
+NZDCHF.FXCM,New Zealand Dollar vs Swiss Franc - Forex Capital Markets,FXCM,FXCM,FOREX
+NZDUSD.FXCM,New Zealand Dollar vs US Dollar - Forex Capital Markets,FXCM,FXCM,FOREX
+GBPAUD.FXCM,Pound Sterling vs Australian Dollar - Forex Capital Markets,FXCM,FXCM,FOREX
+GBPCAD.FXCM,Pound Sterling vs Canadian Dollar - Forex Capital Markets,FXCM,FXCM,FOREX
+GBPJPY.FXCM,Pound Sterling vs Japanese Yen - Forex Capital Markets,FXCM,FXCM,FOREX
+GBPNZD.FXCM,Pound Sterling vs New Zealand Dollar - Forex Capital Markets,FXCM,FXCM,FOREX
+GBPCHF.FXCM,Pound Sterling vs Swiss Franc - Forex Capital Markets,FXCM,FXCM,FOREX
+GBPUSD.FXCM,Pound Sterling vs US Dollar - Forex Capital Markets,FXCM,FXCM,FOREX
+XAGUSD.FXCM,Silver vs US Dollar - Forex Capital Markets,FXCM,FXCM,FOREX
+ZARJPY.FXCM,South African Rand vs Japanese Yen - Forex Capital Markets,FXCM,FXCM,FOREX
+CHFJPY.FXCM,Swiss Franc vs Japanese Yen - Forex Capital Markets,FXCM,FXCM,FOREX
+USDCAD.FXCM,US Dollar vs Canadian Dollar - Forex Capital Markets,FXCM,FXCM,FOREX
+USDCLP.FXCM,US Dollar vs Chilean Peso - Forex Capital Markets,FXCM,FXCM,FOREX
+USDCOP.FXCM,US Dollar vs Colombian Peso - Forex Capital Markets,FXCM,FXCM,FOREX
+USDHKD.FXCM,US Dollar vs Hong Kong Dollar - Forex Capital Markets,FXCM,FXCM,FOREX
+USDCNH.FXCM,US Dollar vs Hong Kong Renminbi - Forex Capital Markets,FXCM,FXCM,FOREX
+USDHUF.FXCM,US Dollar vs Hungarian Forint - Forex Capital Markets,FXCM,FXCM,FOREX
+USDINR.FXCM,US Dollar vs Indian Rupee - Forex Capital Markets,FXCM,FXCM,FOREX
+USDJPY.FXCM,US Dollar vs Japanese Yen - Forex Capital Markets,FXCM,FXCM,FOREX
+USDMXN.FXCM,US Dollar vs Mexican Peso - Forex Capital Markets,FXCM,FXCM,FOREX
+USDTWD.FXCM,US Dollar vs New Taiwan Dollar - Forex Capital Markets,FXCM,FXCM,FOREX
+USDNOK.FXCM,US Dollar vs Norwegian Krone - Forex Capital Markets,FXCM,FXCM,FOREX
+USDZAR.FXCM,US Dollar vs South African Rand - Forex Capital Markets,FXCM,FXCM,FOREX
+USDKRW.FXCM,US Dollar vs South Korean Won - Forex Capital Markets,FXCM,FXCM,FOREX
+USDSEK.FXCM,US Dollar vs Swedish Krona - Forex Capital Markets,FXCM,FXCM,FOREX
+USDCHF.FXCM,US Dollar vs Swiss Franc - Forex Capital Markets,FXCM,FXCM,FOREX
+USDTRY.FXCM,US Dollar vs Turkish Lira - Forex Capital Markets,FXCM,FXCM,FOREX
