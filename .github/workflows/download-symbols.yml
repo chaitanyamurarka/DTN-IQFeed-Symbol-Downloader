@@ -26,13 +26,11 @@ jobs:
     timeout-minutes: 120  # 2 hours timeout
     
     steps:
-    # MODIFIED: Install Git LFS first
     - name: Install Git LFS
       run: |
         sudo apt-get update
         sudo apt-get install git-lfs
 
-    # MODIFIED: Add lfs: true to the checkout step
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
@@ -59,7 +57,6 @@ jobs:
     - name: Create output directory
       run: mkdir -p dtn_symbols
     
-    # Try to restore previous download state if workflow was interrupted
     - name: Restore download state
       uses: actions/cache@v3
       with:
@@ -80,7 +77,6 @@ jobs:
           python dtn_symbol_downloader.py --delay ${{ env.DOWNLOAD_DELAY }}
         fi
         
-        # Get file info
         if [ -f "dtn_symbols/all_symbols_latest.csv" ]; then
           FILE_SIZE=$(ls -lh dtn_symbols/all_symbols_latest.csv | awk '{print $5}')
           LINE_COUNT=$(wc -l < dtn_symbols/all_symbols_latest.csv)
@@ -98,25 +94,22 @@ jobs:
         git add .gitattributes
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        
-        # Correctly add all new and changed files in the directory
         git add dtn_symbols/
-        
         git commit -m "Automated symbol download: $(date)" || echo "No changes to commit"
         git push
 
     - name: Compress symbols file
       if: steps.download.outputs.download_success == 'true'
       run: |
-        cd dtn_symbols
-        gzip -k all_symbols_latest.csv
-        zip all_symbols_latest.zip all_symbols_latest.csv
+        gzip -k dtn_symbols/all_symbols_latest.csv
+        zip dtn_symbols/all_symbols_latest.zip dtn_symbols/all_symbols_latest.csv
 
     - name: Compress split symbols directory
       if: steps.download.outputs.download_success == 'true'
       run: |
         if [ -d "dtn_symbols/by_exchange" ]; then
           echo "Compressing split symbol files..."
+          # Use -C to change directory only for this command
           zip -r dtn_symbols/by_exchange.zip dtn_symbols/by_exchange
         else
           echo "Split symbol directory not found, skipping compression."
@@ -130,10 +123,9 @@ jobs:
         import json
         from datetime import datetime
         
-        # Read the CSV
+        # This path is correct because we are running from the root
         df = pd.read_csv('dtn_symbols/all_symbols_latest.csv')
         
-        # Generate statistics
         stats = {
             'timestamp': datetime.now().isoformat(),
             'total_symbols': len(df),
@@ -144,11 +136,9 @@ jobs:
             'top_security_types': df['securityType'].value_counts().head(10).to_dict() if 'securityType' in df else {}
         }
         
-        # Save statistics
         with open('dtn_symbols/download_stats.json', 'w') as f:
             json.dump(stats, f, indent=2)
         
-        # Create markdown summary
         with open('dtn_symbols/SUMMARY.md', 'w') as f:
             f.write(f"# DTN Symbol Download Summary\n\n")
             f.write(f"- **Timestamp**: {stats['timestamp']}\n")
@@ -156,7 +146,6 @@ jobs:
             f.write(f"- **Unique Exchanges**: {stats['exchanges']}\n")
             f.write(f"- **Security Types**: {stats['security_types']}\n")
             f.write(f"- **File Size**: {stats['file_size']}\n\n")
-            
             f.write("## Top Exchanges\n")
             for exchange, count in list(stats['top_exchanges'].items())[:10]:
                 f.write(f"- {exchange}: {count:,}\n")
@@ -183,17 +172,16 @@ jobs:
         TAG_NAME="symbols-$(date +'%Y%m%d-%H%M%S')"
         RELEASE_NAME="DTN Symbols - $(date +'%Y-%m-%d %H:%M:%S UTC')"
         
-        # Create release
         gh release create "$TAG_NAME" \
           --title "$RELEASE_NAME" \
           --notes "Automated symbol download containing ${{ steps.download.outputs.line_count }} symbols" \
           dtn_symbols/all_symbols_latest.csv.gz \
+          dtn_symbols/by_exchange.zip \
           dtn_symbols/download_stats.json
     
     - name: Clean up batch files
       if: always()
       run: |
-        # Remove batch files to save space
         rm -f dtn_symbols/batch_*.csv
     
     - name: Send notification on failure
@@ -201,7 +189,6 @@ jobs:
       uses: actions/github-script@v7
       with:
         script: |
-          // Create an issue on failure
           const issue = await github.rest.issues.create({
             owner: context.repo.owner,
             repo: context.repo.repo,
