@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 dtn_symbols/*.csv filter=lfs diff=lfs merge=lfs -text
+dtn_symbols/*.zip filter=lfs diff=lfs merge=lfs -text
+dtn_symbols/*.csv.gz filter=lfs diff=lfs merge=lfs -text
