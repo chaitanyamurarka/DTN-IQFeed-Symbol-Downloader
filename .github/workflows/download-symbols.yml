@@ -91,7 +91,7 @@ jobs:
     - name: Compress symbols file
       if: steps.download.outputs.download_success == 'true'
       run: |
-        gzip -k dtn_symbols/all_symbols_latest.csv
+        gzip -kf dtn_symbols/all_symbols_latest.csv
         zip dtn_symbols/all_symbols_latest.zip dtn_symbols/all_symbols_latest.csv
 
     - name: Compress split symbols directory
