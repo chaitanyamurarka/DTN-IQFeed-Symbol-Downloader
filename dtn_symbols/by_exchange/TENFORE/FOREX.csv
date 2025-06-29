@@ -6563,6 +6563,8 @@ USDPHPON.COMP,US Dollar vs Philippine Peso Overnight - Composite Symbol,TENFORE,
 USDPHPON.SURF,US Dollar vs Philippine Peso Overnight - Tullet Single Unified Record Feed,TENFORE,TENFORE,FOREX
 USDPHPSN.BNPF,US Dollar vs Philippine Peso Spot Next - BNP Paribas,TENFORE,TENFORE,FOREX
 USDPHPSN.COMP,US Dollar vs Philippine Peso Spot Next - Composite Symbol,TENFORE,TENFORE,FOREX
+USDPHPTN.COMP,US Dollar vs Philippine Peso Tomorrow - Composite Symbol,TENFORE,TENFORE,FOREX
+USDPHPTN.SURF,US Dollar vs Philippine Peso Tomorrow - Tullet Single Unified Record Feed,TENFORE,TENFORE,FOREX
 USDPLN.COMP,US Dollar vs Polish Zloty - Composite Symbol,TENFORE,TENFORE,FOREX
 USDPLN.CMC,US Dollar vs Polish Zloty - Currency Management Corporation,TENFORE,TENFORE,FOREX
 USDPLN.DRES,US Dollar vs Polish Zloty - Dresdner Kleinwort,TENFORE,TENFORE,FOREX
