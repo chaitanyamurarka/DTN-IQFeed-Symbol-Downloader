@@ -1,8 +1,4 @@
 symbol,description,exchange,listedMarket,securityType
-BGIM25C.OI.Z,LIVE CATTLE Jun 2025 Future Option Call Total Open Interest,BMF,BMF,COMBINED_FOPTION
-BGIM25C.VOL.Z,LIVE CATTLE Jun 2025 Future Option Call Total Volume,BMF,BMF,COMBINED_FOPTION
-BGIM25P.OI.Z,LIVE CATTLE Jun 2025 Future Option Put Total Open Interest,BMF,BMF,COMBINED_FOPTION
-BGIM25P.VOL.Z,LIVE CATTLE Jun 2025 Future Option Put Total Volume,BMF,BMF,COMBINED_FOPTION
 BGIN25C.OI.Z,LIVE CATTLE Jul 2025 Future Option Call Total Open Interest,BMF,BMF,COMBINED_FOPTION
 BGIN25C.VOL.Z,LIVE CATTLE Jul 2025 Future Option Call Total Volume,BMF,BMF,COMBINED_FOPTION
 BGIN25P.OI.Z,LIVE CATTLE Jul 2025 Future Option Put Total Open Interest,BMF,BMF,COMBINED_FOPTION
