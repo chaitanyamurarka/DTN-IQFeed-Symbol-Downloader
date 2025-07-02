@@ -794,6 +794,7 @@ EUADECUSD.X,"EUA December (current year) forward OTC contract, delivered (Priced
 EUADEC.X,"EUA December (current year) forward OTC contract, delivered $/mt",BALTIC,BALTIC,GENERICRPT
 EUADECEUR.X,"EUA December (current year) forward OTC contract, delivered Euro/mt",BALTIC,BALTIC,GENERICRPT
 EUADEC25.X,EUA December (EUADEC) Average of previous month $,BALTIC,BALTIC,GENERICRPT
+EUADECA.X,EUA December (EUADEC) Average of previous month $/mt,BALTIC,BALTIC,GENERICRPT
 EUADEC+1USD.X,"EUA December (next year) forward OTC contract, delivered (Priced in $) $",BALTIC,BALTIC,GENERICRPT
 EUADEC+1.X,"EUA December (next year) forward OTC contract, delivered $/mt",BALTIC,BALTIC,GENERICRPT
 EUADEC+1EUR.X,"EUA December (next year) forward OTC contract, delivered Euro/mt",BALTIC,BALTIC,GENERICRPT
