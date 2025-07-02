@@ -108,6 +108,8 @@ AUDCADTN.COMP,Australian Dollar vs Canadian Dollar Tomorrow - Composite Symbol,T
 AUDCADTN.SURF,Australian Dollar vs Canadian Dollar Tomorrow - Tullet Single Unified Record Feed,TENFORE,TENFORE,FOREX
 AUDCLP.COMP,Australian Dollar vs Chilean Peso - Composite Symbol,TENFORE,TENFORE,FOREX
 AUDCLP.EUAM,Australian Dollar vs Chilean Peso - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
+AUDHRK.COMP,Australian Dollar vs Croatian Kuna - Composite Symbol,TENFORE,TENFORE,FOREX
+AUDHRK.EUAM,Australian Dollar vs Croatian Kuna - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 AUDCZK.COMP,Australian Dollar vs Czech Koruna - Composite Symbol,TENFORE,TENFORE,FOREX
 AUDCZK.CMC,Australian Dollar vs Czech Koruna - Currency Management Corporation,TENFORE,TENFORE,FOREX
 AUDCZK.SAXO,Australian Dollar vs Czech Koruna - Saxo Bank,TENFORE,TENFORE,FOREX
@@ -652,6 +654,8 @@ CADKYD.COMP,Canadian Dollar vs Cayman Islands Dollar - Composite Symbol,TENFORE,
 CADKYD.EUAM,Canadian Dollar vs Cayman Islands Dollar - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 CADCOP.COMP,Canadian Dollar vs Colombian Peso - Composite Symbol,TENFORE,TENFORE,FOREX
 CADCOP.EUAM,Canadian Dollar vs Colombian Peso - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
+CADHRK.COMP,Canadian Dollar vs Croatian Kuna - Composite Symbol,TENFORE,TENFORE,FOREX
+CADHRK.EUAM,Canadian Dollar vs Croatian Kuna - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 CADCZK.COMP,Canadian Dollar vs Czech Koruna - Composite Symbol,TENFORE,TENFORE,FOREX
 CADCZK.CMC,Canadian Dollar vs Czech Koruna - Currency Management Corporation,TENFORE,TENFORE,FOREX
 CADCZK.EUAM,Canadian Dollar vs Czech Koruna - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
@@ -980,8 +984,12 @@ CRCGBP.COMP,Costa Rican Colon vs Pound Sterling - Composite Symbol,TENFORE,TENFO
 CRCGBP.EUAM,Costa Rican Colon vs Pound Sterling - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 CRCUSD.COMP,Costa Rican Colon vs US Dollar - Composite Symbol,TENFORE,TENFORE,FOREX
 CRCUSD.EUAM,Costa Rican Colon vs US Dollar - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
+HRKAUD.COMP,Croatian Kuna vs Australian Dollar - Composite Symbol,TENFORE,TENFORE,FOREX
+HRKAUD.EUAM,Croatian Kuna vs Australian Dollar - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 HRKBRL.COMP,Croatian Kuna vs Brazilian Real - Composite Symbol,TENFORE,TENFORE,FOREX
 HRKBRL.EUAM,Croatian Kuna vs Brazilian Real - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
+HRKCAD.COMP,Croatian Kuna vs Canadian Dollar - Composite Symbol,TENFORE,TENFORE,FOREX
+HRKCAD.EUAM,Croatian Kuna vs Canadian Dollar - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 CUPEUR.COMP,Cuban Peso vs Euro - Composite Symbol,TENFORE,TENFORE,FOREX
 CUPEUR.EUAM,Cuban Peso vs Euro - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 CUPUSD.COMP,Cuban Peso vs US Dollar - Composite Symbol,TENFORE,TENFORE,FOREX

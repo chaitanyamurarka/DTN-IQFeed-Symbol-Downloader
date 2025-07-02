@@ -385,6 +385,7 @@ US_W_ON.US,Wheat On Farm Storage United States,GRNST,GRNST,GENERICRPT
 PS_W_ON.US,Wheat On Farm Storage United States Prior Year,GRNST,GRNST,GENERICRPT
 US_W_ON.WA,Wheat On Farm Storage Washington,GRNST,GRNST,GENERICRPT
 PS_W_ON.WA,Wheat On Farm Storage Washington Prior Year,GRNST,GRNST,GENERICRPT
+US_W_TOT.AZ,Wheat Total Storage Arizona,GRNST,GRNST,GENERICRPT
 US_W_TOT.AR,Wheat Total Storage Arkansas,GRNST,GRNST,GENERICRPT
 PS_W_TOT.AR,Wheat Total Storage Arkansas Prior Year,GRNST,GRNST,GENERICRPT
 US_W_TOT.CA,Wheat Total Storage California,GRNST,GRNST,GENERICRPT
