@@ -1675,7 +1675,6 @@ EURNAD.DRES,Euro vs Namibia Dollar - Dresdner Kleinwort,TENFORE,TENFORE,FOREX
 EURNPR.COMP,Euro vs Nepalese Rupee - Composite Symbol,TENFORE,TENFORE,FOREX
 EURNPR.DRES,Euro vs Nepalese Rupee - Dresdner Kleinwort,TENFORE,TENFORE,FOREX
 EURANG.COMP,Euro vs Netherlands Antillean Guilder - Composite Symbol,TENFORE,TENFORE,FOREX
-EURANG.DRES,Euro vs Netherlands Antillean Guilder - Dresdner Kleinwort,TENFORE,TENFORE,FOREX
 EURANG.EUAM,Euro vs Netherlands Antillean Guilder - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 EURSTN.COMP,Euro vs New Dobra - Composite Symbol,TENFORE,TENFORE,FOREX
 EURSTN.DRES,Euro vs New Dobra - Dresdner Kleinwort,TENFORE,TENFORE,FOREX
@@ -3066,8 +3065,8 @@ NPRGBP.COMP,Nepalese Rupee vs Pound Sterling - Composite Symbol,TENFORE,TENFORE,
 NPRGBP.EUAM,Nepalese Rupee vs Pound Sterling - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 NPRUSD.COMP,Nepalese Rupee vs US Dollar - Composite Symbol,TENFORE,TENFORE,FOREX
 NPRUSD.EUAM,Nepalese Rupee vs US Dollar - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
-ANGEUR.COMP,Netherlands Antillean Guilder vs Euro - Composite Symbol,TENFORE,TENFORE,FOREX
-ANGEUR.EUAM,Netherlands Antillean Guilder vs Euro - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
+ANGEUR.COMP,Netherlands Antillean Guilder vs Euro - Composite Symbol [CALC],TENFORE,TENFORE,FOREX
+ANGEUR.EUAM,Netherlands Antillean Guilder vs Euro - TenforeX Synthetic Symbol [CALC],TENFORE,TENFORE,FOREX
 ANGGBP.COMP,Netherlands Antillean Guilder vs Pound Sterling - Composite Symbol,TENFORE,TENFORE,FOREX
 ANGGBP.EUAM,Netherlands Antillean Guilder vs Pound Sterling - TenforeX Synthetic Symbol,TENFORE,TENFORE,FOREX
 ANGSRD.COMP,Netherlands Antillean Guilder vs Surinamese Dollar - Composite Symbol,TENFORE,TENFORE,FOREX
